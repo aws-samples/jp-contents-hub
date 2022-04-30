@@ -131,10 +131,10 @@ TODO UPDATE
 - [AWS IoT Core 初級ハンズオン](https://catalog.us-east-1.prod.workshops.aws/workshops/b3e0b830-79b8-4c1d-8a4c-e10406600035/ja-JP)
     - AWS IoT Core の基本的な機能や、他のAWSサービスとの連携方法、デバイス側でのSDKや証明書の使い方など、IoTデバイスからAWSへ接続、データをアップロードし、活用するための手順を一通り学ぶことができます。
     - Tag : AWS IoT Core, Amazon Kinesis Data Streams, Amazon OpenSearch Service, Amazon Kinesis Data Firehose
-- [AWS IoT Device Defenderハンズオン](https://catalog.us-east-1.prod.workshops.aws/workshops/90cbb951-dbf8-4f66-b994-c74072f2232c/ja-JP)
+- [AWS IoT Device Defender ハンズオン](https://catalog.us-east-1.prod.workshops.aws/workshops/90cbb951-dbf8-4f66-b994-c74072f2232c/ja-JP)
     - AWS IoT Device Defenderでは、決められた内容を監査する仕組みと、メトリックスを元に、デバイスの挙動を判定する仕組みがあります。<br/>このハンズオンでは、両方の仕組みを体験できる内容となっており、増えていくデバイスの設定がゆるくなってしまったことを検出したり、複数の条件を満たすような挙動をしているデバイスを検出する方法について体験していただくことが出来ます。
     - Tag : AWS IoT Device Defender, AWS IoT Core, AWS IoT Device Management
-- [AWS IoT Events初級ハンズオン](https://catalog.us-east-1.prod.workshops.aws/workshops/4ae2dd76-c365-42e4-b66b-ed475363d562/ja-JP)
+- [AWS IoT Events 初級ハンズオン](https://catalog.us-east-1.prod.workshops.aws/workshops/4ae2dd76-c365-42e4-b66b-ed475363d562/ja-JP)
     - このハンズオンでは AWS IoT Eventsを導入するにあたり、GUIで構築する検知器の作成方法について、実際に手を動かしながら2時間程度で学ぶことができます。ハンズオンでは擬似的なデバイスとしてCloud9を利用しますので、ブラウザがあればすぐにでもこのハンズオンを試すことが出来ます。このハンズオンを体験することで、基本的な使い方を理解し、デバイスの接続状況の監視を行う仕組みを簡単に作成することができます。
     - Tag : AWS IoT Events, AWS IoT Core
 
