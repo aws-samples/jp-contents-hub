@@ -35,7 +35,7 @@ This document lists Amazon Web Service Japanese workshops and hands-on contents.
 - [Quantum Technologies](#Quantum-Technologies)
 - [Robotics](#Robotics)
 - [Satellite](#Satellite)
-- [Security, Identity, & Compliance](#Security,-Identity,--Compliance)
+- [Security, Identity, & Compliance](#Security-Identity--Compliance)
 - [Storage](#Storage)
 
 
