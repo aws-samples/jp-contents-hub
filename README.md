@@ -14,7 +14,7 @@ This document lists Amazon Web Service Japanese workshops and hands-on contents.
 
 - [Analytics](#Analytics)
 - [Application Integration](#Application-Integration)
-- [AR & VR](#AR-&amp;-VR)
+- [AR & VR](#AR--VR)
 - [AWS Cost Management](#AWS-Cost-Management)
 - [Blockchain](#Blockchain)
 - [Business Applications](#Business-Applications)
