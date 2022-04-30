@@ -24,18 +24,18 @@ This document lists Amazon Web Service Japanese workshops and hands-on contents.
 - [Database](#Database)
 - [Developer Tools](#Developer-Tools)
 - [End User Computing](#End-User-Computing)
-- [Front-end Web & Mobile](#Front-end-Web-&-Mobile)aaa
+- [Front-end Web & Mobile](#Front-end-Web--Mobile)
 - [Game Development](#Game-Development)
 - [Internet of Things](#Internet-of-Things)
 - [Machine Learning](#Machine-Learning)
-- [Management & Governance](#Management-&-Governance)aaaa
+- [Management & Governance](#Management--Governance)
 - [Media Services](#Media-Services)
-- [Migration & Transfer](#Migration-&-Transfer)aaaa
-- [Networking & Content Delivery](#Networking-&-Content-Delivery)aaaaa
+- [Migration & Transfer](#Migration--Transfer)
+- [Networking & Content Delivery](#Networking--Content-Delivery)
 - [Quantum Technologies](#Quantum-Technologies)
 - [Robotics](#Robotics)
 - [Satellite](#Satellite)
-- [Security, Identity, & Compliance](#Security,-Identity,-&-Compliance)aaaa
+- [Security, Identity, & Compliance](#Security,-Identity,--Compliance)
 - [Storage](#Storage)
 
 
