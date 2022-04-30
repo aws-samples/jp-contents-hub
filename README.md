@@ -126,7 +126,7 @@ TODO UPDATE
 
 ## Game Development
 
-| サービス名      | タイトル                                                     | 説明                                                         |
+| <div style="width:290px">サービス名</div>      | タイトル                                                     | 説明                                                         |
 | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Amazon GameLift | [Amazon GameLift Realtime Server Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/bccf7c14-8f6f-441b-a4ff-fd6a2b402892/ja-JP) | このワークショップでは、Unity と Amazon GameLift Realtime Server を利用して、サンプルのマルチプレイヤーゲームの開発を体験できます。 |
 | Amazon EC2      | [Game Development on AWS Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/1f1e1c90-886b-47c7-a5bd-cb6fb26a3c37/ja-JP) | このWorkshopでは、AWS上でのゲーム開発を実際に体験し、構成を確認したり改変を行います。Jenkins をつかった CI/CD パイプライン、Perforce を使ったリポジトリ、NICE DVC を使ったワークステーション、ビルド用インスタンスをつかいながら、Unreal Engine 4 の開発を体験できます。 |
