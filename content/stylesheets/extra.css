@@ -7,3 +7,7 @@
 .md-typeset ul li p {
     margin: 2.0em 0 !important;
 }
+
+.md-typeset ul li {
+    margin: 2.0em !important;
+}

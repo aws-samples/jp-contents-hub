@@ -8,7 +8,6 @@ Amazon Web Services(AWS) の 日本語ワークショップやハンズオンを
 - [Amazon Athena ACID transaction workshop](https://github.com/harunobukameda/Amazon-Athena-ACID-transcation/blob/main/Amazon%20Athena%20ACID%20transaction%20workshop.pdf)  
 Amazon Athena はサーバレスで S3 などのデータに対して SQL クエリーが発行可能なインタラクティブな分析サービスです。新しく ACID トランザクションをサポートし、 INSERT, DELETE, UPDATE, 過去のデータに対してクエリーが発行可能なタイムトラベルクエリに対応しました。この新機能を体験頂くワークショップです。  
 Tag : Amazon Athena  
-
 - [title](URL)  
 AWS Elemental Media Services のハンズオンです。 このコンテンツではよくあるユースケースに沿って、手を動かしながらライブストリーミング（Live Straeming）配信、ビデオオンデマンド（VOD）配信の基本を学習いただけます。  
 Tag : AWS Elemental MediaLive, AWS Elemental MediaPackage, AWS Elemental MediaStore, AWS Elemental MediaTailor, AWS Elemental MediaConvert, Amazon CloudFront  
