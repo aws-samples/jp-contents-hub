@@ -4,7 +4,7 @@ Amazon Web Services(AWS) の 日本語ワークショップやハンズオンを
 右側の目次や、ヘッダー部分の検索ボックスから、各コンテンツにたどり着けます。  
 また、Ctrl + F や command + F を使ったページ内検索もご活用いただけます。
 
-## Analytics
+## ![image]([img/Arch-Category_Analytics_16.png]()) Analytics 
 - [Amazon Athena ACID transaction workshop](https://github.com/harunobukameda/Amazon-Athena-ACID-transcation/blob/main/Amazon%20Athena%20ACID%20transaction%20workshop.pdf)  
 Amazon Athena はサーバレスで S3 などのデータに対して SQL クエリーが発行可能なインタラクティブな分析サービスです。新しく ACID トランザクションをサポートし、 INSERT, DELETE, UPDATE, 過去のデータに対してクエリーが発行可能なタイムトラベルクエリに対応しました。この新機能を体験頂くワークショップです。  
 Tag : Amazon Athena  
@@ -12,46 +12,46 @@ Tag : Amazon Athena
 AWS Elemental Media Services のハンズオンです。 このコンテンツではよくあるユースケースに沿って、手を動かしながらライブストリーミング（Live Straeming）配信、ビデオオンデマンド（VOD）配信の基本を学習いただけます。  
 Tag : AWS Elemental MediaLive, AWS Elemental MediaPackage, AWS Elemental MediaStore, AWS Elemental MediaTailor, AWS Elemental MediaConvert, Amazon CloudFront  
 
-## Application Integration
+## ![image]([img/Arch-Category_Application-Integration_16.png]()) Application Integration
 TODO UPDATE
 
-## AR & VR
+## ![image]([img/Arch-Category_VR-AR_16.png]()) AR & VR
 TODO UPDATE
 
-## AWS Cost Management
+## ![image]([img/Arch-Category_Cloud-Financial-Management_16.png]())AWS Cost Management
 TODO UPDATE
 
-## Blockchain
+## ![image]([img/Arch-Category_Blockchain_16.png]()) Blockchain
 TODO UPDATE
 
-## Business Applications
+## ![image]([img/Arch-Category_Business-Applications_16.png]()) Business Applications
 TODO UPDATE
 
-## Compute
+## ![image]([img/Arch-Category_Compute_16.png]()) Compute
 
 - [スケーラブルウェブサイト構築ハンズオン](https://catalog.us-east-1.prod.workshops.aws/workshops/47782ec0-8e8c-41e8-b873-9da91e822b36/)  
 AWS 上 でスケーラブルな Web システムの構築を体験するハンズオンです。WordPress を EC2 で稼働しながら、スケーラブルな構成を体験できます。  
 Tag : Amazon EC2, Amazon RDS, Elastic Load Balancing(ELB)
 
-## Containers
+## ![image]([img/Arch-Category_Containers_16.png]()) Containers
 TODO UPDATE
 
-## Customer Enablement
+## ![image]([img/Arch-Category_Customer-Enablement_16.png]()) Customer Enablement
 TODO UPDATE
 
-## Database
+## ![image]([img/Arch-Category_Database_16.png]()) Database
 TODO UPDATE
 
-## Developer Tools
+## ![image]([img/Arch-Category_Developer-Tools_16.png]()) Developer Tools
 TODO UPDATE
 
-## End User Computing
+## ![image]([img/Arch-Category_End-User-Computing_16.png]()) End User Computing
 TODO UPDATE
 
-## Front-end Web & Mobile
+## ![image]([img/Arch-Category_Front-End-Web-Mobile_16.png]()) Front-end Web & Mobile
 TODO UPDATE
 
-## Game Development
+## ![image]([img/Arch-Category_Game-Tech_16.png]()) Game Development
 - [Amazon GameLift Realtime Server Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/bccf7c14-8f6f-441b-a4ff-fd6a2b402892/ja-JP)  
 このワークショップでは、Unity と Amazon GameLift Realtime Server を利用して、サンプルのマルチプレイヤーゲームの開発を体験できます。  
 Tag : Amazon GameLift  
@@ -60,7 +60,7 @@ Tag : Amazon GameLift
 Tag : Game Development, Amazon EC2  
 
 
-## Internet of Things
+## ![image]([img/Arch-Category_Internet-of-Things_16.png]()) Internet of Things
 - [AWS IoT Core 初級ハンズオン](https://catalog.us-east-1.prod.workshops.aws/workshops/b3e0b830-79b8-4c1d-8a4c-e10406600035/ja-JP)  
 AWS IoT Core の基本的な機能や、他のAWSサービスとの連携方法、デバイス側でのSDKや証明書の使い方など、IoTデバイスからAWSへ接続、データをアップロードし、活用するための手順を一通り学ぶことができます。  
 Tag : AWS IoT Core, Amazon Kinesis Data Streams, Amazon OpenSearch Service, Amazon Kinesis Data Firehose  
@@ -71,43 +71,45 @@ Tag : AWS IoT Device Defender, AWS IoT Core, AWS IoT Device Management
 このハンズオンでは AWS IoT Eventsを導入するにあたり、GUIで構築する検知器の作成方法について、実際に手を動かしながら2時間程度で学ぶことができます。ハンズオンでは擬似的なデバイスとしてCloud9を利用しますので、ブラウザがあればすぐにでもこのハンズオンを試すことが出来ます。このハンズオンを体験することで、基本的な使い方を理解し、デバイスの接続状況の監視を行う仕組みを簡単に作成することができます。  
 Tag : AWS IoT Events, AWS IoT Core  
 
-## Machine Learning
+## ![image]([img/Arch-Category_Machine-Learning_16.png]()) Machine Learning
 - [AWS DeepRacer Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/03f7e662-e3b1-4c5b-8fbe-b6af0c00c7b2/ja-JP)  
 AWS DeepRacer の強化学習モデルを作る方法を学ぶハンズオンです。AWS DeepRacer について理解し、タイムトライアルモデルを作成・改善する方法を体験できます。  
 Tag : AWS DeepRacer  
 
-## Management & Governance
+## ![image]([img/Arch-Category_Management-Governance_16.png]()) Management & Governance
 - [Systems Manager & QuickSight ハンズオン](https://catalog.us-east-1.prod.workshops.aws/workshops/b97f7cb6-0ec4-41c7-97ea-c4156f4f1e0d/ja-JP)  
 このハンズオンでは Amazon EC2 インスタンスを作成し、これに含まれるソフトウェア構成情報を AWS Systems Manager (SSM) を用いて収集、さらに Amazon QuickSight での可視化を行います。  
 Tag : AWS Systems Manager (SSM), Amazon QuickSight  
 
-## Media Services
+## ![image]([img/Arch-Category_Media-Services_16.png]()) Media Services
 - [AWSで動画配信をはじめよう](https://aws-mediaservices-jp.workshop.aws/introduction.html)  
 AWS Elemental Media Services のハンズオンです。 このコンテンツではよくあるユースケースに沿って、手を動かしながらライブストリーミング（Live Straeming）配信、ビデオオンデマンド（VOD）配信の基本を学習いただけます。  
 Tag : AWS Elemental MediaLive, AWS Elemental MediaPackage, AWS Elemental MediaStore, AWS Elemental MediaTailor, AWS Elemental MediaConvert, Amazon CloudFront  
 
-## Migration & Transfer
+## ![image]([img/Arch-Category_Migration-Transfer_16.png]()) Migration & Transfer
 
-## Networking & Content Delivery
+## ![image]([img/Arch-Category_Networking-Content-Delivery_16.png]()) Networking & Content Delivery
 - [AWS Client VPN Basic ハンズオン](https://catalog.us-east-1.prod.workshops.aws/workshops/be2b90c2-06a1-4ae6-84b3-c705049d2b6f/ja-JP/)  
 このハンズオンでは、AWS Client VPN を用いた様々な構成を体験することができます  
 Tag : AWS Client VPN  
 
-## Quantum Technologies
+## ![image]([img/Arch-Category_Quantum-Technologies_16.png]()) Quantum Technologies
 
-## Robotics
+## ![image]([img/Arch-Category_Robotics_16.png]()) Robotics
 
 ## SAP
 
-## Satellite
+## ![image]([img/Arch-Category_Satellite_16.png]()) Satellite
 
-## Security, Identity, & Compliance
+## ![image]([img/Arch-Category_Security-Identity-Compliance_16.png]()) Security, Identity, & Compliance
 
-## Storage
+## ![image]([img/Arch-Category_Storage_16.png]()) Storage
 
-## VMware
+## ![image]([img/Arch_VMware-Cloud-on-AWS_32.png]()) VMware
 
-## Template
+<!---
+## ![image]([img/.png]()) Template
 - [title](URL)  
 AWS Elemental Media Services のハンズオンです。 このコンテンツではよくあるユースケースに沿って、手を動かしながらライブストリーミング（Live Straeming）配信、ビデオオンデマンド（VOD）配信の基本を学習いただけます。  
 Tag : AWS Elemental MediaLive, AWS Elemental MediaPackage, AWS Elemental MediaStore, AWS Elemental MediaTailor, AWS Elemental MediaConvert, Amazon CloudFront  
+-->

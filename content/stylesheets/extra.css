@@ -11,3 +11,8 @@
 .md-typeset ul li {
     margin: 2.0em !important;
 }
+
+.md-typeset img {
+    vertical-align: middle;
+    margin-right: 1%;
+}
