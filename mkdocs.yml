@@ -1,0 +1,38 @@
+site_name: JP Contents Hub
+docs_dir: "content"
+nav:
+  - AWS 日本語ワークショップ: index.md
+theme:
+  name: material
+  custom_dir: overrides
+  # language は ja を指定しないほうが検索精度が良い
+  # language: "ja"
+  features:
+    - search.highlight
+    - search.suggest
+    # - navigation.tabs
+    - toc.integrate
+    - navigation.top
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+extra_css:
+  - stylesheets/extra.css
+extra:
+  generator: false
+plugins:
+  - search:
+      separator: '[\s\-\.\,\(\)　、。，．がのをにへとでやかもるな「」『』・]+'
+      lang:
+        - ja
+        - en
