@@ -36,3 +36,5 @@ plugins:
       lang:
         - ja
         - en
+markdown_extensions:
+  - attr_list
