@@ -35,7 +35,7 @@ Tag : AWS Glue Studio
 
 - [AWS Meter Data Analytics (MDA): メーターデータからの洞察の獲得](https://catalog.us-east-1.prod.workshops.aws/workshops/36ef6487-da25-4aa2-96f8-1b36a0896a49/ja-JP/){target=_blank}  
 AWS Meter Data Analytics Quick Start をベースに活用し、メーターデータ分析プラットフォームの活用方法を体験いただけます。  
-Tag : AWS Glue, Amazon Athena, AWS Amplify, AWS Step Functions, 
+Tag : AWS Glue, Amazon Athena, AWS Amplify, AWS Step Functions
 
 - [AWS での Utility Meter Data Analytics](https://aws.amazon.com/jp/quickstart/architecture/utility-meter-data-analytics-platform/){target=_blank}  
 機械学習 (ML) を使用して、スマートユーティリティメーターからのデータの分析に役立つプラットフォームを体験いただけます。  
@@ -59,7 +59,7 @@ Tag : AWS Hands-on for Begginners, Amazon Redshift, Amazon QuickSight
 
 - [データレイクハンズオン](https://github.com/aws-samples/amazon-s3-datalake-handson/tree/master/JP){target=_blank}  
 幅広いデータソースからの構造化データまたは非構造化データの集中リポジトリとして使用できる Data Lake は、データの保存と分析の方法として多くの企業に取り入れられています。このハンズオンでは、AWS のビッグデータ関連サービスを使用して実際に分析パイプラインを構築することを通して、 Data Lake とビッグデータ分析基盤構築の実感を持って頂くことをゴールとしています。  
-Tag : Amazon QuickSight, Amazon Athena, AWS Glue, Amazon Kinesis Data Firehose, Amazon Redshift, Amazon OpenSearch Service, fluentd
+Tag : Amazon QuickSight, Amazon Athena, AWS Glue, Amazon Kinesis Data Firehose, Amazon Redshift, Amazon OpenSearch Service, Fluentd
 
 - [QuickSight ワークショップ](https://catalog.us-east-1.prod.workshops.aws/workshops/6aab407b-07d0-4a14-8a16-8ffac2f625b8/ja-JP/){target=_blank}  
 QuickSight の埋め込み方法を学習頂けるワークショップです。  
@@ -94,117 +94,153 @@ Amazon Quantum Ledger Database (QLDB) はフルマネージド型の台帳デー
 Tag : Amazon QLDB
 
 ## ![image]([img/Arch-Category_Business-Applications_16.png]()) Business Applications
+- [Amazon Connect Basic Handson](https://dcj71ciaiav4i.cloudfront.net/6752E8D0-744E-11EB-B5EA-0FAE49A3E43C/){target=_blank}  
+このワークショップは、Amazon Connectに初めて触る方を対象に、簡単なコンタクトセンターシステムを構築して、設定方法を体感いただくことを目的としています。  
+Tag : Amazon Connect  
+
 - [Amazon Connect による基本的なコンタクトセンター構築](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Amazon-Connect-2021-reg-event.html?trk=aws_introduction_page){target=_blank}  
 Amazon Connect を利用したコンタクトセンターの構築・利用方法をを学んでいただき、実際に基本的なコンタクトセンターの構築を行います。  
-Tag : Amazon Connect
+Tag : Amazon Connect  
+
+- [Amazon Connect Bootcamp](https://dcj71ciaiav4i.cloudfront.net/C0E944B0-ED58-11EB-9CB8-0BD8579425D1/){target=_blank}  
+このワークショップでは、Amazon Connectおよび関連するAWSのサービスを段階的に構築することで、コンタクトセンターのユースケースに基づいて機能を実装する手順を体験します。   
+Tag : Amazon Connect, AWS Lambda, Amazon DynamoDB, Amazon Lex  
+
+- [Amazon Connect CallBack Requester Hanson](https://dcj71ciaiav4i.cloudfront.net/2221C890-DC17-11EB-8F4E-4F5B1928BF72/){target=_blank}  
+このワークショップでは、Amazon Pinpoint、AWS Lambda、Amazon Connectを使用して、顧客からのSMSリクエストに応じて、透過的に顧客を電話コールバックのキューに入れる方法を体験します。これにより、ユーザーはエージェントに電話をかけてもらうようにSMSで依頼するだけで、次のエージェントが空き次第、システムが自動的に顧客へ電話を発信します。  
+Tag : Amazon Connect, Amazon Pinpoint, AWS Lambda  
 
 - [Amazon Connect ハンズオン](https://github.com/harunobukameda/Amazon-Connect-Handson/blob/master/connecthandson%20.zip){target=_blank}  
 このハンズオンでは、Amazon Connect の基本的な使い方を学習できます。リンクににある Download ボタンから、zip ファイルをダウンロードして学習を進められます。  
-Tag : Amazon Connect
+Tag : Amazon Connect  
 
 - [Contact Lens for Amazon Connect workshop](https://github.com/harunobukameda/Contact-Lens-for-Amazon-Connect/blob/main/Contact%20Lens%20for%20Amazon%20Connect%20workshop.pdf){target=_blank}  
 クラウド型コンタクトセンターサービスである Amazon Connect で、Contact Lens の機能を使い、お客様の感情分析を体験できるワークショップです。  
-Tag : Amazon Connect
+Tag : Amazon Connect  
+
+- [Amazon Connect Customer Profiles Workshop](https://catalog.workshops.aws/amazon-connect-profiles/ja-JP){target=_blank}  
+このワークショップでは、エージェントが効率的でパーソナライズされたカスタマーサービスを提供できるように、Salesforce などの外部アプリケーションの情報と Amazon Connect のコンタクト履歴を組み合わせることにより、Customer Profilesがエージェントが必要となる情報を提供できることを体験します。  
+Tag : Amazon Connect, Salesforce, Zendesk, Marketo, ServiceNow, Segment, Shopify  
+
+- [Amazon Connect Customer Voice ID Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/ed3fc8e1-cb23-4bce-b2f3-a2bfeaa3aa7d/ja-JP){target=_blank}  
+このワークショップでは、一連のハンズオンラボを通してAmazon Connect Voice ID をセットアップする方法を学習し、通話者の声で認証あるいは詐欺師を検出し、Amazon Connect Voice ID のさまざまな機能を探ります。  
+Tag : Amazon Connect  
+
+- [Amazon Connect Dive Deep Training](https://dcj71ciaiav4i.cloudfront.net/95511DB0-03C3-11EC-987F-DD6A7ED7D037/){target=_blank}  
+このワークショップは、Amazon ConnectのBasic HandsonやBootcampを体験した方を対象に、コンタクトセンターに必要となる様々な機能を、関連するAWSサービスやSaaSサービスと連携して実現することにより顧客体験/従業員体験を向上させる方法を学びます。  
+Tag : Amazon Connect, Amazon Lex, Amazon Transcribe, Amazon Comprehend, Amazon Translate  
+
+- [Amazon Connect Tasks Enablement Workshop](https://catalog.workshops.aws/amazon-connect-tasks/ja-JP){target=_blank}  
+このワークショップでは、Amazon Connect Tasksを設定し、特定のシナリオに基づいて動作確認することで、Tasksのユースケースを体験します。  
+Tag : Amazon Connect  
+
+- [Contact Lens for Amazon Connect Workshop](https://catalog.workshops.aws/amazon-connect-contact-lens/ja-JP){target=_blank}  
+このワークショップでは、クラウドベースのコールセンターを設定する方法を学びます。また、Contact Lens for Amazon Connectにより通話に関するインサイトを得られるように設定します。  
+Tag : Amazon Connect  
+
+
 
 ## ![image]([img/Arch-Category_Compute_16.png]()) Compute
-- [スケーラブルウェブサイト構築ハンズオン](https://catalog.us-east-1.prod.workshops.aws/workshops/47782ec0-8e8c-41e8-b873-9da91e822b36/)  
+- [スケーラブルウェブサイト構築 ハンズオン](https://catalog.us-east-1.prod.workshops.aws/workshops/47782ec0-8e8c-41e8-b873-9da91e822b36/ja-JP){target=_blank}  
 AWS 上 でスケーラブルな Web システムの構築を体験するハンズオンです。WordPress を EC2 で稼働しながら、スケーラブルな構成を体験できます。  
-Tag : Amazon EC2, Amazon RDS, Elastic Load Balancing(ELB)
+Tag : Amazon EC2, Amazon RDS, Elastic Load Balancing(ELB)  
 
 - [スケーラブルウェブサイト構築編](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Scalable-2022-reg-event.html?trk=aws_introduction_page){target=_blank}  
 WordPress を使ったブログサイトの構築を通じて、スケーラブルな Web システム構築方法が学べます。主に取り扱う AWS サービスは Amazon EC2、Amazon RDS、ELB の3つです。  
-Tag : Amazon EC2, Amazon RDS, Elastic Load Balancing(ELB)
+Tag : Amazon EC2, Amazon RDS, Elastic Load Balancing(ELB)  
 
 - [Amazon EC2 Auto Scaling スケーリング基礎編](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Auto_Scaling-2021-reg-event.html?trk=aws_introduction_page){target=_blank}  
 Amazon EC2 Auto Scaling を利用したスケーリング設定方法、スケーリングの考え方、使い分けといったスケーリングの基礎を学ぶことができます。  
-Tag : Amazon EC2, Auto Scaling
+Tag : Amazon EC2, Auto Scaling  
 
 - [Amazon EC2 Inf1 Workshop](https://dcj71ciaiav4i.cloudfront.net/DF2C2C00-CD94-11EB-9681-5F0F8AE2FC7B/){target=_blank}  
 本ワークショップでは、AWS が設計、開発を行った AWS Inferentia 推論チップを搭載した Amazon EC2 Inf1 インスタンスを実際に体験して頂けます。  
-Tag : Amazon EC2, Inferentia
+Tag : Amazon EC2, Inferentia  
 
 - [AWS Nitro Enclaves Workshop](https://nitro-enclaves.workshop.aws/ja/){target=_blank}  
 機密性の高いデータを AWS Nitro Enclaves で処理する方法を学習します  
-Tag : Amazon EC2
+Tag : Amazon EC2  
 
 - [AWS 体験ハンズオン ～セキュア&スケーラブル ウェブサービス構築～](https://github.com/harunobukameda/Amazon-VPC---Amazon-EC2---Amazon-RDS-Handson/blob/master/AWS%E4%BD%93%E9%A8%93%E3%83%8F%E3%83%B3%E3%82%B9%E3%82%99%E3%82%AA%E3%83%B3%E3%80%9C%E3%82%BB%E3%82%AD%E3%83%A5%E3%82%A2%26%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%A9%E3%83%95%E3%82%99%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%95%E3%82%99%E3%82%B5%E3%83%BC%E3%83%92%E3%82%99%E3%82%B9%E6%A7%8B%E7%AF%89.pdf){target=_blank}  
 セキュアでスケーラブルなウェブサービスの構築手順を体験できるワークショップです。  
-Tag : Amazon EC2, Amazon VPC, Amazon RDS
-
-- [EC2 Image Builder ワークショップ](https://github.com/harunobukameda/EC2-Image-Builder/blob/main/EC2%20Image%20Builder%20Workshop.pdf){target=_blank}  
-AWS またはオンプレミスで使用するための仮想マシンとコンテナイメージの構築、テスト、およびデプロイを簡素化するサービスを体験いただけます。  
-Tag : Amazon EC2
+Tag : Amazon EC2, Amazon VPC, Amazon RDS  
 
 - [HPC on AWS Hands-On for AWS ParallelCluster](https://catalog.us-east-1.prod.workshops.aws/workshops/f2b80cb7-e073-4226-9256-41c3d68129c4/ja-JP/){target=_blank}  
 クラウド上に HPC 用クラスタ環境を構築できる AWS ParallelCluster のハンズオンです。AWS ParallelCluster によるクラスタ作成から、ジョブスケジューラと紐づいた計算ノードの自動スケール、HPCサンプルアプリケーションの実行等を行う内容を体験頂けます。  
-Tag : HPC, AWS ParallelCluster
+Tag : HPC, AWS ParallelCluster  
 
 - [HPC on AWS: AWS Batch](https://dcj71ciaiav4i.cloudfront.net/7D61D560-2032-11EC-A266-972BACDB6195/){target=_blank}  
 クラウド上で大規模な処理を行うための AWS Batch 入門です。マネージメントコンソール上で AWS Batch を利用する方法や、コンテナを自作してジョブを投げる方法を体験頂けます。  
-Tag : HPC, AWS Batch
+Tag : HPC, AWS Batch  
 
 - [HPC Workshop (Parallel Cluster/AWS Batch)](https://dcj71ciaiav4i.cloudfront.net/6D60A3C0-A51C-11EC-8797-DD307316E16B/){target=_blank}  
 HPC (High-Performance Computing) の環境を作って試す内容を学習できます。  
-Tag : HPC, AWS ParallelCluster, AWS Batch
+Tag : HPC, AWS ParallelCluster, AWS Batch  
 
-- [Workshop for AWS Academy (Cloud9/EC2/RDS/S3/SSM)](){target=_blank}  
+- [Workshop for AWS Academy (Cloud9/EC2/RDS/S3/SSM)](https://dcj71ciaiav4i.cloudfront.net/0667B2A0-115E-11EC-905E-29850FE3346B/){target=_blank}  
 踏み台環境・サーバ・データベース・オブジェクトストレージ を AWS 上で設定する内容を体験できます。  
-Tag : AWS Cloud9, Amazon EC2, Amazon S3, Amazon RDS, AWS Systems Manager
+Tag : AWS Cloud9, Amazon EC2, Amazon S3, Amazon RDS, AWS Systems Manager  
 
 - [Game Development on AWS Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/1f1e1c90-886b-47c7-a5bd-cb6fb26a3c37/ja-JP){target=_blank}  
 このWorkshopでは、AWS上でのゲーム開発を実際に体験し、構成を確認したり改変を行います。  
-Tag : Amazon EC2, Unreal Engine (UE4), Jenkins, Game
+Tag : Amazon EC2, Unreal Engine (UE4), Jenkins, Game  
+
+- [EC2 Image Builder ワークショップ](https://github.com/harunobukameda/EC2-Image-Builder/blob/main/EC2%20Image%20Builder%20Workshop.pdf){target=_blank}  
+AWS またはオンプレミスで使用するための仮想マシンとコンテナイメージの構築、テスト、およびデプロイを簡素化するサービスを体験いただけます。  
+Tag : Amazon EC2  
+
+
 
 ## ![image]([img/Arch-Category_Containers_16.png]()) Containers
 - [Amazon ECS 入門ハンズオン](https://catalog.us-east-1.prod.workshops.aws/workshops/7ffc4ed9-d4b3-44dc-bade-676162b427cd/ja-JP){target=_blank}  
-このハンズオンでは、コンテナイメージを作成して、AWS 上でコンテナを動かし、インターネットからアクセスする一連の流れを体験できます。  
-AWS のサービスの説明と一緒に、コンテナイメージの作成方法なども併せて紹介しており、初心者でもわかりやすいハンズオンを目指しています。学習の最初のステップとしてご活用いただけます。  
-Tag : Amazon ECS, AWS Fargate, Amazon ECR
+このハンズオンでは、コンテナイメージを作成して、AWS 上でコンテナを動かし、インターネットからアクセスする一連の流れを体験できます。  AWS のサービスの説明と一緒に、コンテナイメージの作成方法なども併せて紹介しており、初心者でもわかりやすいハンズオンを目指しています。学習の最初のステップとしてご活用いただけます。  
+Tag : Amazon ECS, AWS Fargate, Amazon ECR  
 
 - [Amazon Elastic Container Service 入門 コンテナイメージを作って動かしてみよう](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-ECS-2022-reg-event.html?trk=aws_introduction_page){target=_blank}  
 コンテナイメージを作成して、AWS 上でコンテナを動かし、インターネットからアクセスする一連の流れを体験できます。  
-Tag : Amazon ECS, AWS Fargate, Amazon ECR
-
-- [Amazon Elastic Kubernetes Service 上でのオープンソースモバイルコアネットワークの実装](https://aws.amazon.com/jp/blogs/news/open-source-mobile-core-network-implementation-on-amazon-elastic-kubernetes-service/){target=_blank}  
-オープンソースプロジェクト Open5gs を使用して 4G コアネットワークを構築するための実用的な実装ステップを学習いただけます。  
-Tag : Amazon EKS, Amazon DocumentDB
-
-- [AWS App Mesh & AWS Cloud Map ワークショップ](https://github.com/harunobukameda/AWS-App-Mesh-AWS-Cloud-Map/blob/main/AWS%20App%20Mesh.pdf){target=_blank}  
-App Mesh の基本的な動作を紹介し、アプリケーションのネットワーキングを提供するサービスメッシュを体験いただけます。  
-Tag : AWS App Mesh, AWS Cloud Map
-
-- [AWS App Runner ワークショップ](https://github.com/harunobukameda/AWS-App-Runner/blob/main/AWS%20App%20Runner%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf){target=_blank}  
-App Runner と GitHub を連携して、シンプルな Web アプリケーションをデプロイする方法を学習いただけます。  
-Tag : AWS App Runner
-
-- [AWS CI/CD for Amazon ECS ハンズオン](https://pages.awscloud.com/rs/112-TZM-766/images/AWS_CICD_ECS_Handson.pdf){target=_blank}  
-Amazon ECS を初めとした AWS サービスを活用して、コンテナによるマイクロサービス CI/CD をご体験いただけます。  
-Tag : Amazon ECS, AWS CodeCommit, AWS CodeBuild, AWS CodePipeline
-
-- [AWS Proton で ECS Fargate のアプリケーション実行環境を作ってみようハンズオン](https://github.com/harunobukameda/AWS-Proton-AWS-Fargate){target=_blank}  
-Proton は、アプリケーション開発に必要な AWS 環境、継続的インテグレーション/継続的デプロイパイプラインを開発者が様々なインタフェース、言語を意識することなく Proton 上から利用することができることに大きなメリットがあります。  
-本ハンズオンは、アプリケーション実行に必要な環境構築に責任をもつインフラエンジニア、アプリケーション開発に責任をもつ開発エンジニアとそれぞれの観点で作業を記載しています。それぞれの作業内容を理解し、Proton を実際に利用する時のイメージを持ってもらうことを目的としています。  
-Tag : AWS Proton, Amazon ECS, AWS Fargate
-
-- [Copilot Primer Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/d03316be-3c29-49db-8dc3-eb196c1778c9/ja-JP){target=_blank}  
-このワークショップでは、サンプルの TODO アプリ作成を通して Copilot の機能を体感できます。  
-Tag : AWS Copilot, Amazon ECS, CI/CD, AWS CodePipeline, AWS CodeCommit, AWS CodeBuild
+Tag : Amazon ECS, AWS Fargate, Amazon ECR  
 
 - [ECS Web Application ハンズオン](https://dcj71ciaiav4i.cloudfront.net/D74429F0-9E6B-11EB-A4F6-B1481EECB1E4/){target=_blank}  
 Ruby on Rails ウェブアプリケーションをコンテナ化し、ECS および Fargate を使ったアプリケーションの実行を体験できます。  
-Tag : Amazon ECS, AWS Fargate
+Tag : Amazon ECS, AWS Fargate  
 
 - [ECS Workshop - Cats and Dogs-](https://dcj71ciaiav4i.cloudfront.net/D0B5A980-C9FC-11EB-ABD7-3362918AE194/){target=_blank}  
- Amazon ECS や Fargate、さらには Docker コンテナの開発ワークフローにあまり馴染みのない方に最適なコンテンツを提供しています。    
-Tag : Amazon ECS, Amazon ECR, AWS FireLens, Container Insights, Auto Scaling 
+ Amazon ECS や Fargate、さらには Docker コンテナの開発ワークフローにあまり馴染みのない方に最適なコンテンツを提供しています。  
+Tag : Amazon ECS, Amazon ECR, AWS FireLens, Container Insights, Auto Scaling  
 
 - [Introduction to Amazon ECS](https://ecs-for-aws-summit-online.workshop.aws/){target=_blank}  
 このハンズオンではAmazon Elastic Container Service (Amazon ECS)を使って、コンテナ用のサーバーレスコンピューティング環境であるAWS Fargate上にサンプルWebアプリケーションをデプロイします。  
-Tag : Amazon ECS
+Tag : Amazon ECS  
 
 - [Introduction to Amazon EKS](https://eks-for-aws-summit-online.workshop.aws/){target=_blank}  
-このハンズオンでは、 Amazon Elastic Kubernetes Service (Amazon EKS) とクラスターの作成および管理のためのシンプルなコマンドラインユーティリティである eksctl を使用して、マネージドな Kubernetes クラスターを実行します。サンプル Web アプリケーションをビルドして Kuberneres クラスターにデプロイし、kubectl コマンドによる Kubernetes の操作と、Amazon EKS 上でのアプリケーションの実行を体験していただきます。  
-Tag : Amazon EKS
+このハンズオンでは、 Amazon Elastic Kubernetes Service (Amazon EKS) とクラスターの作成および管理のためのシンプルなコマンドラインユーティリティである eksctl を使用して、マネージドな Kubernetes クラスターを実行します。  サンプル Web アプリケーションをビルドして Kuberneres クラスターにデプロイし、kubectl コマンドによる Kubernetes の操作と、Amazon EKS 上でのアプリケーションの実行を体験していただきます。  
+Tag : Amazon EKS  
+
+- [AWS App Runner ワークショップ](https://github.com/harunobukameda/AWS-App-Runner/blob/main/AWS%20App%20Runner%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf){target=_blank}  
+App Runner と GitHub を連携して、シンプルな Web アプリケーションをデプロイする方法を学習いただけます。  
+Tag : AWS App Runner  
+
+- [AWS App Mesh & AWS Cloud Map ワークショップ](https://github.com/harunobukameda/AWS-App-Mesh-AWS-Cloud-Map/blob/main/AWS%20App%20Mesh.pdf){target=_blank}  
+App Mesh の基本的な動作を紹介し、アプリケーションのネットワーキングを提供するサービスメッシュを体験いただけます。  
+Tag : AWS App Mesh, AWS Cloud Map  
+
+- [AWS CI/CD for Amazon ECS ハンズオン](https://pages.awscloud.com/rs/112-TZM-766/images/AWS_CICD_ECS_Handson.pdf){target=_blank}  
+Amazon ECS を初めとした AWS サービスを活用して、コンテナによるマイクロサービス CI/CD をご体験いただけます。  
+Tag : Amazon ECS, AWS CodeCommit, AWS CodeBuild, AWS CodePipeline  
+
+- [Amazon Elastic Kubernetes Service 上でのオープンソースモバイルコアネットワークの実装](https://aws.amazon.com/jp/blogs/news/open-source-mobile-core-network-implementation-on-amazon-elastic-kubernetes-service/){target=_blank}  
+オープンソースプロジェクト Open5gs を使用して 4G コアネットワークを構築するための実用的な実装ステップを学習いただけます。  
+Tag : Amazon EKS, Amazon DocumentDB  
+
+- [AWS Proton で ECS Fargate のアプリケーション実行環境を作ってみようハンズオン](https://github.com/harunobukameda/AWS-Proton-AWS-Fargate){target=_blank}  
+Proton は、アプリケーション開発に必要な AWS 環境、継続的インテグレーション/継続的デプロイパイプラインを開発者が様々なインタフェース、言語を意識することなく Proton 上から利用することができることに大きなメリットがあります。  本ハンズオンは、アプリケーション実行に必要な環境構築に責任をもつインフラエンジニア、アプリケーション開発に責任をもつ開発エンジニアとそれぞれの観点で作業を記載しています。  それぞれの作業内容を理解し、Proton を実際に利用する時のイメージを持ってもらうことを目的としています。  
+Tag : AWS Proton, Amazon ECS, AWS Fargate  
+
+- [Copilot Primer Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/d03316be-3c29-49db-8dc3-eb196c1778c9/ja-JP){target=_blank}  
+このワークショップでは、サンプルの TODO アプリ作成を通して Copilot の機能を体感できます。  
+Tag : AWS Copilot, Amazon ECS, CI/CD, AWS CodePipeline, AWS CodeCommit, AWS CodeBuild  
+
+
 
 ## ![image]([img/Arch-Category_Customer-Enablement_16.png]()) Customer Enablement
 TODO UPDATE
