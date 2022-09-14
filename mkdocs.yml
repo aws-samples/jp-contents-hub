@@ -1,5 +1,6 @@
 site_name: JP Contents Hub
 docs_dir: "content"
+repo_url: https://github.com/aws-samples/jp-contents-hub
 nav:
   - AWS 日本語ワークショップ: index.md
 theme:
