@@ -5,6 +5,8 @@ nav:
   - AWS 日本語ワークショップ: index.md
 theme:
   name: material
+  icon:
+    repo: fontawesome/brands/github
   custom_dir: overrides
   # language は ja を指定しないほうが検索精度が良い
   # language: "ja"

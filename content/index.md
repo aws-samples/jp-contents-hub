@@ -233,6 +233,10 @@ tag : AWS Proton, Amazon ECS, AWS Fargate
 tag : AWS Copilot, Amazon ECS, CI/CD, AWS CodePipeline, AWS CodeCommit, AWS CodeBuild  
 
 ## ![image]([img/Arch-Category_Database_16.png]()) Database
+- [データベース移行ハンズオン](https://master.d1oy109z3xffu3.amplifyapp.com/){target=_blank}  
+データベースの移行に関するハンズオンです。3つの移行シナリオがあり、それぞれ体験頂けます。「Oracle Database から RDS for Oracle へ移行」「SQL Server から RDS for SQL Server へ移行」「Oracle Database から RDS for PostgreSQL へ移行」  
+tag : Amazon RDS, Oracle Database, SQL Server, PostgreSQL, DataPump, Schema Conversion Tool (SCT), AWS Database Migration Service (DMS)  
+
 - [Amazon Aurora Serverless v2 ワークショップ](https://github.com/harunobukameda/Aurora-Serverless-v2/blob/main/Amazon%20Aurora%20Serverless%20v2%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf){target=_blank}  
 Amazon Aurora Serverless v2 を触ってみるハンズオンです。  
 tag : Amazon Aurora Serverless v2  
