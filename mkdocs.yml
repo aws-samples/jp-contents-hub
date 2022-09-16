@@ -31,8 +31,13 @@ theme:
         name: Switch to light mode
 extra_css:
   - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
 extra:
   generator: false
+  analytics:
+    provider: google
+    property: G-CTN43YLDVC
 plugins:
   - search:
       separator: '[\s\-\.\,\(\)　、。，．がのをにへとでやかもるな「」『』・]+'
