@@ -6,6 +6,7 @@ Amazon Web Services(AWS) の 日本語ワークショップやハンズオンを
 
 ## ![image]([img/Arch-Category_Analytics_16.png]()) Analytics
 - [Amazon QuickSight のセルフハンズオンキット日本語版](https://aws.amazon.com/jp/blogs/news/amazon-quicksight-handson-202006/){target=_blank}  
+- <a href="https://aws.amazon.com/jp/blogs/news/amazon-quicksight-handson-202006/" target="_blank" onclick="OnLinkClick();">Amazon QuickSight のセルフハンズオンキット日本語版</a>  
 4 種類の QuickSight ハンズオンを学習いただけます。QuickSight の主要な可視化機能・ML インサイト・Webアプリケーションにダッシュボードを埋め込む方法などを学習いただけます。  
 tag : Amazon QuickSight, Amazon Athena  
 
