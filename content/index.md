@@ -4,6 +4,16 @@ Amazon Web Services(AWS) の 日本語ハンズオンやワークショップを
 右側の目次や、ヘッダー部分の検索ボックスから、各コンテンツにたどり着けます。  
 また、Ctrl + F や command + F を使ったページ内検索もご活用いただけます。
 
+!!! 料金について
+
+    ハンズオンで作成した AWS リソースは基本的に料金が発生します。作成したリソースの削除を忘れずにお願いします。
+    もし忘れてしまうと、想定外の費用が発生する可能性があります。
+
+!!! 画面の差異について
+
+    ハンズオンで紹介されている手順と、実際の操作方法に差異がある場合があります。AWS は随時アップデートされており、タイミングによってはハンズオンコンテンツが追いついていません。
+    もし差異があるときには、[AWS Document](https://docs.aws.amazon.com/ja_jp/index.html){target=_blank} などを活用しながら進めて頂けますと幸いです。
+
 ## ![image]([img/Arch-Category_Analytics_16.png]()) Analytics
 - <a href="https://aws.amazon.com/jp/blogs/news/amazon-quicksight-handson-202006/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon QuickSight のセルフハンズオンキット日本語版</a>  
 4 種類の QuickSight ハンズオンを学習いただけます。QuickSight の主要な可視化機能・ML インサイト・Webアプリケーションにダッシュボードを埋め込む方法などを学習いただけます。  
