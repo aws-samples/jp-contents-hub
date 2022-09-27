@@ -1,4 +1,5 @@
 site_name: JP Contents Hub
+site_description: AWS 日本語ハンズオンを一覧としてまとめたウェブサイトです。AWS サービスや機能を、実際に触ってみて学習を進められます。
 docs_dir: "content"
 repo_url: https://github.com/aws-samples/jp-contents-hub
 nav:

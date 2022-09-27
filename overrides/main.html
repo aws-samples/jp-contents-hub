@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block site_meta %}
+{{ super() }}
+
+{% set title = config.site_name %}
+{% set description = config.site_description %}
+{% set image = config.site_url ~ 'img/ogp.png' %}
+
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="og:title" content="{{ title }}">
+<meta name="twitter:title" content="{{ title }}">
+<meta property="og:description" content="{{ description }}">
+<meta name="twitter:description" content="{{ description }}">
+<meta property="og:image" content="{{ image }}">
+<meta name="twitter:image" content="{{ image }}">
+<meta property="og:url" content="{{ page.canonical_url }}">
+{% endblock %}
