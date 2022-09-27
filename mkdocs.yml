@@ -3,6 +3,7 @@ docs_dir: "content"
 repo_url: https://github.com/aws-samples/jp-contents-hub
 nav:
   - AWS 日本語ハンズオン: index.md
+  - 外部リンク: link.md
 theme:
   name: material
   icon:
