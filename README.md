@@ -1,8 +1,7 @@
 # はじめに
 
 JP Contents Hub は日本語のハンズオン一覧を掲載しているドキュメントです。
-GitHub Pages で公開されており、こちらの URL からご利用ください。
-URL Todo Update
+GitHub Pages で公開されており、こちらの [URL](https://aws-samples.github.io/jp-contents-hub/) からご利用ください。
 
 # Security
 
