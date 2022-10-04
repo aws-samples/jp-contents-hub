@@ -27,6 +27,10 @@ tag : AWS Hands-on for Begginners, Amazon Redshift, Amazon QuickSight
 Amazon Redshift Serverless は、エンタープライズレベルの機能・性能を持った分析用 データベースを、業務部門でも手軽に使うことのできるサービスです。Amazon Redshift Serverless を使って、Amazon S3 上にあるデータを取り込んで分析のためのクエリーを行う内容を体験できます。また、BI ツールの QuickSight を使って Amazon Redshift Serverless のデータを可視化する方法を学習頂けます。  
 tag : Amazon Redshift Serverless, Amazon QuickSight  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/26c005b2-b387-454a-b201-9b8f37f92f92/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon OpenSearch Service Intro Workshop</a>  
+Amazon OpenSearch Service は、オープンソースの全文検索エンジン OpenSearch および可視化・分析ツールの OpenSearch Dashboards を、安全かつスケーラブルな形で提供するマネージドサービスです。本ワークショップでは、OpenSearch の基礎から AWS サービスを組み合わせたシステムの構築まで、Amazon OpenSearch Service の使い方を理解し、今後の活用に役立てていただくための足がかりとなるような情報を提供します。  
+tag : Amazon OpenSearch Service  
+
 - <a href="https://github.com/aws-samples/amazon-s3-datalake-handson/tree/master/JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">データレイクハンズオン</a>  
 幅広いデータソースからの構造化データまたは非構造化データの集中リポジトリとして使用できる Data Lake は、データの保存と分析の方法として多くの企業に取り入れられています。このハンズオンでは、AWS のビッグデータ関連サービスを使用して実際に分析パイプラインを構築することを通して、 Data Lake とビッグデータ分析基盤構築の実感を持って頂くことをゴールとしています。  
 tag : Amazon QuickSight, Amazon Athena, AWS Glue, Amazon Kinesis Data Firehose, Amazon Redshift, Amazon OpenSearch Service, Fluentd  

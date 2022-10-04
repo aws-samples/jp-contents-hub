@@ -11,3 +11,8 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
+# 更新履歴
+## 2022-10-04
+ハンズオンコンテンツ 1件 追加  
+Amazon OpenSearch Service Intro Workshop  
+https://catalog.us-east-1.prod.workshops.aws/workshops/26c005b2-b387-454a-b201-9b8f37f92f92/ja-JP  
