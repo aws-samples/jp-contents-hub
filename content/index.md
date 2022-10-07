@@ -222,6 +222,10 @@ tag : Amazon ECS
 このハンズオンでは、 Amazon Elastic Kubernetes Service (Amazon EKS) とクラスターの作成および管理のためのシンプルなコマンドラインユーティリティである eksctl を使用して、マネージドな Kubernetes クラスターを実行します。  サンプル Web アプリケーションをビルドして Kuberneres クラスターにデプロイし、kubectl コマンドによる Kubernetes の操作と、Amazon EKS 上でのアプリケーションの実行を体験していただきます。  
 tag : Amazon EKS  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/a49e50ba-7473-4348-ba5d-6166385ad91d/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">コンテナ化のためのリファクタリング / リアーキテクティング ワークショップ</a>  
+このワークショップは、既存のアプリケーションをリファクタリング、リアーキテクティングし、コンテナ化していく流れをご体験いただくものです。このワークショップでは、 The Twelve-Factor App を参考にアプリケーションをリファクタリングしてコンテナ化したり、そのアプリケーションを Amazon Elastic Container Service (Amazon ECS)  の環境にデプロイしたりする体験を通して、コンテナ化に必要な知識や作業を一通り学ぶことができます。  
+tag : Amazon ECS, Amazon ECR, AWS Fargate, ElastiCache for Redis, Java, Tomcat  
+
 - <a href="https://github.com/harunobukameda/AWS-App-Runner/blob/main/AWS%20App%20Runner%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS App Runner ワークショップ</a>  
 App Runner と GitHub を連携して、シンプルな Web アプリケーションをデプロイする方法を学習いただけます。  
 tag : AWS App Runner  
@@ -632,6 +636,10 @@ tag : Amazon API Gateway, AWS PrivateLink, AWS Lambda, Amazon DynamoDB, Amazon G
 - <a href="https://dcj71ciaiav4i.cloudfront.net/DE7AE230-18E7-11EC-96D4-A3A8E3F74BCA/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">開発者のためのセキュリティ</a>  
 このワークショップでは、自分が構築したアプリケーション のセキュリティについて考える方法を学びます。一般的なセキュリティリスクと、ソフトウェアデリバリーに大きな影響を与えることなくアプリケーションを保護するために使用できるツールとテクニックについて説明します。  
 tag : OWASP Top 10,  静的アプリケーションセキュリティテスト (SAST), ソフトウェア構成解析 (SCA), 動的アプリケーションセキュリティテスト (DAST), セキュアコードレビュー  
+
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/a11f0f32-cc23-4c95-b243-43c53bdc7177/ja-JP/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Data Perimeter Workshop</a>  
+多くの組織で、お客様がオンプレミス環境で実現しているのと同じように、AWS環境でネットワークとアイデンティティの境界 (Perimeter) を構築したいと考えています。本ワークショップでは、AWSのお客様のリソースに対して境界を構築するためのいくつかのベストプラクティス、利用可能な AWS サービスや機能について紹介します。  
+tag : Session Manager, CloudTrail, Athena, データ境界コントロール  
 
 - <a href="https://d2h9aujg4hgxod.cloudfront.net/72704A00-FCD4-11EB-B3AC-898E20057A09/index.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">GuardDuty Workshop</a>  
 Amazon GuardDuty (マネージド型脅威検出サービス)を使用した脅威の検出と修復をカバーするシナリオについて説明します。このシナリオは、GuardDuty が検出できる脅威の一部を表す、いくつかの脅威ベクトルにまたがる攻撃をシミュレートします。さらに、GuardDuty の検出結果を表示および分析する方法、その結果に基づいてアラートを送信する方法、最後に検出結果に対する修復方法について説明します。  
