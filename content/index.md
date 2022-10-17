@@ -717,7 +717,7 @@ tag : AWS DataSync, AWS Storage Gateway, NFS
 
 - <a href="https://github.com/aws-samples/amazon-fsx-workshop/tree/master/file-gateway/JP/01-environment-overview" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon FSx File Gateway ワークショップ</a>  
 FSx File Gateway は、オンプレミス環境から、AWS 上の FSx for Windows File Server に低レイテンシーで効率的なアクセスを提供するサービスです。このハンズオンでは、FSx File Fateway の構成、ネットワークマウント、読み書き性能のパフォーマンス測定などを体験いただけます。  
-tag : Amazon FSx File Gateway,   
+tag : Amazon FSx File Gateway  
 
 ## ![image]([img/Arch_VMware-Cloud-on-AWS_16.png]()) VMware
 - <a href="https://catalog.workshops.aws/vmwarecloud/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">VMware Cloud on AWS Immersion Day</a>  
