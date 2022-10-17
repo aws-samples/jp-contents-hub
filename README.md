@@ -12,6 +12,11 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
+## 2022-10-17
+ハンズオンコンテンツ 1件 追加  
+Amazon Rekognition でつくるはじめてのAIアプリ  
+https://catalog.us-east-1.prod.workshops.aws/workshops/e2de5159-40ed-4a92-a039-487789960f11/ja-JP  
+
 ## 2022-10-07
 ハンズオンコンテンツ 2件 追加  
 Data Perimeter Workshop  
