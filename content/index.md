@@ -469,6 +469,10 @@ tag : Amazon Forecast
 Amazon Lex は、音声やテキストを使用した会話型インターフェイスをさまざまなアプリケーションに構築するための AWS のサービスです。Amazon Lex を使って、牛丼を注文する流れを構築できるハンズオンです。  
 tag : Amazon Lex  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/e2de5159-40ed-4a92-a039-487789960f11/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Rekognition でつくるはじめてのAIアプリ</a>  
+このハンズオンでは、Rekognitionを使ったAIアプリケーション構築を体験し、「AIサービスの概要と操作方法の理解」や「AIサービスをアプリケーションに組み込む方法」を理解いただくことが目的です。  
+tag : Amazon Rekognition, React  
+
 ## ![image]([img/Arch-Category_Management-Governance_16.png]()) Management & Governance
 - <a href="https://catalog.workshops.aws/observability/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">One Observability Workshop</a>  
 このワークショップは、AWS が提供するさまざまなツールセットで、アプリケーションの監視と監視をセットアップするための実践的な体験を提供することを目的としています。  
