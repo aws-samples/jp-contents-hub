@@ -13,9 +13,12 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 ## 2022-10-17
-ハンズオンコンテンツ 1件 追加  
+ハンズオンコンテンツ 2件 追加  
 Amazon Rekognition でつくるはじめてのAIアプリ  
 https://catalog.us-east-1.prod.workshops.aws/workshops/e2de5159-40ed-4a92-a039-487789960f11/ja-JP  
+
+Amazon QuickSight 埋め込みハンズオン  
+https://awsj-assets-qs.s3.ap-northeast-1.amazonaws.com/workshop/public/jp/index.html  
 
 ## 2022-10-07
 ハンズオンコンテンツ 2件 追加  

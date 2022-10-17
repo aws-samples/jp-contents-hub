@@ -35,6 +35,14 @@ tag : Amazon OpenSearch Service
 幅広いデータソースからの構造化データまたは非構造化データの集中リポジトリとして使用できる Data Lake は、データの保存と分析の方法として多くの企業に取り入れられています。このハンズオンでは、AWS のビッグデータ関連サービスを使用して実際に分析パイプラインを構築することを通して、 Data Lake とビッグデータ分析基盤構築の実感を持って頂くことをゴールとしています。  
 tag : Amazon QuickSight, Amazon Athena, AWS Glue, Amazon Kinesis Data Firehose, Amazon Redshift, Amazon OpenSearch Service, Fluentd  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/6aab407b-07d0-4a14-8a16-8ffac2f625b8/ja-JP/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">QuickSight ワークショップ</a>  
+QuickSight の埋め込み方法を学習頂けるワークショップです。  
+tag : Amazon QuickSight  
+
+- <a href="https://awsj-assets-qs.s3.ap-northeast-1.amazonaws.com/workshop/public/jp/index.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon QuickSight 埋め込みハンズオン</a>  
+マルチテナントで提供している Web サービスに QuickSight を埋め込む内容にフォーカスしたハンズオンです。ネームスペースやグループなどを活用した権限管理、ダッシュボードのテンプレートの展開方法などを学習いただけます。  
+tag : Amazon QuickSight  
+
 - <a href="https://dcj71ciaiav4i.cloudfront.net/B27AC3C0-2E0B-11EB-A818-F1507A734DA4/index.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Connected Vehicle Workshop</a>  
 このハンズオンでは、AWS サービスが Automotive のユースケースにどのように活用できるかについて、一連の手順で紹介します。今回はユースケースとして、車両をクラウドへ接続して、データの送受信、データの分析、データの可視化を体験していただきます。  
 tag : Amazon QuickSight, Amazon Athena, AWS IoT Core, Amazon Kinesis Firehose  
@@ -54,10 +62,6 @@ tag : Amazon Redshift, Amazon Athena, AWS Glue, SageMaker
 - <a href="https://dcj71ciaiav4i.cloudfront.net/322031A0-7CA9-11EB-8D02-B70DEDD8DFCB/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Glue DataBrew ハンズオン</a>  
 このハンズオンでは、AWS Glue DataBrew の基本的な機能を試すことができます。 サンプルデータを用いて、Amazon QuickSight での可視化までを一括で行います。  
 tag : AWS Glue DataBrew, Amazon QuickSight, Amazon Athena  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/6aab407b-07d0-4a14-8a16-8ffac2f625b8/ja-JP/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">QuickSight ワークショップ</a>  
-QuickSight の埋め込み方法を学習頂けるワークショップです。  
-tag : Amazon QuickSight  
 
 - <a href="https://github.com/harunobukameda/Amazon-Athena-ACID-transcation/blob/main/Amazon%20Athena%20ACID%20transaction%20workshop.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Athena ACID transaction workshop</a>  
 Amazon Athena はサーバレスで S3 などのデータに対して SQL クエリーが発行可能なインタラクティブな分析サービスです。新しく ACID トランザクションをサポートし、 INSERT, DELETE, UPDATE, 過去のデータに対してクエリーが発行可能なタイムトラベルクエリに対応しました。この新機能を体験頂くワークショップです。  
