@@ -12,6 +12,11 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
+## 2022-10-24
+ハンズオンコンテンツ 1件 追加  
+Amazon Athena Workshop :: ハンズオンラボ  
+https://catalog.us-east-1.prod.workshops.aws/workshops/9981f1a1-abdc-49b5-8387-cb01d238bb78/ja-JP  
+
 ## 2022-10-17
 ハンズオンコンテンツ 2件 追加  
 Amazon Rekognition でつくるはじめてのAIアプリ  
