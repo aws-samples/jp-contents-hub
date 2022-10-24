@@ -63,6 +63,10 @@ tag : Amazon Redshift, Amazon Athena, AWS Glue, SageMaker
 このハンズオンでは、AWS Glue DataBrew の基本的な機能を試すことができます。 サンプルデータを用いて、Amazon QuickSight での可視化までを一括で行います。  
 tag : AWS Glue DataBrew, Amazon QuickSight, Amazon Athena  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/9981f1a1-abdc-49b5-8387-cb01d238bb78/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Athena Workshop :: ハンズオンラボ</a>  
+サーバレスクエリエンジンである、 Amazon Athena の基本操作からFederated Query, UDF, Athena ML などの応用まで広く網羅したワークショップです。  
+tag : Amazon Athena  
+
 - <a href="https://github.com/harunobukameda/Amazon-Athena-ACID-transcation/blob/main/Amazon%20Athena%20ACID%20transaction%20workshop.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Athena ACID transaction workshop</a>  
 Amazon Athena はサーバレスで S3 などのデータに対して SQL クエリーが発行可能なインタラクティブな分析サービスです。新しく ACID トランザクションをサポートし、 INSERT, DELETE, UPDATE, 過去のデータに対してクエリーが発行可能なタイムトラベルクエリに対応しました。この新機能を体験頂くワークショップです。  
 tag : Amazon Athena  
