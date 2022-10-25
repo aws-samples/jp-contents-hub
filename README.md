@@ -12,6 +12,11 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
+## 2022-10-25
+ハンズオンコンテンツ 1件 追加  
+Amazon ECS マイクロサービス & CI/CD ハンズオン  
+https://dcj71ciaiav4i.cloudfront.net/CF2469D0-FE58-11EC-96B1-AB890FC54FAE/index.html  
+
 ## 2022-10-24
 ハンズオンコンテンツ 1件 追加  
 Amazon Athena Workshop :: ハンズオンラボ  

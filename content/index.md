@@ -234,6 +234,10 @@ tag : Amazon EKS
 このワークショップは、既存のアプリケーションをリファクタリング、リアーキテクティングし、コンテナ化していく流れをご体験いただくものです。このワークショップでは、 The Twelve-Factor App を参考にアプリケーションをリファクタリングしてコンテナ化したり、そのアプリケーションを Amazon Elastic Container Service (Amazon ECS)  の環境にデプロイしたりする体験を通して、コンテナ化に必要な知識や作業を一通り学ぶことができます。  
 tag : Amazon ECS, Amazon ECR, AWS Fargate, ElastiCache for Redis, Java, Tomcat  
 
+- <a href="https://dcj71ciaiav4i.cloudfront.net/CF2469D0-FE58-11EC-96B1-AB890FC54FAE/index.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon ECS マイクロサービス & CI/CD ハンズオン</a>  
+Amazon ECS 上で稼働するコンテナに対して、CI/CD パイプラインを構築する方法を学習頂けます。  
+tag : Amazon ECS, AWS CodeCommit, AWS CodeBuild, AWS CodePipeline  
+
 - <a href="https://github.com/harunobukameda/AWS-App-Runner/blob/main/AWS%20App%20Runner%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS App Runner ワークショップ</a>  
 App Runner と GitHub を連携して、シンプルな Web アプリケーションをデプロイする方法を学習いただけます。  
 tag : AWS App Runner  
