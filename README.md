@@ -12,6 +12,26 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
+## 2022-10-10
+ハンズオンコンテンツ 6件 追加  
+クラウドネイティブな自動車用ソフトウェア開発入門  
+https://catalog.us-east-1.prod.workshops.aws/workshops/12f31c93-5926-4477-996c-d47f4524905d/ja-JP  
+
+AWS CDK Workshop  
+https://cdkworkshop.com/ja/  
+
+Bablefish for Aurora Postgres ワークショップ  
+https://github.com/harunobukameda/Babelfish-for-Aurora-PostgreSQL/blob/main/Bablefish%20for%20Aurora%20Postgres%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf  
+
+IAM Roles Anywhere ワークショップ  
+https://github.com/harunobukameda/AWS-IAM-Roles-Anywhere-AWS-Certificate-Manager/blob/main/IAM%20Roles%20Anywhere.docx  
+
+Amazon WorkSpaces Web ワークショップ  
+https://github.com/harunobukameda/Amazon-WorkSpaces-Web/blob/main/WorkSpacesWeb.pdf  
+
+AWS Step Functions ワークショップ  
+https://github.com/harunobukameda/AWS-Step-Functions/blob/main/AWS%20Step%20Functions%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf  
+
 ## 2022-10-25
 ハンズオンコンテンツ 1件 追加  
 Amazon ECS マイクロサービス & CI/CD ハンズオン  

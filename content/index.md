@@ -262,6 +262,10 @@ tag : AWS Proton, Amazon ECS, AWS Fargate
 このワークショップでは、サンプルの TODO アプリ作成を通して Copilot の機能を体感できます。  
 tag : AWS Copilot, Amazon ECS, CI/CD, AWS CodePipeline, AWS CodeCommit, AWS CodeBuild  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/12f31c93-5926-4477-996c-d47f4524905d/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">クラウドネイティブな自動車用ソフトウェア開発入門</a>  
+本ワークショップでは、AWS Graviton インスタンス、Raspberry Pi および AVA Developer Platform というすべてのコンピュート要素において、コンテナ化した同一のワークロードを*環境パリティ*を保ちながら実行可能な、新しい Automotive-Native なソフトウェア開発用のインフラを紹介します。  
+tag : Amazon EC2, Graviton, CodeCommit, CodeBuild, CodePipeline, YOLO  
+
 ## ![image]([img/Arch-Category_Database_16.png]()) Database
 - <a href="https://master.d1oy109z3xffu3.amplifyapp.com/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">データベース移行ハンズオン</a>  
 データベースの移行に関するハンズオンです。3つの移行シナリオがあり、それぞれ体験頂けます。「Oracle Database から RDS for Oracle へ移行」「SQL Server から RDS for SQL Server へ移行」「Oracle Database から RDS for PostgreSQL へ移行」  
@@ -278,6 +282,10 @@ tag : RDS Proxy, AWS Lambda
 - <a href="https://github.com/harunobukameda/Amazon-Neptune/blob/master/handson.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Neptune グラフデータ可視化ハンズオン</a>  
 Amazon Neptune は、マネージド型のグラフデータベースサービスです。このハンズオンでは、データの間の関連性を Neptune 上で紐づけながら、Web サイト上で関連性を可視化する内容を体験いただけます。  
 tag : Amazon Neptune  
+
+- <a href="https://github.com/harunobukameda/Babelfish-for-Aurora-PostgreSQL/blob/main/Bablefish%20for%20Aurora%20Postgres%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Babelfish for Aurora Postgres ワークショップ</a>  
+Babelfish for Aurora PostgreSQL は、Amazon Aurora PostgreSQL 互換エディションの新機能であり、Aurora が Microsoft SQL Server 用に作成されたアプリケーションからのコマンドを理解できるようにします。Babelfish for Aurora PostgreSQL を学習頂けるワークショップです。  
+tag : Babelfish for Aurora PostgreSQL  
 
 ## ![image]([img/Arch-Category_Developer-Tools_16.png]()) Developer Tools
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-cicd-2020-reg-event-LP.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Code サービス群を活用して、CI/CD のための構成を構築しよう！</a>  
@@ -296,6 +304,10 @@ tag : Amazon WorkSpaces
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/e324c13e-2ded-4da2-ad9c-f685305156ac/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon AppStream 2.0 入門</a>  
 このラボでは、AWS 上で動作するフルマネージドで安全なアプリケーションストリーミングサービスであるAmazon AppStream 2.0 を使用して、デスクトップアプリケーションを展開しストリーミングする方法について学習します。想定所要時間：4時間  
 tag : Amazon AppStream 2.0  
+
+- <a href="https://github.com/harunobukameda/Amazon-WorkSpaces-Web/blob/main/WorkSpacesWeb.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon WorkSpaces Web ワークショップ</a>  
+Amazon WorkSpaces Web は、VPC に接続することのできる Web ブラウザをリモートアクセスすることのできるサービスです。このハンズオンでは、Amazon WorkSpaces Web を学習頂けます。  
+tag : Amazon WorkSpaces Web  
 
 ## ![image]([img/Arch-Category_Front-End-Web-Mobile_16.png]()) Front-end Web & Mobile
 - <a href="https://catalog.workshops.aws/amplify-vue3" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Amplify Workshop with Vue.js</a>  
@@ -502,6 +514,10 @@ tag : AWS Systems Manager, Session Manager, Run Command
 一般的な Web システム環境を例にして、AWS CloudFormationの使用方法およびクラウドにおける構成管理の考え方が学べます。  
 tag : CloudFormation  
 
+- <a href="https://cdkworkshop.com/ja/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS CDK Workshop</a>  
+本ワークショップは、AWS CDK を手を動かしながら学習できるコンテンツです。開発環境をセットアップし、実際に CDK Toolkit を用いて AWS 環境へアプリケーションをデプロイする手順について体験できます。  
+tag : AWS CDK  
+
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-monitoring-2020-reg-event-LP.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">監視編 サーバーのモニタリングの基本を学ぼう</a>  
 Amazon CloudWatchを利用した AWS における監視の基本が学べます。WordPressを題材に、どのようにAWSで監視していくかを体験できます。  
 tag : Amazon CloudWatch  
@@ -685,6 +701,10 @@ tag : Amazon Macie
 このワークショップでは、Amazon RDS データベースに接続する AWS Lambda 関数を使用したサーバーレスアプリケーションのサンプルを使用します。あなたは、プログラムによって AWS Secrets Manager からデータベースの認証情報を取得するテストや、タグを使った ABAC (Attribute-Based Access Control) の実装を行います。  
 tag : AWS Secrets Manager, AWS Lambda, AWS KMS, AWS Config, Amazon EventBridge, Amazon Simple Notification Service, AWS CloudTrail  
 
+- <a href="https://github.com/harunobukameda/AWS-IAM-Roles-Anywhere-AWS-Certificate-Manager/blob/main/IAM%20Roles%20Anywhere.docx" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">IAM Roles Anywhere ワークショップ</a>  
+IAM Roles Anywhere は、AWS 外部にあるワークロードに対して、一時的に IAM 権限を付与できるサービスです。IAM Roles Anywhere の構成方法を学習頂けます。Download ボタンから、Word ファイルをダウンロードが出来ます。  
+tag : IAM Roles Anywhere  
+
 ## ![image]([img/Arch-Category_Serverless_16.png]()) Serverless
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Serverless-2-2022-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS SAM を使ってテンプレートからサーバーレスな環境を構築する</a>  
 「サーバーレスアーキテクチャで翻訳 Web API を構築する」で構築した翻訳 Web API を AWS Serverless Application Model (AWS SAM) を用いてテンプレートからシステムを構築します。  
@@ -709,6 +729,10 @@ tag : AWS Lambda, Amazon API Gateway, Amazon Transcribe, Amazon Comprehend, Amaz
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Serverless-1-2022-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">サーバーレスアーキテクチャで翻訳 Web API を構築する</a>  
 翻訳 Web API の構築を通し、サーバーレスアーキテクチャの基本が学びます。主に取り扱う AWS サービスは AWS Lambda、Amazon API Gateway、Amazon DynamoDBです。  
 tag : Amazon API Gateway, AWS Lambda, Amazon DynamoDB, Amazon Translate  
+
+- <a href="https://github.com/harunobukameda/AWS-Step-Functions/blob/main/AWS%20Step%20Functions%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Step Functions ワークショップ</a>  
+Step Functions と、Lambda・EventBridge・API Gateway などのサービスと連携して、簡易的なワークフローを構成する方法を学習いただけます。  
+tag : AWS Step Functions, AWS Lambda,   
 
 ## ![image]([img/Arch-Category_Storage_16.png]()) Storage
 - <a href="https://github.com/aws-samples/amazon-fsx-workshop/tree/master/windows-file-server/JP/01-access-as-environment" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon FSx for Windows File Server ワークショップ</a>  
