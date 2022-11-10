@@ -12,7 +12,7 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
-## 2022-10-10
+## 2022-11-10
 ハンズオンコンテンツ 6件 追加  
 クラウドネイティブな自動車用ソフトウェア開発入門  
 https://catalog.us-east-1.prod.workshops.aws/workshops/12f31c93-5926-4477-996c-d47f4524905d/ja-JP  
