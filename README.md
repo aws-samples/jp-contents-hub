@@ -12,6 +12,14 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
+## 2022-11-16
+ハンズオンコンテンツ 2件 追加  
+Instance Scheduler on AWS (Japanese)  
+https://catalog.us-east-1.prod.workshops.aws/workshops/7afe32b1-9ffa-4372-9a12-5905de89b593/ja-JP  
+
+EC2 スポットインスタンスワークショップ  
+https://ec2spotworkshops.com/ja/  
+
 ## 2022-11-10
 ハンズオンコンテンツ 6件 追加  
 クラウドネイティブな自動車用ソフトウェア開発入門  

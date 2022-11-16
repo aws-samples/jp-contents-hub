@@ -96,7 +96,9 @@ tag : Amazon Managed Workflows for Apache Airflow (MWAA), Amazon Athena
 None
 
 ## ![image]([img/Arch-Category_Cloud-Financial-Management_16.png]()) AWS Cost Management
-None
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/7afe32b1-9ffa-4372-9a12-5905de89b593/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Instance Scheduler on AWS (Japanese)</a>  
+Instance Scheduler on AWS は、 AWSソリューション  の一つです。Amazon Elastic Compute Cloud (Amazon EC2) および Amazon Relational Database Service (Amazon RDS) インスタンスの開始スケジュールと停止スケジュールを設定して、AWS リソースコストを管理することができます。  
+tag : Instance Scheduler  
 
 ## ![image]([img/Arch-Category_Blockchain_16.png]()) Blockchain
 - <a href="https://dcj71ciaiav4i.cloudfront.net/31278980-D264-11EC-BB2B-AB3D7B3B0CB5/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">NFT Workshop</a>  
@@ -172,6 +174,10 @@ tag : Amazon EC2, Amazon RDS, Elastic Load Balancing(ELB)
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Auto_Scaling-2021-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon EC2 Auto Scaling スケーリング基礎編</a>  
 Amazon EC2 Auto Scaling を利用したスケーリング設定方法、スケーリングの考え方、使い分けといったスケーリングの基礎を学ぶことができます。  
 tag : Amazon EC2, Auto Scaling  
+
+- <a href="https://ec2spotworkshops.com/ja/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">EC2 スポットインスタンスワークショップ</a>  
+このワークショップでは、スケールするワークロードに対してコストを最適化しながらAmazon EC2を活用する方法を学びます。具体的には、Amazon EC2スポットインスタンスとEC2 Auto Scalingでの複数インスタンスタイプ・複数購入オプションの構成方法を取り上げます。  
+tag : Amazon EC2, Spot Instance  
 
 - <a href="https://dcj71ciaiav4i.cloudfront.net/DF2C2C00-CD94-11EB-9681-5F0F8AE2FC7B/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon EC2 Inf1 Workshop</a>  
 本ワークショップでは、AWS が設計、開発を行った AWS Inferentia 推論チップを搭載した Amazon EC2 Inf1 インスタンスを実際に体験して頂けます。  
