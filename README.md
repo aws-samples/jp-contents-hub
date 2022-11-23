@@ -12,6 +12,11 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
+## 2022-11-23
+ハンズオンコンテンツ 1件 追加  
+AWS Glue Immersion day  
+https://catalog.us-east-1.prod.workshops.aws/workshops/ee59d21b-4cb8-4b3d-a629-24537cf37bb5/ja-JP  
+
 ## 2022-11-16
 ハンズオンコンテンツ 2件 追加  
 Instance Scheduler on AWS (Japanese)  
