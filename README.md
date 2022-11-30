@@ -12,6 +12,11 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
+## 2022-11-30
+ハンズオンコンテンツ 1件 追加  
+TypeScriptの基礎から始めるAWS CDK開発 入門  
+https://catalog.workshops.aws/typescript-and-cdk-for-beginner/ja-JP  
+
 ## 2022-11-23
 ハンズオンコンテンツ 1件 追加  
 AWS Glue Immersion day  

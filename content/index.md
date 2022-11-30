@@ -528,6 +528,10 @@ tag : CloudFormation
 本ワークショップは、AWS CDK を手を動かしながら学習できるコンテンツです。開発環境をセットアップし、実際に CDK Toolkit を用いて AWS 環境へアプリケーションをデプロイする手順について体験できます。  
 tag : AWS CDK  
 
+- <a href="https://catalog.workshops.aws/typescript-and-cdk-for-beginner/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">TypeScriptの基礎から始めるAWS CDK開発 入門</a>  
+このワークショップは、「今までインフラを触っていて、AWSサービスも知っているがコードはあまり書いたことがない」という方に向けた、TypeScriptの基礎から始めるAWS Cloud Development Kit (AWS CDK) 開発入門トレーニングです。  
+tag : CDK, TypeScript  
+
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-monitoring-2020-reg-event-LP.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">監視編 サーバーのモニタリングの基本を学ぼう</a>  
 Amazon CloudWatchを利用した AWS における監視の基本が学べます。WordPressを題材に、どのようにAWSで監視していくかを体験できます。  
 tag : Amazon CloudWatch  
