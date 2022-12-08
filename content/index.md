@@ -332,6 +332,10 @@ tag : AWS Amplify, AWS AppSync, Amazon Cognito, Amazon DynamoDB
 AWS Amplify という Web フロントエンド、モバイルアプリの開発を加速させるサービスを利用した Web サイトの構築方法について理解を深めることができます。  
 tag : AWS Amplify, AWS AppSync, Amazon Cognito, Amazon DynamoDB  
 
+- <a href="https://catalog.workshops.aws/amazon-location-101/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Location Service 入門 ワークショップ</a>  
+このワークショップでは、Amazon Location Service の活用方法を学習頂けます。マップを Web アプリケーションに埋め込む、ジオコーディングや逆ジオコーディング、ルート最適化、といった方法を学習頂けます。  
+tag : Amazon Location Service, AWS IoT Core   
+
 - <a href="https://github.com/harunobukameda/Amazon-Location-Service/blob/main/location%20service%20workshop.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Location Service ハンズオン</a>  
 Amazon Location Service は、アプリケーションに位置情報などのロケーション機能を追加する負担を軽減するマネージドサービスです。このハンズオンでは、Amazon Location Service の構成を体験いただけます。  
 tag : Amazon Location Service  

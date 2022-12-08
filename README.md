@@ -12,6 +12,11 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
+## 2022-12-08
+ハンズオンコンテンツ 1件 追加  
+Amazon Location Service 入門 ワークショップ  
+https://catalog.workshops.aws/amazon-location-101/ja-JP  
+
 ## 2022-11-30
 ハンズオンコンテンツ 1件 追加  
 TypeScriptの基礎から始めるAWS CDK開発 入門  
