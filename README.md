@@ -12,6 +12,14 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
+## 2022-12-09
+ハンズオンコンテンツ 2件 追加  
+Migration Immersion Day  
+https://catalog.workshops.aws/migrationimmersionday/ja-JP  
+
+Kong on AWS ワークショップ  
+https://catalog.us-east-1.prod.workshops.aws/workshops/b3f4087a-666e-402f-aa4d-dbfcfc2d543f/ja-JP  
+
 ## 2022-12-08
 ハンズオンコンテンツ 1件 追加  
 Amazon Location Service 入門 ワークショップ  

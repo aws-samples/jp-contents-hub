@@ -6,13 +6,14 @@ Amazon Web Services(AWS) の 日本語ハンズオンやワークショップを
 
 !!! 料金について
 
-    ハンズオンで作成した AWS リソースは基本的に料金が発生します。作成したリソースの削除を忘れずにお願いします。
-    もし忘れてしまうと、想定外の費用が発生する可能性があります。
+    ハンズオンで作成した AWS リソースは通常の料金が発生します。作成したリソースの削除を忘れずにお願いします。  
+    もし忘れてしまうと、想定外の料金が発生する可能性があります。
 
 !!! 画面の差異について
 
-    ハンズオンで紹介されている手順と、実際の操作方法に差異がある場合があります。AWS は随時アップデートされており、タイミングによってはハンズオンコンテンツが追いついていません。
-    もし差異があるときには、[AWS Document](https://docs.aws.amazon.com/ja_jp/index.html){target=_blank} などを活用しながら進めて頂けますと幸いです。
+    ハンズオンで紹介されている手順と、実際の操作方法に差異がある場合があります。  
+    AWS は随時アップデートされており、タイミングによってはハンズオンコンテンツが追いついていない事もあります。  
+    差異がある場合、[AWS Document](https://docs.aws.amazon.com/ja_jp/index.html){target=_blank} などを活用しながら進めて頂けますと幸いです。  
 
 ## ![image]([img/Arch-Category_Analytics_16.png]()) Analytics
 - <a href="https://aws.amazon.com/jp/blogs/news/amazon-quicksight-handson-202006/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon QuickSight のセルフハンズオンキット日本語版</a>  
@@ -334,7 +335,7 @@ tag : AWS Amplify, AWS AppSync, Amazon Cognito, Amazon DynamoDB
 
 - <a href="https://catalog.workshops.aws/amazon-location-101/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Location Service 入門 ワークショップ</a>  
 このワークショップでは、Amazon Location Service の活用方法を学習頂けます。マップを Web アプリケーションに埋め込む、ジオコーディングや逆ジオコーディング、ルート最適化、といった方法を学習頂けます。  
-tag : Amazon Location Service, AWS IoT Core   
+tag : Amazon Location Service, AWS IoT Core  
 
 - <a href="https://github.com/harunobukameda/Amazon-Location-Service/blob/main/location%20service%20workshop.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Location Service ハンズオン</a>  
 Amazon Location Service は、アプリケーションに位置情報などのロケーション機能を追加する負担を軽減するマネージドサービスです。このハンズオンでは、Amazon Location Service の構成を体験いただけます。  
@@ -590,6 +591,10 @@ tag : vMix, AWS Elemental MediaLive, AWS Elemental MediaPackage, Amazon CloudFro
 tag : Amazon Interactive Video Service(IVS)  
 
 ## ![image]([img/Arch-Category_Migration-Transfer_16.png]()) Migration & Transfer
+- <a href="https://catalog.workshops.aws/migrationimmersionday/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Migration Immersion Day</a>  
+オンプレミスからAWSへ移行する際に活用できる各種AWSサービスを用いて、実際にサーバーやデータベースを移行する流れを体験できます。  
+tag : AWS Application Discovery Service(ADS), AWS Migration Hub, AWS Application Migration Service(MGN), AWS Database Migration Service(DMS)  
+
 - <a href="https://d2h9aujg4hgxod.cloudfront.net/51E3A3D0-D70A-11EB-91FC-CFB7976F85AB/index.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Application Migration Service(MGN) ハンズオン</a>  
 このハンズオンでは、AWS Application Migration Service(以後MGN) を使った仮想サーバーの移行を体験することができます。オハイオリージョンをオンプレミス環境と想定して、アプリケーションサーバーをオハイオからバージニア北部に移行するハンズオンになっています。  
 tag : AWS Application Migration Service(MGN), Amazon EC2  
@@ -735,6 +740,10 @@ tag : AWS Lambda, Amazon DynamoDB, Amazon API Gateway, Amazon Cognito
 - <a href="https://dcj71ciaiav4i.cloudfront.net/49D0D220-8D0F-11EB-8F39-FD9A62BABEEC/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">サービス連携の体験ハンズオン</a>  
 このハンズオンでは、AWS のサーバーレスサービスにあまり触れたことがない方を対象として、Lambda / S3 / SNS / SQS / API Gateway をはじめとしたサービスの連携を体験しながら、サーバーレスサービスに親しんでいただくことを目的としています。  
 tag : AWS Lambda, Amazon S3, Amazon SNS, Amazon SQS  
+
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/b3f4087a-666e-402f-aa4d-dbfcfc2d543f/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Kong on AWS ワークショップ</a>  
+このワークショップでは、API ゲートウェイがなぜモダナイゼーションのパターンの一つなのか、そしてこのパターンを Kong を用いて実装することで、どのように以下の課題を解決できるかを学習します。  
+tag : Kong Gateway, EKS, Prometheus, Grafana, CloudWatch  
 
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-StepFunctions-2022-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Step Functions 入門 - ビジュアルツールを使ってローコードにワークフローを作成する</a>  
 サーバーレスなワークフロー構築サービスである AWS Step Functions の入門ハンズオンです。「Workflow Studio」と「AWS SDK 統合」機能を活用し、プログラムを書かずに AWS の各種サービスを利用するワークフローを作成します。  
