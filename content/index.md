@@ -668,6 +668,10 @@ tag : SAP HANA, AWS Launch Wizard for SAP, AWS Backint Agent, AWS Systems Manage
 SAP製品の高可用性構成を理解するために、SAP HANAをマルチAZでデプロイ、管理を学ぶハンズオンです。  
 tag : SAP HANA, HAWK(High Availability Web Konsole), ASCS/ERS  
 
+- <a href="https://catalog.workshops.aws/sap-monitoring-on-aws" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">SAP Monitoring on AWS ワークショップ</a>  
+本ラボは、SAP Basis 管理者とインフラ管理者が、SAP NetWeaver ABAP システムと SAP HANA on AWS の監視、運用方法を学ぶことを目的としています。  
+tag : Amazon CloudWatch, Amazon EC2  
+
 ## ![image]([img/Arch-Category_Satellite_16.png]()) Satellite
 None
 
@@ -744,6 +748,10 @@ tag : AWS Lambda, Amazon S3, Amazon SNS, Amazon SQS
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/b3f4087a-666e-402f-aa4d-dbfcfc2d543f/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Kong on AWS ワークショップ</a>  
 このワークショップでは、API ゲートウェイがなぜモダナイゼーションのパターンの一つなのか、そしてこのパターンを Kong を用いて実装することで、どのように以下の課題を解決できるかを学習します。  
 tag : Kong Gateway, EKS, Prometheus, Grafana, CloudWatch  
+
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/f2c0706c-7192-495f-853c-fd3341db265a/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Iterative App Modernization Workshop</a>  
+このワークショップは、モノリシックアーキテクチャからマイクロサービスアーキテクチャに移行するプロセスをガイドします。  
+tag : AWS Migration Hub, Amazon API Gateway, Amazon DynamoDB, AWS Lambda  
 
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-StepFunctions-2022-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Step Functions 入門 - ビジュアルツールを使ってローコードにワークフローを作成する</a>  
 サーバーレスなワークフロー構築サービスである AWS Step Functions の入門ハンズオンです。「Workflow Studio」と「AWS SDK 統合」機能を活用し、プログラムを書かずに AWS の各種サービスを利用するワークフローを作成します。  

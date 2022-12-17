@@ -12,6 +12,14 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
+## 2022-12-17
+ハンズオンコンテンツ 2件 追加  
+SAP Monitoring on AWS ワークショップ  
+https://catalog.workshops.aws/sap-monitoring-on-aws  
+
+Iterative App Modernization Workshop  
+https://catalog.us-east-1.prod.workshops.aws/workshops/f2c0706c-7192-495f-853c-fd3341db265a/ja-JP  
+
 ## 2022-12-09
 ハンズオンコンテンツ 2件 追加  
 Migration Immersion Day  
