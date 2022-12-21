@@ -12,6 +12,11 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
+## 2022-12-21
+ハンズオンコンテンツ 1件 追加  
+CloudFront ハンズオン  
+https://catalog.us-east-1.prod.workshops.aws/workshops/fe68adc5-7b3a-4f08-93c9-45993d85cfe1/ja-JP  
+
 ## 2022-12-17
 ハンズオンコンテンツ 2件 追加  
 SAP Monitoring on AWS ワークショップ  

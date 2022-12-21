@@ -628,6 +628,10 @@ tag : AWS Site-to-Site VPN, VPC ピアリング
 Amazon CloudFrontやAWS WAFといったAWSのエッジサービスをハンズオン形式でご活用いただき、その導入メリットや実際の運用方法を学べます。  
 tag : Amazon CloudFront, AWS WAF  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/fe68adc5-7b3a-4f08-93c9-45993d85cfe1/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">CloudFront ハンズオン</a>  
+CloudFront を利用したコンテンツ配信を体験しつつ、CloudFront/WAF等のログ収集、検索を体験できます。  
+tag : Amazon CloudFront, AWS WAF, Amazon Kinesis Data Firehose, Amazon S3, Amazon Athena  
+
 - <a href="https://dcj71ciaiav4i.cloudfront.net/7CB85370-A998-11EB-A09B-259812622FA1/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Workshop for AWS Educate (CloudFront/S3)</a>  
 CloudFront と S3 を利用して、サーバレスな Web 配信を体験いただける内容です。  
 tag : Amazon S3, Amazon CloudFront  
