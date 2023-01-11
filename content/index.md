@@ -333,6 +333,14 @@ tag : AWS Amplify, AWS AppSync, Amazon Cognito, Amazon DynamoDB
 AWS Amplify という Web フロントエンド、モバイルアプリの開発を加速させるサービスを利用した Web サイトの構築方法について理解を深めることができます。  
 tag : AWS Amplify, AWS AppSync, Amazon Cognito, Amazon DynamoDB  
 
+- <a href="https://aws.amazon.com/jp/blogs/news/aws-amplify-studio-figma-to-fullstack-react-app-with-minimal-programming/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Amplify Studio – 最小限のプログラミングでFigmaからフルスタックのReactアプリを実現</a>  
+Amplify StudioのFigma連携と、これまでのAmplify Admin UI(現Amplify Studio)のもっていたバックエンドの設定・管理機能を用いて「住宅リスト」アプリケーションを作ります  
+tag : AWS Amplify, AWS AppSync, Amazon DynamoDB, Amplify Studio, Figma  
+
+- <a href="https://aws.amazon.com/jp/blogs/news/building-a-full-stack-chat-application-with-aws-and-nextjs/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">フルスタックのチャットアプリケーションをAWSとNext.jsで構築する</a>  
+Next.jsとAWS CDKで構築したAWSバックエンドを用いて、リアルタイムチャットアプリケーションを作成します。UIライブラリにAmplify UI, Amplify Hostingを用いて、フロントエンドとバックエンドが独立したリポジトリにおいてこれらを統合する方法について示します  
+tag : AWS Amplify, Amazon Cognito, AWS AppSync, Amazon DynamoDB, Amazon S3, AWS CDK  
+
 - <a href="https://catalog.workshops.aws/amazon-location-101/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Location Service 入門 ワークショップ</a>  
 このワークショップでは、Amazon Location Service の活用方法を学習頂けます。マップを Web アプリケーションに埋め込む、ジオコーディングや逆ジオコーディング、ルート最適化、といった方法を学習頂けます。  
 tag : Amazon Location Service, AWS IoT Core  

@@ -12,6 +12,14 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
+## 2023-01-11
+ハンズオンコンテンツ 2件 追加  
+AWS Amplify Studio – 最小限のプログラミングでFigmaからフルスタックのReactアプリを実現  
+https://aws.amazon.com/jp/blogs/news/aws-amplify-studio-figma-to-fullstack-react-app-with-minimal-programming/  
+
+フルスタックのチャットアプリケーションをAWSとNext.jsで構築する  
+https://aws.amazon.com/jp/blogs/news/building-a-full-stack-chat-application-with-aws-and-nextjs/  
+
 ## 2022-12-21
 ハンズオンコンテンツ 1件 追加  
 CloudFront ハンズオン  
