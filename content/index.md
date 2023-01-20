@@ -428,29 +428,53 @@ tag : Amazon SageMaker, Amazon SageMaker Data Wrangler, Feature Store, Amazon Sa
 Amazon SageMaker Canvas Immersion Day はセルフペースまたはインストラクター主導で行うことのできるラボです。本ラボを実施することによって、公開されたデータセットに基づいて Amazon SageMaker Canvas を用いた現実世界の課題解決が可能になります。本ラボではビジネスアナリストを主な対象者としていますが、すべての方がご自身で Sage Maker Canvas を使用できるようになることを想定しています。  
 tag : Amazon SageMaker Canvas  
 
+- <a href="https://github.com/harunobukameda/Amazon-SageMaker-Canvas/blob/main/SageMaker%20Canvas.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon SageMaker Canvas ワークショップ</a>  
+Amazon SageMaker Canvas は AWS が提供する構造化データを対象とした機 械学習をノーコードで実現できるサービスです。使い方を学習できるワークショップです。  
+tag : Amazon SageMaker Canvas  
+
+- <a href="https://github.com/aws-sagemaker-jp/awesome-studio-lab-jp" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">SageMaker Studio Lab Community</a>  
+Amazon SageMaker Studio Lab でデータサイエンスが学べる教材集です。データサイエンティスト協会の定義を参照しデータサイエンス、データエンジニアリング、ビジネスの 3 つのカテゴリに分けて教材を紹介しています。個々の教材のライセンスの範囲で、個人はもちろん社内でのデータサイエンス教育にも活用頂けます。
+tag : Amazon SageMaker Studio Lab  
+
+- <a href="https://github.com/aws-samples/aws-ml-enablement-workshop" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">ML Enablement Workshop</a>  
+プロダクトを開発するチームが、課題解決の選択肢として機械学習を選択できるようになることをゴールとしたワークショップです。プロダクトマネージャー向けの機械学習インプット、開発者向けの機械学習ハンズオン、3 者全員でユースケースを発見するためのアイデアソンの 3 部構成となっています。自社のプロダクトで機械学習を活用するためのチーム間のコミュニケーションの醸成、具体的なユースケースの発見を行うために利用頂けます。
+tag : Amazon SageMaker Studio Lab
+
+- <a href="https://dcj71ciaiav4i.cloudfront.net/E33695C0-835B-11EB-8E80-138DCE1C124F/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">機械学習入門者向けハンズオン : 機械学習で画像を分類してみよう</a>  
+このハンズオンでは、これから機械学習を始めようと考えている方が、プログラミングを通じて機械学習について理解することを目的としています。機械学習には Python を利用しますので、Python を使ったプログラミング経験があるとスムーズです。  
+tag : Amazon SageMaker, scikit-learn  
+
 - <a href="https://dcj71ciaiav4i.cloudfront.net/81427A00-A999-11EB-A30A-E311773AC105/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">SageMaker Workshop Linear Learner with MNIST</a>  
 SageMaker のNotebook環境を立ち上げて使ってみる内容です。0 から 9 までの手書きで書かれた数字を学習し、0 かそれ以外を判定する機械学習モデルを作成する内容を体験いただけます。  
 tag : Amazon SageMaker, MNIST  
 
-- <a href="https://dcj71ciaiav4i.cloudfront.net/4FE06AD0-A999-11EB-A30A-E311773AC105/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Workshop for AWS Academy Learner Lab (SageMaker R-kernel)</a>  
-SageMaker Notebook で、R を扱うハンズオンです。iris データセットを使いながら、R で散布図や標準偏差、回帰直線などを利用する手順を体験いただけます。  
-tag : Amazon SageMaker, R  
-
 - <a href="https://dcj71ciaiav4i.cloudfront.net/BE9D0570-8AD9-11EB-AD13-537EEE6AAE51/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">機械学習中級者向けハンズオン : Amazon SageMaker Hands-on Workshop</a>  
 このハンズオンでは、Amazon SageMaker の機能を使って機械学習を簡単に始められることを目的としています。本ワークショップでは機械学習でよく使われる Python 言語を中心に進めていきますので、Python を使ったプログラミング経験があるとスムーズです  
-tag : Amazon SageMaker, scikit-learn  
-
-- <a href="https://dcj71ciaiav4i.cloudfront.net/E33695C0-835B-11EB-8E80-138DCE1C124F/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">機械学習入門者向けハンズオン : 機械学習で画像を分類してみよう</a>  
-このハンズオンでは、これから機械学習を始めようと考えている方が、プログラミングを通じて機械学習について理解することを目的としています。機械学習には Python を利用しますので、Python を使ったプログラミング経験があるとスムーズです。  
 tag : Amazon SageMaker, scikit-learn  
 
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-AIML-2021-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Managed AI/ML サービス はじめの一歩</a>  
 AWS には機械学習の深い知識がなくとも AI/ML を組み込める Managed な AI/ML サービス群があります。このハンズオンでは、5つの AI/ML サービスを利用する方法について学んでいただけます。  
 tag : Amazon Personalize, Amazon Forecast, Amazon Transcribe, Amazon Comprehend, Amazon Rekognition  
 
-- <a href="https://github.com/aws-samples/aws-ml-jp" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS の機械学習サービスのサンプルコードのためのレポジトリ</a>  
-AWS の機械学習サービスのサンプルコードのためのレポジトリです。  
-tag : Repository  
+- <a href="https://github.com/harunobukameda/Amazon-CodeGuru-Reviewer/blob/main/Amazon%20CodeGuru%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon CodeGuru ワークショップ</a>  
+Amazon CodeGuru はインテリジェントなレコメンデーションを提供するデベロッパーツールで、コードの品質を向上し、アプリケーションの最もコストがかかっているコード行を特定するのに役立ちます。Amazon CodeGuru を使って、GitHub 上のソースコードに対する推奨事項をレコメンドしてくれる内容を体験いただけます。  
+tag : Amazon CodeGuru  
+
+- <a href="https://github.com/harunobukameda/Amazon-DevOps-Guru/blob/main/Amazon%20DevOps%20Guru%20%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon DevOps Guru ハンズオン</a>  
+Amazon DevOps Guru は機械学習を使用して異常な動作パターンを検出するため、運用上の問題が顧客に影響を与える前に、その問題を特定することができます。このハンズオンでは、異常な動作パターンを疑似的に起こし、DevOps Guru で異常を検知する方法を体験いただけます。  
+tag : Amazon DevOps Guru  
+
+- <a href="https://github.com/harunobukameda/Amazon-Translate---Amazon-Polly---Amazon-Transcribe---Amazon-Comprehend---Amazon-Elasticsearch/blob/master/Handson.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">はじめての自然言語処理（NLP：Natural Language Processing）ハンズオン</a>  
+このハンズオンでは AWS が提供している、自然言語処理関連の 4 つのサービスを用い て、日本語の処理を体験するハンズオンです。  
+tag : Amazon Translate, Amazon Polly, Amazon Transcribe, Amazon Comprehend  
+
+- <a href="https://github.com/harunobukameda/Amazon-Forecast/blob/master/Amazon%20Forecast%20%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Forecast ハンズオン</a>  
+Amazon Forecast は AWS が提供している時系列データをもとに予 測を行う機械学習サービスです。このハンズオンでは、Forecast の基本的な使い方を学習いただけます。  
+tag : Amazon Forecast  
+
+- <a href="https://github.com/harunobukameda/Amazon-Lex/blob/main/Amazon%20Lex%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Lex ワークショップ</a>  
+Amazon Lex は、音声やテキストを使用した会話型インターフェイスをさまざまなアプリケーションに構築するための AWS のサービスです。Amazon Lex を使って、牛丼を注文する流れを構築できるハンズオンです。  
+tag : Amazon Lex  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/ac11f205-6c9d-417e-b656-0aa26ef873f7/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Lookout for Equipment Pipeline Workshop</a>  
 この Amazon Lookout for Equipment Pipeline ワークショップはセンサーデータの解析を通じて設備の異常な挙動を検出したいユーザのためのものです。機械学習の深い知識は必要なしに、データに基づいて機器の異常をチェックするサービスを作るために、センサーから Amazon Lookout for Equipment にデータを転送する実例を含んでいます。  
@@ -472,53 +496,37 @@ tag : Amazon Lookout for Vison
 Amazon Personalize は AWS が提供している過去の購買履歴など から個人化レコメンデーションを行う機械学習サービスです。このハンズオンでは、Personalize の基本的な使い方を学習いただけます。  
 tag : Amazon Personalize  
 
+- <a href="https://github.com/harunobukameda/Amazon-Polly-Amazon-Rekogniton-Amazon-Translate-Handson-/blob/master/WordPress%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9FAmazonTranslate-Polly-Rekognition%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3.zip" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">WordPress を利用した AmazonTranslate Polly Rekognition ハンズオン</a>  
+このハンズオンでは、WordPress を構築し、AWS サービスと連携して音声機能・翻訳機能・画像のカテゴライズ機能を追加する方法を体験頂けます。リンクににある Download ボタンから、zip ファイルをダウンロードして学習を進められます。  
+tag : Amazon Translate, Amazon Polly, Amazon Rekognition  
+
 - <a href="https://dcj71ciaiav4i.cloudfront.net/D5606580-B8E8-11EB-BFFC-8979D922AC62/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Rekognition Immersion Day</a>  
 Rekognition の機能や API に関するハンズオンを行います。これにより、オブジェクト、シーン、顔の検出、テキストの抽出、有名人の認識、および画像やビデオの不適切なコンテンツを特定することができます。また、カスタム画像解析モデルを構築して、ビジネスに固有の画像内のオブジェクトとシーンを特定します。最後に、Augmented AI を使用して、人間によるレビューを行うワークフローを Amazon Rekognition と統合する方法について学びます。  
 tag : Amazon Rekognition  
 
-- <a href="https://github.com/harunobukameda/Amazon-SageMaker-Canvas/blob/main/SageMaker%20Canvas.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon SageMaker Canvas ワークショップ</a>  
-Amazon SageMaker Canvas は AWS が提供する構造化データを対象とした機 械学習をノーコードで実現できるサービスです。使い方を学習できるワークショップです。  
-tag : Amazon SageMaker Canvas  
-
-- <a href="https://github.com/harunobukameda/Amazon-SageMaker-JumpStart/blob/main/Amazon%20SageMaker%20JumpStart%20Workshop.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon SageMaker JumpStart Workshop</a>  
-SageMaker JumpStart は、機械学習を始めるのに役立つ、広範な問題タイプに対する事前トレーニング済みのオープンソースモデルを提供します。このハンズオンでは、JumpStart を使って画像に映っている動物の判別、日本語文字列の相関分析などを体験いただけます。  
-tag : Amazon SageMaker JumpStart  
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/e2de5159-40ed-4a92-a039-487789960f11/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Rekognition でつくるはじめてのAIアプリ</a>  
+このハンズオンでは、Rekognitionを使ったAIアプリケーション構築を体験し、「AIサービスの概要と操作方法の理解」や「AIサービスをアプリケーションに組み込む方法」を理解いただくことが目的です。  
+tag : Amazon Rekognition, React  
 
 - <a href="https://github.com/harunobukameda/Amazon-Robomaker/blob/master/RoboMakerHandsonLoft20191008.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS RoboMaker ハンズオン</a>  
 このハンズオンでは強化学習を⾏うロボットアプリケーションを使い、AWS RoboMaker の機能のうち、「開発環 境」と「シミュレーション」機能について体験できます。  
 tag : AWS RoboMaker  
 
-- <a href="https://github.com/harunobukameda/Amazon-Polly-Amazon-Rekogniton-Amazon-Translate-Handson-/blob/master/WordPress%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9FAmazonTranslate-Polly-Rekognition%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3.zip" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">WordPress を利用した AmazonTranslate Polly Rekognition ハンズオン</a>  
-このハンズオンでは、WordPress を構築し、AWS サービスと連携して音声機能・翻訳機能・画像のカテゴライズ機能を追加する方法を体験頂けます。リンクににある Download ボタンから、zip ファイルをダウンロードして学習を進められます。  
-tag : Amazon Translate, Amazon Polly, Amazon Rekognition  
-
-- <a href="https://github.com/harunobukameda/Amazon-Translate---Amazon-Polly---Amazon-Transcribe---Amazon-Comprehend---Amazon-Elasticsearch/blob/master/Handson.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">はじめての自然言語処理（NLP：Natural Language Processing）ハンズオン</a>  
-このハンズオンでは AWS が提供している、自然言語処理関連の 4 つのサービスを用い て、日本語の処理を体験するハンズオンです。  
-tag : Amazon Translate, Amazon Polly, Amazon Transcribe, Amazon Comprehend  
+- <a href="https://dcj71ciaiav4i.cloudfront.net/4FE06AD0-A999-11EB-A30A-E311773AC105/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Workshop for AWS Academy Learner Lab (SageMaker R-kernel)</a>  
+SageMaker Notebook で、R を扱うハンズオンです。iris データセットを使いながら、R で散布図や標準偏差、回帰直線などを利用する手順を体験いただけます。  
+tag : Amazon SageMaker, R  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/03f7e662-e3b1-4c5b-8fbe-b6af0c00c7b2/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS DeepRacer Workshop</a>  
 AWS DeepRacer の強化学習モデルを作る方法を学ぶハンズオンです。  
 tag : AWS DeepRacer  
 
-- <a href="https://github.com/harunobukameda/Amazon-CodeGuru-Reviewer/blob/main/Amazon%20CodeGuru%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon CodeGuru ワークショップ</a>  
-Amazon CodeGuru はインテリジェントなレコメンデーションを提供するデベロッパーツールで、コードの品質を向上し、アプリケーションの最もコストがかかっているコード行を特定するのに役立ちます。Amazon CodeGuru を使って、GitHub 上のソースコードに対する推奨事項をレコメンドしてくれる内容を体験いただけます。  
-tag : Amazon CodeGuru  
+- <a href="https://github.com/harunobukameda/Amazon-SageMaker-JumpStart/blob/main/Amazon%20SageMaker%20JumpStart%20Workshop.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon SageMaker JumpStart Workshop</a>  
+SageMaker JumpStart は、機械学習を始めるのに役立つ、広範な問題タイプに対する事前トレーニング済みのオープンソースモデルを提供します。このハンズオンでは、JumpStart を使って画像に映っている動物の判別、日本語文字列の相関分析などを体験いただけます。  
+tag : Amazon SageMaker JumpStart  
 
-- <a href="https://github.com/harunobukameda/Amazon-DevOps-Guru/blob/main/Amazon%20DevOps%20Guru%20%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon DevOps Guru ハンズオン</a>  
-Amazon DevOps Guru は機械学習を使用して異常な動作パターンを検出するため、運用上の問題が顧客に影響を与える前に、その問題を特定することができます。このハンズオンでは、異常な動作パターンを疑似的に起こし、DevOps Guru で異常を検知する方法を体験いただけます。  
-tag : Amazon DevOps Guru  
-
-- <a href="https://github.com/harunobukameda/Amazon-Forecast/blob/master/Amazon%20Forecast%20%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Forecast ハンズオン</a>  
-Amazon Forecast は AWS が提供している時系列データをもとに予 測を行う機械学習サービスです。このハンズオンでは、Forecast の基本的な使い方を学習いただけます。  
-tag : Amazon Forecast  
-
-- <a href="https://github.com/harunobukameda/Amazon-Lex/blob/main/Amazon%20Lex%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Lex ワークショップ</a>  
-Amazon Lex は、音声やテキストを使用した会話型インターフェイスをさまざまなアプリケーションに構築するための AWS のサービスです。Amazon Lex を使って、牛丼を注文する流れを構築できるハンズオンです。  
-tag : Amazon Lex  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/e2de5159-40ed-4a92-a039-487789960f11/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Rekognition でつくるはじめてのAIアプリ</a>  
-このハンズオンでは、Rekognitionを使ったAIアプリケーション構築を体験し、「AIサービスの概要と操作方法の理解」や「AIサービスをアプリケーションに組み込む方法」を理解いただくことが目的です。  
-tag : Amazon Rekognition, React  
+- <a href="https://github.com/aws-samples/aws-ml-jp" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS の機械学習サービスのサンプルコードのためのレポジトリ</a>  
+AWS の機械学習サービスのサンプルコードのためのレポジトリです。  
+tag : Repository  
 
 ## ![image]([img/Arch-Category_Management-Governance_16.png]()) Management & Governance
 - <a href="https://catalog.workshops.aws/observability/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">One Observability Workshop</a>  
