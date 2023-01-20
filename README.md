@@ -12,6 +12,14 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
+## 2023-01-20
+ハンズオンコンテンツ 2件 追加  
+SageMaker Studio Lab Community  
+https://github.com/aws-sagemaker-jp/awesome-studio-lab-jp  
+
+ML Enablement Workshop  
+https://github.com/aws-samples/aws-ml-enablement-workshop  
+
 ## 2023-01-11
 ハンズオンコンテンツ 2件 追加  
 AWS Amplify Studio – 最小限のプログラミングでFigmaからフルスタックのReactアプリを実現  

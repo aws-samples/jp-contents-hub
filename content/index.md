@@ -433,12 +433,12 @@ Amazon SageMaker Canvas は AWS が提供する構造化データを対象とし
 tag : Amazon SageMaker Canvas  
 
 - <a href="https://github.com/aws-sagemaker-jp/awesome-studio-lab-jp" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">SageMaker Studio Lab Community</a>  
-Amazon SageMaker Studio Lab でデータサイエンスが学べる教材集です。データサイエンティスト協会の定義を参照しデータサイエンス、データエンジニアリング、ビジネスの 3 つのカテゴリに分けて教材を紹介しています。個々の教材のライセンスの範囲で、個人はもちろん社内でのデータサイエンス教育にも活用頂けます。
+Amazon SageMaker Studio Lab でデータサイエンスが学べる教材集です。データサイエンティスト協会の定義を参照しデータサイエンス、データエンジニアリング、ビジネスの 3 つのカテゴリに分けて教材を紹介しています。個々の教材のライセンスの範囲で、個人はもちろん社内でのデータサイエンス教育にも活用頂けます。  
 tag : Amazon SageMaker Studio Lab  
 
 - <a href="https://github.com/aws-samples/aws-ml-enablement-workshop" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">ML Enablement Workshop</a>  
-プロダクトを開発するチームが、課題解決の選択肢として機械学習を選択できるようになることをゴールとしたワークショップです。プロダクトマネージャー向けの機械学習インプット、開発者向けの機械学習ハンズオン、3 者全員でユースケースを発見するためのアイデアソンの 3 部構成となっています。自社のプロダクトで機械学習を活用するためのチーム間のコミュニケーションの醸成、具体的なユースケースの発見を行うために利用頂けます。
-tag : Amazon SageMaker Studio Lab
+プロダクトを開発するチームが、課題解決の選択肢として機械学習を選択できるようになることをゴールとしたワークショップです。プロダクトマネージャー向けの機械学習インプット、開発者向けの機械学習ハンズオン、3 者全員でユースケースを発見するためのアイデアソンの 3 部構成となっています。自社のプロダクトで機械学習を活用するためのチーム間のコミュニケーションの醸成、具体的なユースケースの発見を行うために利用頂けます。  
+tag : Amazon SageMaker Studio Lab  
 
 - <a href="https://dcj71ciaiav4i.cloudfront.net/E33695C0-835B-11EB-8E80-138DCE1C124F/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">機械学習入門者向けハンズオン : 機械学習で画像を分類してみよう</a>  
 このハンズオンでは、これから機械学習を始めようと考えている方が、プログラミングを通じて機械学習について理解することを目的としています。機械学習には Python を利用しますので、Python を使ったプログラミング経験があるとスムーズです。  
@@ -818,4 +818,3 @@ tag : Amazon FSx File Gateway
 - <a href="https://catalog.workshops.aws/vmwarecloud/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">VMware Cloud on AWS Immersion Day</a>  
 VMware Cloud on AWS Immersion Day は、ハンズオンを通じて VMware Cloud on AWS を実際に体験することができ、参加者はサービスに慣れ親しみ、その使い勝手の良さを実感することができます。  
 tag : VMware Cloud on AWS, VMware HCX, Amazon FSx for Windows File Server, AWS Managed Microsoft Active Directory  
-
