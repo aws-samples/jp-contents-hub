@@ -419,6 +419,10 @@ tag : Amazon Kinesis Video Streams
 Amazon Kinesis Video Streams を用いたカメラデバイスからの動画の収集、保存、 ライブやオンデマンドでの再生、動画ファイルのダウンロード、 Amazon Rekognition Video と組み合わせたライブ顔認識やニアリアルタイム分析などを行う方法を学びます。  
 tag : Amazon Kinesis Video Streams, Amazon Rekognition Video  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/35e910c5-245f-41db-8284-73f0df0eb9ab/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS IoT DevloperDay with IoT TwinMaker</a>  
+既存の 3D モデルを AWS IoT TwinMaker でインポートして、物理空間とその状態を 3D シーン上で表現します。AWS IoT SiteWise では産業プロトコルのデータの取り扱いに適しているサービスです。今回はCloud9で生成された擬似的なセンサーデータをIoT Coreで受け取り、SiteWiseにデータを転送します。その後、デジタルツイン上で表現するコンポーネント（データコネクタ）を作成し、SiteWise と S3 のデータをTwinMakerで扱うハンズオンです。AWS IoT TwinMaker 学習の最初の一歩としておすすめです。  
+tag : AWS IoT TwinMaker, AWS IoT SiteWise, AWS IoT Core, AWS IoT Core , Amazon Managed Grafana  
+
 ## ![image]([img/Arch-Category_Machine-Learning_16.png]()) Machine Learning
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">SageMaker Immersion Day</a>  
 Amazon SageMaker Immersion Dayは、特徴量エンジニアリングからさまざまなビルトインアルゴリズムの理解、本番環境のようなシナリオでのMLモデルのトレーニング、チューニング、デプロイまで、MLユースケース構築のエンドツーエンドの理解をお客様やパートナーに提供します。 独自のモデルを持ち込んで、オンプレミスのMLワークロードをAmazon SageMakerプラットフォームにリフト＆シフトする方法を説明します。 さらに、モデルのデバッグ、モデルの監視、AutoMLのような高度なコンセプトを説明し、AWS ML Well-Architectedレンズを通して機械学習のワークロードを評価するためのガイドを行います。 このワークショップは、主にデータサイエンティストを対象としていますが、AWSを使った機械学習について知りたい方であれば、どなたでも参加できます。  
@@ -818,3 +822,4 @@ tag : Amazon FSx File Gateway
 - <a href="https://catalog.workshops.aws/vmwarecloud/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">VMware Cloud on AWS Immersion Day</a>  
 VMware Cloud on AWS Immersion Day は、ハンズオンを通じて VMware Cloud on AWS を実際に体験することができ、参加者はサービスに慣れ親しみ、その使い勝手の良さを実感することができます。  
 tag : VMware Cloud on AWS, VMware HCX, Amazon FSx for Windows File Server, AWS Managed Microsoft Active Directory  
+

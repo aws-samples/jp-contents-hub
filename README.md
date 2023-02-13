@@ -12,6 +12,11 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
+## 2023-02-13
+ハンズオンコンテンツ 1件 追加  
+AWS IoT DevloperDay with IoT TwinMaker  
+https://catalog.us-east-1.prod.workshops.aws/workshops/35e910c5-245f-41db-8284-73f0df0eb9ab/ja-JP  
+
 ## 2023-01-20
 ハンズオンコンテンツ 2件 追加  
 SageMaker Studio Lab Community  
