@@ -411,6 +411,10 @@ tag : AWS IoT Core for LoRaWAN
 既存の 3D モデルを AWS IoT TwinMaker でインポートして、物理空間とその状態を 3D シーン上で表現します。AWS IoT TwinMaker では他の時系列などのデータストアサービスに接続して、デジタルツイン上で表現するコンポーネント（データコネクタ）を作成します。仲介するサービス数を抑えたシンプルなアーキテクチャで構成され、AWS IoT TwinMaker 学習の最初の一歩としておすすめです。  
 tag : AWS IoT TwinMaker, Amazon Timestream, Amazon Managed Grafana  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/35e910c5-245f-41db-8284-73f0df0eb9ab/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS IoT DevloperDay with IoT TwinMaker</a>  
+既存の 3D モデルを AWS IoT TwinMaker でインポートして、物理空間とその状態を 3D シーン上で表現します。AWS IoT SiteWise では産業プロトコルのデータの取り扱いに適しているサービスです。今回はCloud9で生成された擬似的なセンサーデータをIoT Coreで受け取り、SiteWiseにデータを転送します。その後、デジタルツイン上で表現するコンポーネント（データコネクタ）を作成し、SiteWise と S3 のデータをTwinMakerで扱うハンズオンです。AWS IoT TwinMaker 学習の最初の一歩としておすすめです。  
+tag : AWS IoT TwinMaker, AWS IoT SiteWise, AWS IoT Core, AWS IoT Core , Amazon Managed Grafana  
+
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/a391c4b3-5a5c-4b2a-a92a-681985d108f5/ja-JP/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Kinesis Video Streams WebRTC Workshop</a>  
 Amazon Kinesis Video Streams で WebRTC を用いてカメラデバイスとブラウザ間でメディアストリーミングを行う方法や、AWS IoT の Credentials Provider を用いてデバイスの認証と Amazon Kinesis Video Streams WebRTC へのアクセスを行う方法を、実際に手を動かしながら1〜2時間で学ぶことができます。  
 tag : Amazon Kinesis Video Streams  
@@ -418,10 +422,6 @@ tag : Amazon Kinesis Video Streams
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/b95b9381-baf0-4bef-ba31-63817d54c2a6/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Kinesis Video Streams ハンズオン</a>  
 Amazon Kinesis Video Streams を用いたカメラデバイスからの動画の収集、保存、 ライブやオンデマンドでの再生、動画ファイルのダウンロード、 Amazon Rekognition Video と組み合わせたライブ顔認識やニアリアルタイム分析などを行う方法を学びます。  
 tag : Amazon Kinesis Video Streams, Amazon Rekognition Video  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/35e910c5-245f-41db-8284-73f0df0eb9ab/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS IoT DevloperDay with IoT TwinMaker</a>  
-既存の 3D モデルを AWS IoT TwinMaker でインポートして、物理空間とその状態を 3D シーン上で表現します。AWS IoT SiteWise では産業プロトコルのデータの取り扱いに適しているサービスです。今回はCloud9で生成された擬似的なセンサーデータをIoT Coreで受け取り、SiteWiseにデータを転送します。その後、デジタルツイン上で表現するコンポーネント（データコネクタ）を作成し、SiteWise と S3 のデータをTwinMakerで扱うハンズオンです。AWS IoT TwinMaker 学習の最初の一歩としておすすめです。  
-tag : AWS IoT TwinMaker, AWS IoT SiteWise, AWS IoT Core, AWS IoT Core , Amazon Managed Grafana  
 
 ## ![image]([img/Arch-Category_Machine-Learning_16.png]()) Machine Learning
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">SageMaker Immersion Day</a>  
