@@ -20,7 +20,7 @@ Amazon Web Services(AWS) の 日本語ハンズオンやワークショップを
 4 種類の QuickSight ハンズオンを学習いただけます。QuickSight の主要な可視化機能・ML インサイト・Webアプリケーションにダッシュボードを埋め込む方法などを学習いただけます。  
 tag : Amazon QuickSight, Amazon Athena  
 
-- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Analytics-2021-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">手を動かしなら学ぶ Analytics サービス入門</a>  
+- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Analytics-2022-reg-event.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">手を動かしなら学ぶ Analytics サービス入門</a>  
 Amazon Redshift、Amazon QuickSight を用いて、データ分析環境を構築し、簡単なデータ分析の可視化を行います。  
 tag : AWS Hands-on for Begginners, Amazon Redshift, Amazon QuickSight  
 
@@ -127,7 +127,7 @@ tag : Amazon QLDB
 このワークショップは、Amazon Connectに初めて触る方を対象に、簡単なコンタクトセンターシステムを構築して、設定方法を体感いただくことを目的としています。  
 tag : Amazon Connect  
 
-- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Amazon-Connect-2021-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect による基本的なコンタクトセンター構築</a>  
+- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Amazon-Connect-2022-reg-event.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect による基本的なコンタクトセンター構築</a>  
 Amazon Connect を利用したコンタクトセンターの構築・利用方法をを学んでいただき、実際に基本的なコンタクトセンターの構築を行います。  
 tag : Amazon Connect  
 
@@ -176,7 +176,7 @@ tag : Amazon EC2, Amazon RDS, Elastic Load Balancing(ELB)
 WordPress を使ったブログサイトの構築を通じて、スケーラブルな Web システム構築方法が学べます。主に取り扱う AWS サービスは Amazon EC2、Amazon RDS、ELB の3つです。  
 tag : Amazon EC2, Amazon RDS, Elastic Load Balancing(ELB)  
 
-- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Auto_Scaling-2021-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon EC2 Auto Scaling スケーリング基礎編</a>  
+- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Auto_Scaling-2022-reg-event.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon EC2 Auto Scaling スケーリング基礎編</a>  
 Amazon EC2 Auto Scaling を利用したスケーリング設定方法、スケーリングの考え方、使い分けといったスケーリングの基礎を学ぶことができます。  
 tag : Amazon EC2, Auto Scaling  
 
@@ -249,6 +249,10 @@ tag : Amazon ECS, Amazon ECR, AWS Fargate, ElastiCache for Redis, Java, Tomcat
 Amazon ECS 上で稼働するコンテナに対して、CI/CD パイプラインを構築する方法を学習頂けます。  
 tag : Amazon ECS, AWS CodeCommit, AWS CodeBuild, AWS CodePipeline  
 
+- <a href="https://catalog.workshops.aws/ecs-service-connect/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">ECS Service Connect ワークショップ</a>  
+このワークショップでは、実際に Amazon ECS Service Connect を使用してコンテナアプリケーションをデプロイし、サービスディスカバリや VPC 内のサービス間通信、サービスエンドポイントのヘルスチェックとトラフィック管理、シンプルな運用とデバッグを実現する ECS コンソールを使用したトラフィックの考察、既存のサービスを ECS Service Connect を用いた構成に移行するプロセスなど、ECS Service Connect の利点について確認していきます。  
+tag : Amazon ECS, AWS Cloud Map, ECS Service Connect  
+
 - <a href="https://github.com/harunobukameda/AWS-App-Runner/blob/main/AWS%20App%20Runner%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS App Runner ワークショップ</a>  
 App Runner と GitHub を連携して、シンプルな Web アプリケーションをデプロイする方法を学習いただけます。  
 tag : AWS App Runner  
@@ -299,7 +303,7 @@ Babelfish for Aurora PostgreSQL は、Amazon Aurora PostgreSQL 互換エディ�
 tag : Babelfish for Aurora PostgreSQL  
 
 ## ![image]([img/Arch-Category_Developer-Tools_16.png]()) Developer Tools
-- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-cicd-2020-reg-event-LP.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Code サービス群を活用して、CI/CD のための構成を構築しよう！</a>  
+- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-cicd-2022-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Code サービス群を活用して、CI/CD のための構成を構築しよう！</a>  
 AWS CodeCommit、AWS CodeBuild、AWS CodeDeploy、AWS CodePipeline を利用し、継続的インテグレーション/継続的デプロイメント(CI/CD)構成を作成します。  
 tag : AWS CodeCommit, AWS CodeBuild, AWS CodeDeploy, AWS CodePipelie  
 
@@ -432,6 +436,10 @@ tag : Amazon SageMaker, Amazon SageMaker Data Wrangler, Feature Store, Amazon Sa
 Amazon SageMaker Canvas Immersion Day はセルフペースまたはインストラクター主導で行うことのできるラボです。本ラボを実施することによって、公開されたデータセットに基づいて Amazon SageMaker Canvas を用いた現実世界の課題解決が可能になります。本ラボではビジネスアナリストを主な対象者としていますが、すべての方がご自身で Sage Maker Canvas を使用できるようになることを想定しています。  
 tag : Amazon SageMaker Canvas  
 
+- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-SageMaker-Canvas-2023-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon SageMaker Canvas 〜 ノーコードで機械学習を始めよう</a>  
+Amazon SageMaker Canvas を使って、ノーコードで機械学習を体験する入門ハンズオンです。わかりやすく動画で学習頂けます。  
+tag : Amazon SageMaker Canvas  
+
 - <a href="https://github.com/harunobukameda/Amazon-SageMaker-Canvas/blob/main/SageMaker%20Canvas.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon SageMaker Canvas ワークショップ</a>  
 Amazon SageMaker Canvas は AWS が提供する構造化データを対象とした機 械学習をノーコードで実現できるサービスです。使い方を学習できるワークショップです。  
 tag : Amazon SageMaker Canvas  
@@ -456,7 +464,7 @@ tag : Amazon SageMaker, MNIST
 このハンズオンでは、Amazon SageMaker の機能を使って機械学習を簡単に始められることを目的としています。本ワークショップでは機械学習でよく使われる Python 言語を中心に進めていきますので、Python を使ったプログラミング経験があるとスムーズです  
 tag : Amazon SageMaker, scikit-learn  
 
-- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-AIML-2021-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Managed AI/ML サービス はじめの一歩</a>  
+- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-AIML-2022-reg-event.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Managed AI/ML サービス はじめの一歩</a>  
 AWS には機械学習の深い知識がなくとも AI/ML を組み込める Managed な AI/ML サービス群があります。このハンズオンでは、5つの AI/ML サービスを利用する方法について学んでいただけます。  
 tag : Amazon Personalize, Amazon Forecast, Amazon Transcribe, Amazon Comprehend, Amazon Rekognition  
 
@@ -545,7 +553,7 @@ tag : AWS Systems Manager, Fleet Manager, Systems Manager, RunCommand, Patch Man
 AWS Systems Managerを使った、サーバのインベントリデータ収集、リモート接続、サーバへの一括コマンド実行などの管理運用について学べます  
 tag : AWS Systems Manager, Session Manager, Run Command  
 
-- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-cfn-2020-reg-event-LP.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS 環境のコード管理 AWS CloudFormationで Web システムを構築する</a>  
+- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-cfn-2022-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS 環境のコード管理 AWS CloudFormationで Web システムを構築する</a>  
 一般的な Web システム環境を例にして、AWS CloudFormationの使用方法およびクラウドにおける構成管理の考え方が学べます。  
 tag : CloudFormation  
 
@@ -557,7 +565,7 @@ tag : AWS CDK
 このワークショップは、「今までインフラを触っていて、AWSサービスも知っているがコードはあまり書いたことがない」という方に向けた、TypeScriptの基礎から始めるAWS Cloud Development Kit (AWS CDK) 開発入門トレーニングです。  
 tag : CDK, TypeScript  
 
-- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-monitoring-2020-reg-event-LP.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">監視編 サーバーのモニタリングの基本を学ぼう</a>  
+- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-monitoring-2022-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">監視編 サーバーのモニタリングの基本を学ぼう</a>  
 Amazon CloudWatchを利用した AWS における監視の基本が学べます。WordPressを題材に、どのようにAWSで監視していくかを体験できます。  
 tag : Amazon CloudWatch  
 
@@ -624,7 +632,7 @@ Migration Hub Refactor Spaces は AWS 上で動作している Rosati を持つ�
 tag : AWS Migration Hub Refactor Spaces  
 
 ## ![image]([img/Arch-Category_Networking-Content-Delivery_16.png]()) Networking & Content Delivery
-- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Network1-2020-reg-event-LP.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS上にセキュアなプライベートネットワーク空間を作成する</a>  
+- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Network1-2022-reg-event.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS上にセキュアなプライベートネットワーク空間を作成する</a>  
 Amazon VPC の基本および VPC 内の通信と VPC から VPC 外に接続する方法について学べます。  
 tag : Amazon VPC, VPC Endpoint  
 
@@ -636,15 +644,15 @@ tag : AWS Client VPN
 リモート環境からソフトウェアVPN接続を使って、VPC内へのリソースへアクセスする方法を学ぶことが可能です。  
 tag : AWS Client VPN  
 
-- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-StaticWebsiteHosting-2020-reg-event-LP.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS 上で静的な Web サイトを公開しよう！</a>  
+- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-StaticWebsiteHosting-2022-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS 上で静的な Web サイトを公開しよう！</a>  
 Amazon S3 の静的ウェブサイトホスティング機能を用いて、簡単な Web サイトをインターネット上に公開するまでをハンズオンで確認できます。  
 tag : Amazon S3, Amazon CloudFront, Amazon Route 53, AWS Certificate Manager  
 
-- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Network2-202009-reg-event-LP.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon VPC間およびAmazon VPCとオンプレミスのプライベートネットワーク接続</a>  
+- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Network2-2022-reg-event.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon VPC間およびAmazon VPCとオンプレミスのプライベートネットワーク接続</a>  
 Amazon VPC間の接続方法とVPCとオンプレミスの接続方法の解説、VPCピアリング接続、AWS Site-to-Site VPNに関するハンズオンがご利用いただけます。  
 tag : AWS Site-to-Site VPN, VPC ピアリング  
 
-- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-CF_WAF-2021-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon CloudFrontおよびAWS WAFを用いて エッジサービスの活用方法を学ぼう</a>  
+- <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-CF_WAF-2022-reg-event.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon CloudFrontおよびAWS WAFを用いて エッジサービスの活用方法を学ぼう</a>  
 Amazon CloudFrontやAWS WAFといったAWSのエッジサービスをハンズオン形式でご活用いただき、その導入メリットや実際の運用方法を学べます。  
 tag : Amazon CloudFront, AWS WAF  
 
