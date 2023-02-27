@@ -13,12 +13,15 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 ## 2023-02-27
-ハンズオンコンテンツ 2件 追加
+ハンズオンコンテンツ 3件 追加
 ECS Service Connect ワークショップ  
 https://catalog.workshops.aws/ecs-service-connect/ja-JP  
 
 Amazon SageMaker Canvas 〜 ノーコードで機械学習を始めよう  
 https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-SageMaker-Canvas-2023-reg-event.html?trk=aws_introduction_page  
+
+Welcome to Kendra Essentials+  
+https://catalog.us-east-1.prod.workshops.aws/workshops/df64824d-abbe-4b0d-8b31-8752bceabade/ja-JP  
 
 ## 2023-02-13
 ハンズオンコンテンツ 1件 追加  

@@ -468,6 +468,10 @@ tag : Amazon SageMaker, scikit-learn
 AWS には機械学習の深い知識がなくとも AI/ML を組み込める Managed な AI/ML サービス群があります。このハンズオンでは、5つの AI/ML サービスを利用する方法について学んでいただけます。  
 tag : Amazon Personalize, Amazon Forecast, Amazon Transcribe, Amazon Comprehend, Amazon Rekognition  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/df64824d-abbe-4b0d-8b31-8752bceabade/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Welcome to Kendra Essentials+</a>  
+Amazon Kendra は、機械学習を活用した高精度で使いやすいエンタープライズサーチサービスです。Kendraは、強力な自然言語検索機能をWebサイトやアプリケーションに提供します。またエンドユーザーは Kendra の機能により社内に散在する膨大なコンテンツの中から必要な情報をより簡単に見つけることができるようになります。このワークショップでは、いくつかのコネクタを使用してKendraインデックスを構成し、検索結果を向上させるためのメタデータの使用方法を学びます。  
+tag : Amazon Kendra, Amazon Cognito, AWS Amplify, Amazon Lex  
+
 - <a href="https://github.com/harunobukameda/Amazon-CodeGuru-Reviewer/blob/main/Amazon%20CodeGuru%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon CodeGuru ワークショップ</a>  
 Amazon CodeGuru はインテリジェントなレコメンデーションを提供するデベロッパーツールで、コードの品質を向上し、アプリケーションの最もコストがかかっているコード行を特定するのに役立ちます。Amazon CodeGuru を使って、GitHub 上のソースコードに対する推奨事項をレコメンドしてくれる内容を体験いただけます。  
 tag : Amazon CodeGuru  
