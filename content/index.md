@@ -660,6 +660,10 @@ tag : AWS Site-to-Site VPN, VPC ピアリング
 Amazon CloudFrontやAWS WAFといったAWSのエッジサービスをハンズオン形式でご活用いただき、その導入メリットや実際の運用方法を学べます。  
 tag : Amazon CloudFront, AWS WAF  
 
+- <a href="https://catalog.workshops.aws/edge-services-immersionday/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Edge Services Immersion Day Workshop</a>  
+AWS エッジサービスについて理解を深めるためのガイドとなる一連の独立したハンズオンラボです。これらのハンズオンを通して、AWS エッジサービスの価値、その中心概念、主な機能、ベストプラクティスを理解できます。  
+tag : Amazon CloudFront, AWS Global Accelerator, AWS Shield, AWS WAF, AWS Firewall Manager, Image Optimization, Lambda@Edge, CloudFront function  
+
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/fe68adc5-7b3a-4f08-93c9-45993d85cfe1/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">CloudFront ハンズオン</a>  
 CloudFront を利用したコンテンツ配信を体験しつつ、CloudFront/WAF等のログ収集、検索を体験できます。  
 tag : Amazon CloudFront, AWS WAF, Amazon Kinesis Data Firehose, Amazon S3, Amazon Athena  

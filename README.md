@@ -12,6 +12,11 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
+## 2023-03-01
+ハンズオンコンテンツ 1件 追加
+Edge Services Immersion Day Workshop  
+https://catalog.workshops.aws/edge-services-immersionday/ja-JP  
+
 ## 2023-02-27
 ハンズオンコンテンツ 3件 追加
 ECS Service Connect ワークショップ  
