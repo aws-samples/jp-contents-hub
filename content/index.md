@@ -631,6 +631,10 @@ tag : AWS Application Discovery Service(ADS), AWS Migration Hub, AWS Application
 このハンズオンでは、AWS Application Migration Service(以後MGN) を使った仮想サーバーの移行を体験することができます。オハイオリージョンをオンプレミス環境と想定して、アプリケーションサーバーをオハイオからバージニア北部に移行するハンズオンになっています。  
 tag : AWS Application Migration Service(MGN), Amazon EC2  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/9c18a3d9-4d18-45b3-99a5-400b249d0c5f/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Modernize .NET application from A to Z workshop</a>  
+AWS Toolkit for .NET Refactoring と Babelfish for Amazon Aurora PostgreSQL を利用して、レガシーな Microsoft ワークロードをオープンソースの基盤にモダナイズする一連の工程をハンズオン形式で体験できます。  
+tag : AWS Toolkit for .NET Refactoring, Babelfish for Amazon Aurora PostgreSQL, Visual Studio 2022   
+
 - <a href="https://github.com/harunobukameda/AWS-Migration-Hub-Refactor-Spaces/blob/main/AWS%20Migration%20Hub%20Refactor%20Spaces%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Migration Hub Refactor Spaces ワークショップ</a>  
 Migration Hub Refactor Spaces は AWS 上で動作している Rosati を持つモノリシ ックなウェブアプリケーションをマイクロサービスへ移行させる際に、ストラングラーフ ィグパターンによる移行作業を簡素化するために、ネットワーク構成を構築するサービス です。Migration Hub Refactor Spaces をどのように活用できるか学習できるワークショップです。  
 tag : AWS Migration Hub Refactor Spaces  
@@ -838,4 +842,3 @@ tag : Amazon FSx File Gateway
 - <a href="https://catalog.workshops.aws/vmwarecloud/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">VMware Cloud on AWS Immersion Day</a>  
 VMware Cloud on AWS Immersion Day は、ハンズオンを通じて VMware Cloud on AWS を実際に体験することができ、参加者はサービスに慣れ親しみ、その使い勝手の良さを実感することができます。  
 tag : VMware Cloud on AWS, VMware HCX, Amazon FSx for Windows File Server, AWS Managed Microsoft Active Directory  
-

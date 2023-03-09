@@ -12,6 +12,11 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
+## 2023-03-09
+ハンズオンコンテンツ 1件 追加
+Modernize .NET application from A to Z workshop  
+https://catalog.us-east-1.prod.workshops.aws/workshops/9c18a3d9-4d18-45b3-99a5-400b249d0c5f/ja-JP  
+
 ## 2023-03-01
 ハンズオンコンテンツ 1件 追加
 Edge Services Immersion Day Workshop  
