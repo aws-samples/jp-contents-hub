@@ -633,7 +633,7 @@ tag : AWS Application Migration Service(MGN), Amazon EC2
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/9c18a3d9-4d18-45b3-99a5-400b249d0c5f/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Modernize .NET application from A to Z workshop</a>  
 AWS Toolkit for .NET Refactoring と Babelfish for Amazon Aurora PostgreSQL を利用して、レガシーな Microsoft ワークロードをオープンソースの基盤にモダナイズする一連の工程をハンズオン形式で体験できます。  
-tag : AWS Toolkit for .NET Refactoring, Babelfish for Amazon Aurora PostgreSQL, Visual Studio 2022   
+tag : AWS Toolkit for .NET Refactoring, Babelfish for Amazon Aurora PostgreSQL, Visual Studio 2022  
 
 - <a href="https://github.com/harunobukameda/AWS-Migration-Hub-Refactor-Spaces/blob/main/AWS%20Migration%20Hub%20Refactor%20Spaces%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Migration Hub Refactor Spaces ワークショップ</a>  
 Migration Hub Refactor Spaces は AWS 上で動作している Rosati を持つモノリシ ックなウェブアプリケーションをマイクロサービスへ移行させる際に、ストラングラーフ ィグパターンによる移行作業を簡素化するために、ネットワーク構成を構築するサービス です。Migration Hub Refactor Spaces をどのように活用できるか学習できるワークショップです。  
@@ -775,6 +775,10 @@ tag : AWS Secrets Manager, AWS Lambda, AWS KMS, AWS Config, Amazon EventBridge, 
 - <a href="https://github.com/harunobukameda/AWS-IAM-Roles-Anywhere-AWS-Certificate-Manager/blob/main/IAM%20Roles%20Anywhere.docx" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">IAM Roles Anywhere ワークショップ</a>  
 IAM Roles Anywhere は、AWS 外部にあるワークロードに対して、一時的に IAM 権限を付与できるサービスです。IAM Roles Anywhere の構成方法を学習頂けます。Download ボタンから、Word ファイルをダウンロードが出来ます。  
 tag : IAM Roles Anywhere  
+
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/863fe895-a98e-4a9f-a222-05f7f0e321a2/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Inspector を用いた脆弱性管理</a>  
+Amazon Inspector は自動化された脆弱性管理サービスで、Amazon Elastic Compute Cloud (EC2) とコンテナのワークロードを継続的にスキャンして、ソフトウェアの脆弱性や意図しないネットワークへの露出領域がないかを確認します。このワークショップでは、Inspector を使用して、Amazon ECR 内にあるEC2インスタンスとコンテナイメージをスキャンして、ソフトウェアの脆弱性がないか調べる方法を学びます。  
+tag : Amazon Inspector, Security Hub, Systems Manager Patch Manager  
 
 ## ![image]([img/Arch-Category_Serverless_16.png]()) Serverless
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Serverless-2-2022-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS SAM を使ってテンプレートからサーバーレスな環境を構築する</a>  

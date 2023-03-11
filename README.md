@@ -12,6 +12,11 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
+## 2023-03-11
+ハンズオンコンテンツ 1件 追加  
+Amazon Inspector を用いた脆弱性管理  
+https://catalog.us-east-1.prod.workshops.aws/workshops/863fe895-a98e-4a9f-a222-05f7f0e321a2/ja-JP  
+
 ## 2023-03-09
 ハンズオンコンテンツ 1件 追加  
 Modernize .NET application from A to Z workshop  
