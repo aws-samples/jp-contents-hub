@@ -627,7 +627,7 @@ tag : Amazon Interactive Video Service(IVS)
 オンプレミスからAWSへ移行する際に活用できる各種AWSサービスを用いて、実際にサーバーやデータベースを移行する流れを体験できます。  
 tag : AWS Application Discovery Service(ADS), AWS Migration Hub, AWS Application Migration Service(MGN), AWS Database Migration Service(DMS)  
 
-- <a href="https://d2h9aujg4hgxod.cloudfront.net/51E3A3D0-D70A-11EB-91FC-CFB7976F85AB/index.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Application Migration Service(MGN) ハンズオン</a>  
+- <a href="https://dcj71ciaiav4i.cloudfront.net/75BEDEA0-D70A-11EB-91FC-CFB7976F85AB/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Application Migration Service(MGN) ハンズオン</a>  
 このハンズオンでは、AWS Application Migration Service(以後MGN) を使った仮想サーバーの移行を体験することができます。オハイオリージョンをオンプレミス環境と想定して、アプリケーションサーバーをオハイオからバージニア北部に移行するハンズオンになっています。  
 tag : AWS Application Migration Service(MGN), Amazon EC2  
 

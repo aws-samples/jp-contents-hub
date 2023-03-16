@@ -12,6 +12,12 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
+## 2023-03-16
+ハンズオンコンテンツ 1件 URL 修正  
+AWS Application Migration Service(MGN) ハンズオン  
+https://dcj71ciaiav4i.cloudfront.net/75BEDEA0-D70A-11EB-91FC-CFB7976F85AB/  
+
+
 ## 2023-03-11
 ハンズオンコンテンツ 1件 追加  
 Amazon Inspector を用いた脆弱性管理  
