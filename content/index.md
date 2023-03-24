@@ -752,6 +752,10 @@ tag : Amazon GuardDuty
 このハンズオンではこの Cognito ユーザプールに焦点をあて、基礎から理解するために直接 API の操作を行ってみるハンズオンとなっています。  
 tag : Amazon Cognito  
 
+- <a href="https://dcj71ciaiav4i.cloudfront.net/0A4DEB20-C89E-11ED-A834-5D52D9748576/chapter1.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Cognito Workshop</a>  
+Amazon Cognitoは、モバイルアプリやWebアプリにユーザーのサインアップや認証機能を簡単に追加できるサービスです。このワークショップでは、Cognitoについて詳しく説明し、ペットストアの認証ソリューションを構築します。  
+tag : Amazon Cognito, API Gateway  
+
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/60a6ee4e-e32d-42f5-bd9b-4a2f7c135a72/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">SIEM on Amazon OpenSearch Service ワークショップ</a>  
 Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) にセキュリティログ分析基盤を構築し、 セキュリティ対応とその構築を体験します。  
 tag : Analytics, SIEM on Amazon OpenSearch Service, Amazon Athena  
@@ -846,3 +850,4 @@ tag : Amazon FSx File Gateway
 - <a href="https://catalog.workshops.aws/vmwarecloud/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">VMware Cloud on AWS Immersion Day</a>  
 VMware Cloud on AWS Immersion Day は、ハンズオンを通じて VMware Cloud on AWS を実際に体験することができ、参加者はサービスに慣れ親しみ、その使い勝手の良さを実感することができます。  
 tag : VMware Cloud on AWS, VMware HCX, Amazon FSx for Windows File Server, AWS Managed Microsoft Active Directory  
+

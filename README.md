@@ -12,6 +12,11 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
+## 2023-03-24
+ハンズオンコンテンツ 1件 追加  
+Cognito Workshop  
+https://dcj71ciaiav4i.cloudfront.net/0A4DEB20-C89E-11ED-A834-5D52D9748576/chapter1.html  
+
 ## 2023-03-16
 ハンズオンコンテンツ 1件 URL 修正  
 AWS Application Migration Service(MGN) ハンズオン  
