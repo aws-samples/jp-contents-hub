@@ -139,6 +139,10 @@ tag : Amazon Connect, AWS Lambda, Amazon DynamoDB, Amazon Lex
 このワークショップでは、Amazon Pinpoint、AWS Lambda、Amazon Connectを使用して、顧客からのSMSリクエストに応じて、透過的に顧客を電話コールバックのキューに入れる方法を体験します。これにより、ユーザーはエージェントに電話をかけてもらうようにSMSで依頼するだけで、次のエージェントが空き次第、システムが自動的に顧客へ電話を発信します。  
 tag : Amazon Connect, Amazon Pinpoint, AWS Lambda  
 
+- <a href="https://catalog.workshops.aws/amazon-pinpoint-customer-experience/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Pinpoint で作るカスタマーエクスペリエンス</a>  
+このワークショップを通してPinpointでカスタマーエクスペリエンスを向上させるための環境構築を学べます。セグメントやパーソナライズ 、ジャーニーなどの各種機能、Personalizeとの連携や各種APIの操作など、幅広くPinpointを理解することができます。  
+tag : Amazon Pinpoint, Amazon Personalize  
+
 - <a href="https://github.com/harunobukameda/Amazon-Connect-Handson/blob/master/connecthandson%20.zip" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect ハンズオン</a>  
 このハンズオンでは、Amazon Connect の基本的な使い方を学習できます。リンクににある Download ボタンから、zip ファイルをダウンロードして学習を進められます。  
 tag : Amazon Connect  

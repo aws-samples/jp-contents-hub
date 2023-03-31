@@ -12,6 +12,11 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
+## 2023-04-01
+ハンズオンコンテンツ 1件 追加  
+Amazon Pinpoint で作るカスタマーエクスペリエンス  
+https://catalog.workshops.aws/amazon-pinpoint-customer-experience/ja-JP  
+
 ## 2023-03-24
 ハンズオンコンテンツ 1件 追加  
 Cognito Workshop  
