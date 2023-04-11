@@ -229,9 +229,9 @@ tag : Amazon ECS, AWS Fargate, Amazon ECR
 コンテナイメージを作成して、AWS 上でコンテナを動かし、インターネットからアクセスする一連の流れを体験できます。  
 tag : Amazon ECS, AWS Fargate, Amazon ECR  
 
-- <a href="https://dcj71ciaiav4i.cloudfront.net/D74429F0-9E6B-11EB-A4F6-B1481EECB1E4/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">ECS Web Application ハンズオン</a>  
-Ruby on Rails ウェブアプリケーションをコンテナ化し、ECS および Fargate を使ったアプリケーションの実行を体験できます。  
-tag : Amazon ECS, AWS Fargate  
+- <a href="https://catalog.workshops.aws/ecs-web-application-handson" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">ECS Web Application ハンズオン</a>  
+このハンズオンでは、Ruby on Rails ウェブアプリケーションをコンテナ化し、ECS on EC2 および ECS on Fargate を使用したアプリケーションのデプロイ、オートスケーリングを体験します。また、発展コンテンツでは CI/CD パイプラインの作成を体験します。  
+tag : Amazon ECS, AWS Fargate, Amazon ECR, AWS CodeBuild, AWS CodePipeline  
 
 - <a href="https://dcj71ciaiav4i.cloudfront.net/D0B5A980-C9FC-11EB-ABD7-3362918AE194/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">ECS Workshop - Cats and Dogs-</a>  
  Amazon ECS や Fargate、さらには Docker コンテナの開発ワークフローにあまり馴染みのない方に最適なコンテンツを提供しています。  
