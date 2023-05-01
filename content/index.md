@@ -676,6 +676,10 @@ tag : Amazon CloudFront, AWS Global Accelerator, AWS Shield, AWS WAF, AWS Firewa
 CloudFront を利用したコンテンツ配信を体験しつつ、CloudFront/WAF等のログ収集、検索を体験できます。  
 tag : Amazon CloudFront, AWS WAF, Amazon Kinesis Data Firehose, Amazon S3, Amazon Athena  
 
+- <a href="https://catalog.workshops.aws/handsonwithvpclattice/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon VPC Lattice Workshop</a>  
+このハンズオンでは、VPC Lattice のサービスネットワークを介してサービス間の通信を実現する方法を学習します。認証やログ出力の方法も学習に含まれています。  
+tag : Amazon VPC Lattice  
+
 - <a href="https://dcj71ciaiav4i.cloudfront.net/7CB85370-A998-11EB-A09B-259812622FA1/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Workshop for AWS Educate (CloudFront/S3)</a>  
 CloudFront と S3 を利用して、サーバレスな Web 配信を体験いただける内容です。  
 tag : Amazon S3, Amazon CloudFront  
@@ -837,6 +841,10 @@ tag : Amazon FSx for Windows File Server
 - <a href="https://github.com/aws-samples/amazon-fsx-workshop/tree/master/netapp-ontap/JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon FSx for NetApp ONTAP ワークショップ</a>  
 本ワークショップは、Amazon FSx for NetApp ONTAPの詳細を知りたいアーキテクトやエンジニアを対象としたワークショップです。次の内容を学習いただけます。アクセス方法、ONTAP CLI を使った操作、NFS と CIFS を使ったマルチプロトコルアクセス、データ保護方法、FlexClone、ストレージ効率化(圧縮、重複排除、コンパクション)、SnapMirror、FlexCache、Tiering。  
 tag : Amazon FSx for NetApp ONTAP  
+
+- <a href="https://catalog.us-east-1.prod.workshops.aws/datasync-migrate-millions-of-files/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS DataSync を利用した Amazon S3 への移行ハンズオン</a>  
+このハンズオンは AWS DataSync を使用して、オンプレミスの NFS サーバーから Amazon S3 へ何百万ものファイルを転送する*中上級レベル* (Level 300) のワークショップです。ワークショップでは、AWS DataSync を使用した大規模なデータセットを転送する手順と、考慮すべき内容や高度な概念について説明します。  
+tag : AWS DataSync  
 
 - <a href="https://github.com/aws-samples/aws-datasync-fsx-windows-migration/tree/master/JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">DataSync を使った FSx for Windows File Server へのマイグレーション</a>  
 このハンズオンでは、DataSync を使った FSx for Windows File Server へのマイグレーション方法を学習いただけます。  

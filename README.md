@@ -12,6 +12,14 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
+## 2023-05-01
+ハンズオンコンテンツ 2件 URL更新  
+Amazon VPC Lattice Workshop  
+https://catalog.workshops.aws/handsonwithvpclattice/ja-JP  
+
+AWS DataSync を利用した Amazon S3 への移行ハンズオン  
+https://catalog.us-east-1.prod.workshops.aws/datasync-migrate-millions-of-files/ja-JP  
+
 ## 2023-04-11
 ハンズオンコンテンツ 1件 URL更新  
 ECS Web Application ハンズオン  
