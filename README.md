@@ -12,6 +12,15 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
+
+## 2023-05-16
+2 件リンク切れを削除  
+Amplify SNS Workshop  
+https://amplify-sns.workshop.aws/ja/  
+
+データベース移行ハンズオン  
+https://master.d1oy109z3xffu3.amplifyapp.com/  
+
 ## 2023-05-01
 ハンズオンコンテンツ 2件 URL更新  
 Amazon VPC Lattice Workshop  

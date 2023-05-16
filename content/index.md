@@ -286,10 +286,6 @@ tag : AWS Copilot, Amazon ECS, CI/CD, AWS CodePipeline, AWS CodeCommit, AWS Code
 tag : Amazon EC2, Graviton, CodeCommit, CodeBuild, CodePipeline, YOLO  
 
 ## ![image]([img/Arch-Category_Database_16.png]()) Database
-- <a href="https://master.d1oy109z3xffu3.amplifyapp.com/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">データベース移行ハンズオン</a>  
-データベースの移行に関するハンズオンです。3つの移行シナリオがあり、それぞれ体験頂けます。「Oracle Database から RDS for Oracle へ移行」「SQL Server から RDS for SQL Server へ移行」「Oracle Database から RDS for PostgreSQL へ移行」  
-tag : Amazon RDS, Oracle Database, SQL Server, PostgreSQL, DataPump, Schema Conversion Tool (SCT), AWS Database Migration Service (DMS)  
-
 - <a href="https://github.com/harunobukameda/Aurora-Serverless-v2/blob/main/Amazon%20Aurora%20Serverless%20v2%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Aurora Serverless v2 ワークショップ</a>  
 Amazon Aurora Serverless v2 を触ってみるハンズオンです。  
 tag : Amazon Aurora Serverless v2  
@@ -332,10 +328,6 @@ tag : Amazon WorkSpaces Web
 - <a href="https://catalog.workshops.aws/amplify-vue3" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Amplify Workshop with Vue.js</a>  
 AWS を使用したスケーラブルなモバイルアプリおよびウェブアプリの作成、設定、実装を容易にする AWS Amplify を提供しています。このワークショップでは、AWS Amplify と Vue.js を利用した、手早く、かつスケールするアプリケーションの実装を体験できます。  
 tag : AWS Amplify, Vue.js, AWS AppSync, Amazon DynamoDB, Amazon Cognito, Amazon Pinpoint, Amazon Comprehend, Amazon Translate, Amazon Polly, Amazon Rekognition  
-
-- <a href="https://amplify-sns.workshop.aws/ja/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amplify SNS Workshop</a>  
-本ワークショップでは Twitter ライクなソーシャルメディアアプリケーションの開発を通して、実践的に AWS Amplify について学ぶことが出来ます。  
-tag : AWS Amplify, AWS AppSync, Amazon Cognito, Amazon DynamoDB  
 
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-amplify-2022-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Amplify を用いた Web サイトの構築方法を学ぼう</a>  
 AWS Amplify という Web フロントエンド、モバイルアプリの開発を加速させるサービスを利用した Web サイトの構築方法について理解を深めることができます。  
