@@ -13,6 +13,20 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-06-05
+ハンズオンコンテンツ 4件 追加  
+AWS Direct Connect ハンズオン  
+https://catalog.us-east-1.prod.workshops.aws/workshops/fc276e2b-38dd-4a19-bd46-36da91674230/ja-JP  
+
+AWS Step Functions ワークショップ  
+https://catalog.workshops.aws/stepfunctions/ja-JP  
+
+AWS PrivateLink ワークショップ  
+https://catalog.us-east-1.prod.workshops.aws/workshops/a47907fc-ead9-4cc5-b964-3f208ddd472f/ja-JP  
+
+Startup Security :迅速な構築の中でセキュリティを確保するためのテクニック  
+https://catalog.workshops.aws/startup-security-stay-secure-while-building-quickly/ja-JP  
+
 ## 2023-05-16
 2 件リンク切れを削除  
 Amplify SNS Workshop  
@@ -22,7 +36,7 @@ https://amplify-sns.workshop.aws/ja/
 https://master.d1oy109z3xffu3.amplifyapp.com/  
 
 ## 2023-05-01
-ハンズオンコンテンツ 2件 URL更新  
+ハンズオンコンテンツ 2件 追加  
 Amazon VPC Lattice Workshop  
 https://catalog.workshops.aws/handsonwithvpclattice/ja-JP  
 

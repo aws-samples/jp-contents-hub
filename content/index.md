@@ -672,6 +672,14 @@ tag : Amazon CloudFront, AWS WAF, Amazon Kinesis Data Firehose, Amazon S3, Amazo
 このハンズオンでは、VPC Lattice のサービスネットワークを介してサービス間の通信を実現する方法を学習します。認証やログ出力の方法も学習に含まれています。  
 tag : Amazon VPC Lattice  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/fc276e2b-38dd-4a19-bd46-36da91674230/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Direct Connect ハンズオン</a>  
+AWS Direct Connectを実際に利用することにより、Amazon VPCとオンプレミスとの相互接続に関する理解を深めることを目的としています。※ 一般的にお持ちの AWS アカウントでは、このハンズオンを実際に試すことができません。画面のスクリーンショットや説明が丁寧に記載されているため、参考ドキュメントとしてご活用ください。  
+tag : Direct Connect, Direct Connect Gateway, Transit Gateway  
+
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/a47907fc-ead9-4cc5-b964-3f208ddd472f/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS PrivateLink ワークショップ</a>  
+AWS PrivateLink  とは、データをインターネットに公開することなく、VPC と 対応する AWS サービス間を接続することができるサービスです。このハンズオンの目的は PrivateLink の基本的な設定方法を理解することです。  
+tag : AWS PrivateLink  
+
 - <a href="https://dcj71ciaiav4i.cloudfront.net/7CB85370-A998-11EB-A09B-259812622FA1/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Workshop for AWS Educate (CloudFront/S3)</a>  
 CloudFront と S3 を利用して、サーバレスな Web 配信を体験いただける内容です。  
 tag : Amazon S3, Amazon CloudFront  
@@ -744,6 +752,10 @@ tag : OWASP Top 10,  静的アプリケーションセキュリティテスト (
 多くの組織で、お客様がオンプレミス環境で実現しているのと同じように、AWS環境でネットワークとアイデンティティの境界 (Perimeter) を構築したいと考えています。本ワークショップでは、AWSのお客様のリソースに対して境界を構築するためのいくつかのベストプラクティス、利用可能な AWS サービスや機能について紹介します。  
 tag : Session Manager, CloudTrail, Athena, データ境界コントロール  
 
+- <a href="https://catalog.workshops.aws/startup-security-stay-secure-while-building-quickly/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Startup Security :迅速な構築の中でセキュリティを確保するためのテクニック</a>  
+このワークショップでは OWASP ジュースショップの Web サイトを例として、既存のシステムにセキュリティを迅速に導入する手順を学習いただけます。  
+tag : GuardDuty, WAF, IAM  
+
 - <a href="https://d2h9aujg4hgxod.cloudfront.net/72704A00-FCD4-11EB-B3AC-898E20057A09/index.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">GuardDuty Workshop</a>  
 Amazon GuardDuty (マネージド型脅威検出サービス)を使用した脅威の検出と修復をカバーするシナリオについて説明します。このシナリオは、GuardDuty が検出できる脅威の一部を表す、いくつかの脅威ベクトルにまたがる攻撃をシミュレートします。さらに、GuardDuty の検出結果を表示および分析する方法、その結果に基づいてアラートを送信する方法、最後に検出結果に対する修復方法について説明します。  
 tag : Amazon GuardDuty  
@@ -804,6 +816,10 @@ tag : Kong Gateway, EKS, Prometheus, Grafana, CloudWatch
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/f2c0706c-7192-495f-853c-fd3341db265a/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Iterative App Modernization Workshop</a>  
 このワークショップは、モノリシックアーキテクチャからマイクロサービスアーキテクチャに移行するプロセスをガイドします。  
 tag : AWS Migration Hub, Amazon API Gateway, Amazon DynamoDB, AWS Lambda  
+
+- <a href="https://catalog.workshops.aws/stepfunctions/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Step Functions ワークショップ</a>  
+このワークショップでは、一連のインタラクティブなモジュールを通じて AWS Step Functions の主な機能を使用する方法を学びます。  
+tag : AWS Step Functions, AWS CDK, AWS SAM  
 
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-StepFunctions-2022-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Step Functions 入門 - ビジュアルツールを使ってローコードにワークフローを作成する</a>  
 サーバーレスなワークフロー構築サービスである AWS Step Functions の入門ハンズオンです。「Workflow Studio」と「AWS SDK 統合」機能を活用し、プログラムを書かずに AWS の各種サービスを利用するワークフローを作成します。  
