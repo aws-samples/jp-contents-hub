@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-06-12
+ハンズオンコンテンツ 1件 追加  
+Amazon CodeCatalyst Workshop  
+https://catalog.workshops.aws/integrated-devops/ja-JP  
+
 ## 2023-06-05
 ハンズオンコンテンツ 4件 追加  
 AWS Direct Connect ハンズオン  

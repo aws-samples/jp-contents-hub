@@ -307,6 +307,10 @@ tag : Babelfish for Aurora PostgreSQL
 AWS CodeCommit、AWS CodeBuild、AWS CodeDeploy、AWS CodePipeline を利用し、継続的インテグレーション/継続的デプロイメント(CI/CD)構成を作成します。  
 tag : AWS CodeCommit, AWS CodeBuild, AWS CodeDeploy, AWS CodePipelie  
 
+- <a href="https://catalog.workshops.aws/integrated-devops/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon CodeCatalyst Workshop</a>  
+CodeCatalyst は、ソフトウェアチームが日々の活動を調整し、開発プロセス全体を管理することで、アイデアを本番環境で動作するソフトウェアに迅速に変換できるよう支援する、DevOps ツールの統合セットを提供するマネージド・サービスです。このワークショップでは、AWS チームが、ツールセットアップのオーバーヘッドなしにプロジェクトを迅速に開始し、チーム作業とプロジェクトの進捗を監視し、アドホックな問題に取り組み、一貫した環境を設定し、デプロイメントを自動化するために知っておくべきことを紹介します。  
+tag : Amazon CodeCatalyst  
+
 - <a href="https://github.com/harunobukameda/AWS-FIS-Auto-Scaling/blob/main/AWS%20Fault%20Injection%20Simulator%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Fault Injection Simulator ワークショップ</a>  
 AWS Fault Injection Simulator は、AWS 上で障害を起こし可用性・回復性が問題ないか実験を行うためのマネージドサービスです。このワークショップでは、EC2 インスタンスを終了したときの実験をする内容を学習できます。  
 tag : AWS Fault Injection Simulator  
