@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-06-19
+ハンズオンコンテンツ 1件 追加  
+AWS Identity and Access Management (IAM) Immersion Day  
+https://catalog.us-east-1.prod.workshops.aws/workshops/18b3622c-5d4c-45c9-9834-6a7091109072/ja-JP  
+
 ## 2023-06-12
 ハンズオンコンテンツ 1件 追加  
 Amazon CodeCatalyst Workshop  

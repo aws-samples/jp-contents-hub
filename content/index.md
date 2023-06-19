@@ -760,6 +760,10 @@ tag : Session Manager, CloudTrail, Athena, データ境界コントロール
 このワークショップでは OWASP ジュースショップの Web サイトを例として、既存のシステムにセキュリティを迅速に導入する手順を学習いただけます。  
 tag : GuardDuty, WAF, IAM  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/18b3622c-5d4c-45c9-9834-6a7091109072/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Identity and Access Management (IAM) Immersion Day</a>  
+この IAM Immersion Day ワークショップでは、サービスの説明と AWS によるハンズオンラボを組み合わせて、AWS アイデンティティ とアクセス管理 (IAM) と大規模なガバナンスの方法について学びます。  
+tag :  AWS Identity and Access Management (IAM)  
+
 - <a href="https://d2h9aujg4hgxod.cloudfront.net/72704A00-FCD4-11EB-B3AC-898E20057A09/index.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">GuardDuty Workshop</a>  
 Amazon GuardDuty (マネージド型脅威検出サービス)を使用した脅威の検出と修復をカバーするシナリオについて説明します。このシナリオは、GuardDuty が検出できる脅威の一部を表す、いくつかの脅威ベクトルにまたがる攻撃をシミュレートします。さらに、GuardDuty の検出結果を表示および分析する方法、その結果に基づいてアラートを送信する方法、最後に検出結果に対する修復方法について説明します。  
 tag : Amazon GuardDuty  
