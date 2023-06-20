@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-06-20
+ハンズオンコンテンツ 1件 追加  
+Amazon Omics - End to End  
+https://catalog.workshops.aws/amazon-omics-end-to-end/ja-JP  
+
 ## 2023-06-19
 ハンズオンコンテンツ 1件 追加  
 AWS Identity and Access Management (IAM) Immersion Day  

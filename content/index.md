@@ -544,6 +544,10 @@ tag : Amazon SageMaker JumpStart
 AWS の機械学習サービスのサンプルコードのためのレポジトリです。  
 tag : Repository  
 
+- <a href="https://catalog.workshops.aws/amazon-omics-end-to-end/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Omics - End to End</a>  
+ワークショップを通じて、Amazon Omics のメリットを理解、シーケンスデータを Omics Storage にロードする方法、Omics Workflows によるワークフローの実施などを学習できます。  
+tag : Amazon Omics, Omics Storage, Omics Workflows, Omics Analytics  
+
 ## ![image]([img/Arch-Category_Management-Governance_16.png]()) Management & Governance
 - <a href="https://catalog.workshops.aws/observability/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">One Observability Workshop</a>  
 このワークショップは、AWS が提供するさまざまなツールセットで、アプリケーションの監視と監視をセットアップするための実践的な体験を提供することを目的としています。  
