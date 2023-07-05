@@ -403,7 +403,7 @@ tag : AWS IoT Greengrass V2
 AWS IoT SiteWise Edge の機能の使い方を学習することができます。データをローカルで処理 するための AWS IoT SiteWise に関する設定を学習し、ローカルでデータを取得、エッジのモニターポータルに取り込みます。  
 tag : AWS IoT SiteWise Edge  
 
-- <a href="https://iot-sitewise.workshop.aws/ja/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS IoT SiteWise ハンズオン</a>  
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/2de8cd26-ae40-4b09-ad19-7b1eff358f5f/ja-JP/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS IoT SiteWise ハンズオン</a>  
 このハンズオンでは、 AWS IoT SiteWise を学習するにあたり、3 つの発電所 (Power Plant) に各々2つの発電機 (Generator) がある環境をシミュレートします。各発電機からは温度、回転数や発電量などのデータ (メトリクス) を収集・保存し、生産設備の稼働効率に関する階層化された指標である設備総合効率 (Overall Equipment Effectiveness = OEE) に沿って可視化しモニタリングする方法を、実際に手を動かしながら 3〜4 時間ほどで学ぶことが出来ます。ハンズオンを始めるにあたっては、デバイスなどを用意せず、ブラウザのみで簡単に学べます。  
 tag : AWS IoT SiteWise  
 
@@ -580,6 +580,10 @@ tag : Amazon CloudWatch
 - <a href="https://controltower.aws-management.tools/ja/immersionday/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Control Tower Workshops</a>  
 AWS Control Tower サービスのデプロイの概要をハイレベルで学ぶことができます。  
 tag : AWS Control Tower  
+
+- <a href="https://catalog.workshops.aws/aws-resilience-hub-lab/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Resilience Hub を使用してアーキテクチャの回復性をモニタリングする</a>  
+AWS Resilience Hub は、AWS アプリケーションの回復力の定義、検証、追跡を一元的に行うことができます。アプリケーションを中断から保護し、復旧コストを削減して事業継続性を最適化し、コンプライアンスや規制要件を満たすのに役立ちます。ワークショップでは、AWS Resilience Hub のさまざまな機能を体験できます。  
+tag : AWS Resilience Hub  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/b97f7cb6-0ec4-41c7-97ea-c4156f4f1e0d/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Systems Manager & QuickSight ハンズオン</a>  
 このハンズオンでは Amazon EC2 インスタンスを作成し、これに含まれるソフトウェア構成情報を AWS Systems Manager (SSM) を用いて収集、さらに Amazon QuickSight での可視化を行います。  
