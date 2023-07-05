@@ -13,7 +13,6 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
-
 ## 2023-07-05
 ハンズオンコンテンツ 1件 追加  
 AWS Resilience Hub を使用してアーキテクチャの回復性をモニタリングする  

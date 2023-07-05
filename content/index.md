@@ -387,10 +387,6 @@ tag : AWS IoT Core, AWS IoT Device Management,
 増えていくデバイスの設定がゆるくなってしまったことを検出したり、複数の条件を満たすような挙動をしているデバイスを検出する方法について体験していただくことが出来ます  
 tag : AWS IoT Core, AWS IoT Device Defender, Amazon SNS, AWS Lambda  
 
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/0fc6bf2c-f59c-4490-9254-ef604942f5d3/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS IoT EduKit ワークショップ</a>  
-WS サービスを利用してIoT アプリケーションを構築する方法を、ワークショップを通して簡単に学ぶことができます。AWS IoT EduKit では、リファレンスハードウェアキットとわかりやすい一連のガイドとサンプルコードで構成されており、学生から経験豊富なエンジニアやプロフェッショナルに至るデベロッパーが、エンドツーエンドの IoT アプリケーションを構築する実践的な経験を得るお手伝いをします。  
-tag : RainMaker, AlexaVoice Service Integration  
-
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/4ae2dd76-c365-42e4-b66b-ed475363d562/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS IoT Events 初級ハンズオン</a>  
 このハンズオンでは AWS IoT Events を利用し、コードレスで複雑な状態管理のアプリケーションを構築する方法について学びます。  
 tag : AWS IoT Core, AWS IoT Events, Amazon SNS  
@@ -419,12 +415,8 @@ tag : AWS IoT TwinMaker, Amazon Timestream, Amazon Managed Grafana
 既存の 3D モデルを AWS IoT TwinMaker でインポートして、物理空間とその状態を 3D シーン上で表現します。AWS IoT SiteWise では産業プロトコルのデータの取り扱いに適しているサービスです。今回はCloud9で生成された擬似的なセンサーデータをIoT Coreで受け取り、SiteWiseにデータを転送します。その後、デジタルツイン上で表現するコンポーネント（データコネクタ）を作成し、SiteWise と S3 のデータをTwinMakerで扱うハンズオンです。AWS IoT TwinMaker 学習の最初の一歩としておすすめです。  
 tag : AWS IoT TwinMaker, AWS IoT SiteWise, AWS IoT Core, AWS IoT Core , Amazon Managed Grafana  
 
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/a391c4b3-5a5c-4b2a-a92a-681985d108f5/ja-JP/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Kinesis Video Streams WebRTC Workshop</a>  
-Amazon Kinesis Video Streams で WebRTC を用いてカメラデバイスとブラウザ間でメディアストリーミングを行う方法や、AWS IoT の Credentials Provider を用いてデバイスの認証と Amazon Kinesis Video Streams WebRTC へのアクセスを行う方法を、実際に手を動かしながら1〜2時間で学ぶことができます。  
-tag : Amazon Kinesis Video Streams  
-
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/b95b9381-baf0-4bef-ba31-63817d54c2a6/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Kinesis Video Streams ハンズオン</a>  
-Amazon Kinesis Video Streams を用いたカメラデバイスからの動画の収集、保存、 ライブやオンデマンドでの再生、動画ファイルのダウンロード、 Amazon Rekognition Video と組み合わせたライブ顔認識やニアリアルタイム分析などを行う方法を学びます。  
+Amazon Kinesis Video Streams を用いたカメラデバイスからの動画の収集、保存、 ライブやオンデマンドでの再生、動画ファイルのダウンロード、 Amazon Rekognition Video と組み合わせたライブ顔認識やニアリアルタイム分析などを行う方法を学びます。また、WebRTC を用いてカメラデバイスとブラウザ間で低遅延、双方向のメディアストリーミングを行う方法についても学べます。  
 tag : Amazon Kinesis Video Streams, Amazon Rekognition Video  
 
 ## ![image]([img/Arch-Category_Machine-Learning_16.png]()) Machine Learning
