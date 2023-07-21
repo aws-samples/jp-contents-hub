@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-07-21
+ハンズオンコンテンツ 1件 追加  
+EKS x Istio Workshop  
+https://catalog.us-east-1.prod.workshops.aws/workshops/a0193a6a-70c1-45e2-91e2-879852adb0d0/ja-JP  
+
 ## 2023-07-05
 ハンズオンコンテンツ 1件 追加  
 AWS Resilience Hub を使用してアーキテクチャの回復性をモニタリングする  

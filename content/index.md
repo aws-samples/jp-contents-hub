@@ -257,6 +257,10 @@ tag : Amazon ECS, AWS CodeCommit, AWS CodeBuild, AWS CodePipeline
 このワークショップでは、実際に Amazon ECS Service Connect を使用してコンテナアプリケーションをデプロイし、サービスディスカバリや VPC 内のサービス間通信、サービスエンドポイントのヘルスチェックとトラフィック管理、シンプルな運用とデバッグを実現する ECS コンソールを使用したトラフィックの考察、既存のサービスを ECS Service Connect を用いた構成に移行するプロセスなど、ECS Service Connect の利点について確認していきます。  
 tag : Amazon ECS, AWS Cloud Map, ECS Service Connect  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/a0193a6a-70c1-45e2-91e2-879852adb0d0/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">EKS x Istio Workshop</a>  
+このハンズオンでは、 Amazon Elastic Kubernetes Service (Amazon EKS) と オープンソースのサービスメッシュプラットフォームである Istio を使用して、マイクロサービス間の認証やモニタリング、相互認証、L7 での柔軟なロードバランシング等をご体験頂けます。  
+tag : Amazon EKS, Istio, Envoy  
+
 - <a href="https://github.com/harunobukameda/AWS-App-Runner/blob/main/AWS%20App%20Runner%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS App Runner ワークショップ</a>  
 App Runner と GitHub を連携して、シンプルな Web アプリケーションをデプロイする方法を学習いただけます。  
 tag : AWS App Runner  
