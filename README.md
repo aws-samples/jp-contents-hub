@@ -13,6 +13,12 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-08-21
+ハンズオンコンテンツ 1件 追加  
+CI/CD on AWS ワークショップ  
+https://catalog.workshops.aws/cicdonaws/ja-JP  
+
+
 ## 2023-07-21
 ハンズオンコンテンツ 1件 追加  
 EKS x Istio Workshop  

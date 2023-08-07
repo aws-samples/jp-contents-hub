@@ -315,6 +315,10 @@ tag : AWS CodeCommit, AWS CodeBuild, AWS CodeDeploy, AWS CodePipelie
 CodeCatalyst は、ソフトウェアチームが日々の活動を調整し、開発プロセス全体を管理することで、アイデアを本番環境で動作するソフトウェアに迅速に変換できるよう支援する、DevOps ツールの統合セットを提供するマネージド・サービスです。このワークショップでは、AWS チームが、ツールセットアップのオーバーヘッドなしにプロジェクトを迅速に開始し、チーム作業とプロジェクトの進捗を監視し、アドホックな問題に取り組み、一貫した環境を設定し、デプロイメントを自動化するために知っておくべきことを紹介します。  
 tag : Amazon CodeCatalyst  
 
+- <a href="https://catalog.workshops.aws/cicdonaws/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">CI/CD on AWS ワークショップ</a>  
+このワークショップは、ソフトウェアエンジニア、プラットフォームエンジニア、アーキテクトが、AWS で継続的インテグレーションと継続的デリバリー (CI/CD) ツールを使い始めるための実践的な体験を提供することを目的としています。  
+tag : CI/CD, CDK, Amazon ECS, CodeCommit, CodeBuild, CodePipeline  
+
 - <a href="https://github.com/harunobukameda/AWS-FIS-Auto-Scaling/blob/main/AWS%20Fault%20Injection%20Simulator%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Fault Injection Simulator ワークショップ</a>  
 AWS Fault Injection Simulator は、AWS 上で障害を起こし可用性・回復性が問題ないか実験を行うためのマネージドサービスです。このワークショップでは、EC2 インスタンスを終了したときの実験をする内容を学習できます。  
 tag : AWS Fault Injection Simulator  
@@ -882,4 +886,3 @@ tag : Amazon FSx File Gateway
 - <a href="https://catalog.workshops.aws/vmwarecloud/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">VMware Cloud on AWS Immersion Day</a>  
 VMware Cloud on AWS Immersion Day は、ハンズオンを通じて VMware Cloud on AWS を実際に体験することができ、参加者はサービスに慣れ親しみ、その使い勝手の良さを実感することができます。  
 tag : VMware Cloud on AWS, VMware HCX, Amazon FSx for Windows File Server, AWS Managed Microsoft Active Directory  
-
