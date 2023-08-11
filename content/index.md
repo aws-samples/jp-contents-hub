@@ -837,6 +837,10 @@ tag : AWS Migration Hub, Amazon API Gateway, Amazon DynamoDB, AWS Lambda
 このワークショップでは、一連のインタラクティブなモジュールを通じて AWS Step Functions の主な機能を使用する方法を学びます。  
 tag : AWS Step Functions, AWS CDK, AWS SAM  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/63320e83-6abc-493d-83d8-f822584fb3cb/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS でのイベント駆動アーキテクチャの構築</a>  
+このワークショップでは、イベント駆動アーキテクチャの基本、業務に適切な AWS サービスを選択する方法、コストとパフォーマンスの両方を最適化する方法について学びます。このワークショップでは、実践的なプラクティスを通じて、イベント駆動のデザインパターンを皆さんのアプリケーションに取り入れるスキルを身に付けることができます。  
+tag : Amazon EventBridge, Amazon SNS, Amazon SQS, AWS Lambda  
+
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-StepFunctions-2022-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Step Functions 入門 - ビジュアルツールを使ってローコードにワークフローを作成する</a>  
 サーバーレスなワークフロー構築サービスである AWS Step Functions の入門ハンズオンです。「Workflow Studio」と「AWS SDK 統合」機能を活用し、プログラムを書かずに AWS の各種サービスを利用するワークフローを作成します。  
 tag : AWS Step Functions, Amazon DynamoDB  

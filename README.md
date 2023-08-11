@@ -13,7 +13,13 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
-## 2023-08-21
+## 2023-08-11
+ハンズオンコンテンツ 1件 追加  
+AWS でのイベント駆動アーキテクチャの構築  
+https://catalog.us-east-1.prod.workshops.aws/workshops/63320e83-6abc-493d-83d8-f822584fb3cb/ja-JP  
+
+
+## 2023-08-06
 ハンズオンコンテンツ 1件 追加  
 CI/CD on AWS ワークショップ  
 https://catalog.workshops.aws/cicdonaws/ja-JP  
