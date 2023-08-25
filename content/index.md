@@ -36,6 +36,10 @@ tag : Amazon OpenSearch Service
 AWS Glue  は、アナリティクス、機械学習、アプリケーション開発のためのデータの発見、準備、結合を容易にするサーバーレスデータ統合サービスです。AWS Glue は、データ統合に必要なすべての機能を備えているため、数分でデータの分析を開始し、利用することができます。この Immersions Day Workshop は、実際の問題を解決するシナリオで、AWS Glue と関連する AWS サービスを使った複数のハンズオンラボに取り組むものになっています。  
 tag : AWS Glue, AWS Data Exchange, Open Data on AWS, Spark, Glue Studio, Glue DataBrew  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/redshift-immersion/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Redshift Immersion Labs</a>  
+このワークショップでは、ユーザーが Redshift プラットフォームを使い始めるのに役立つ一連の演習を行います。また、プラットフォームに組み込まれている多くの機能のデモンストレーションにも役立ちます。  
+tag : Redshift, Redshift ML, Redshift Spectrum  
+
 - <a href="https://github.com/aws-samples/amazon-s3-datalake-handson/tree/master/JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">データレイクハンズオン</a>  
 幅広いデータソースからの構造化データまたは非構造化データの集中リポジトリとして使用できる Data Lake は、データの保存と分析の方法として多くの企業に取り入れられています。このハンズオンでは、AWS のビッグデータ関連サービスを使用して実際に分析パイプラインを構築することを通して、 Data Lake とビッグデータ分析基盤構築の実感を持って頂くことをゴールとしています。  
 tag : Amazon QuickSight, Amazon Athena, AWS Glue, Amazon Kinesis Data Firehose, Amazon Redshift, Amazon OpenSearch Service, Fluentd  

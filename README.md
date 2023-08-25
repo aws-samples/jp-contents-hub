@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-08-25
+ハンズオンコンテンツ 1件 追加  
+Redshift Immersion Labs  
+https://catalog.us-east-1.prod.workshops.aws/redshift-immersion/ja-JP  
+
 ## 2023-08-11
 ハンズオンコンテンツ 1件 追加  
 AWS でのイベント駆動アーキテクチャの構築  
