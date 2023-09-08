@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-09-08
+ハンズオンコンテンツ 1件 追加  
+AWS App Runner ワークショップ  
+https://catalog.workshops.aws/workshops/e801f943-aad8-4d9e-aa8a-3bcc2913340f/ja-JP  
+
 ## 2023-08-25
 ハンズオンコンテンツ 1件 追加  
 Redshift Immersion Labs  

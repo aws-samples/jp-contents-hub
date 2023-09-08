@@ -265,6 +265,10 @@ tag : Amazon ECS, AWS Cloud Map, ECS Service Connect
 このハンズオンでは、 Amazon Elastic Kubernetes Service (Amazon EKS) と オープンソースのサービスメッシュプラットフォームである Istio を使用して、マイクロサービス間の認証やモニタリング、相互認証、L7 での柔軟なロードバランシング等をご体験頂けます。  
 tag : Amazon EKS, Istio, Envoy  
 
+- <a href="https://catalog.workshops.aws/workshops/e801f943-aad8-4d9e-aa8a-3bcc2913340f/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS App Runner ワークショップ</a>  
+このワークショップでは、まず App Runner サービスの作成方法を学びます。その後、作成したサービスに少しずつ機能を追加しながら、VPC 接続やオートスケーリングなどの機能や、 SSM パラメータストア、Secrets Manager、WAF、X-Ray などの AWS サービスとの統合について学習します。  
+tag : AWS App Runner、Amazon ECR、AWS X-Ray、AWS WAF、AWS Secrets Manager、AWS Systems Manager  
+
 - <a href="https://github.com/harunobukameda/AWS-App-Runner/blob/main/AWS%20App%20Runner%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS App Runner ワークショップ</a>  
 App Runner と GitHub を連携して、シンプルな Web アプリケーションをデプロイする方法を学習いただけます。  
 tag : AWS App Runner  
