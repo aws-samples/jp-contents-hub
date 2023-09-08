@@ -14,9 +14,12 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 # 更新履歴
 
 ## 2023-09-08
-ハンズオンコンテンツ 1件 追加  
+ハンズオンコンテンツ 2件 追加  
 AWS App Runner ワークショップ  
 https://catalog.workshops.aws/workshops/e801f943-aad8-4d9e-aa8a-3bcc2913340f/ja-JP  
+
+Data Engineering Immersion Day  
+https://catalog.us-east-1.prod.workshops.aws/workshops/976050cc-0606-4b23-b49f-ca7b8ac4b153/ja-JP  
 
 ## 2023-08-25
 ハンズオンコンテンツ 1件 追加  

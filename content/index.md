@@ -40,6 +40,10 @@ tag : AWS Glue, AWS Data Exchange, Open Data on AWS, Spark, Glue Studio, Glue Da
 このワークショップでは、ユーザーが Redshift プラットフォームを使い始めるのに役立つ一連の演習を行います。また、プラットフォームに組み込まれている多くの機能のデモンストレーションにも役立ちます。  
 tag : Redshift, Redshift ML, Redshift Spectrum  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/976050cc-0606-4b23-b49f-ca7b8ac4b153/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Data Engineering Immersion Day</a>  
+Amazon Kinesis Services によるストリーミングデータインジェストと分析、AWS Data Migration Service によるバッチデータ取り込み、AWS Glue によるデータカタログとデータレイクでのETL 実行、Amazon Athena によるデータレイクへのクエリ、Amazon Quicksight による視覚化など、AWS の分析サービスを実際に体験できます。  
+tag : Amazon Athena, Kinesis Data Streams, Kinesis Data Firehose, Kinesis Data Analytics, Managed Streaming for Kafka, AWS Database Migration Service (AWS DMS), AWS Glue, Apache Hudi, Amazon QuickSight  
+
 - <a href="https://github.com/aws-samples/amazon-s3-datalake-handson/tree/master/JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">データレイクハンズオン</a>  
 幅広いデータソースからの構造化データまたは非構造化データの集中リポジトリとして使用できる Data Lake は、データの保存と分析の方法として多くの企業に取り入れられています。このハンズオンでは、AWS のビッグデータ関連サービスを使用して実際に分析パイプラインを構築することを通して、 Data Lake とビッグデータ分析基盤構築の実感を持って頂くことをゴールとしています。  
 tag : Amazon QuickSight, Amazon Athena, AWS Glue, Amazon Kinesis Data Firehose, Amazon Redshift, Amazon OpenSearch Service, Fluentd  
