@@ -331,6 +331,10 @@ tag : Amazon CodeCatalyst
 このワークショップは、ソフトウェアエンジニア、プラットフォームエンジニア、アーキテクトが、AWS で継続的インテグレーションと継続的デリバリー (CI/CD) ツールを使い始めるための実践的な体験を提供することを目的としています。  
 tag : CI/CD, CDK, Amazon ECS, CodeCommit, CodeBuild, CodePipeline  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/1193c2c1-493f-4ec8-a493-14b913b4f7c1/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">カオスエンジニアリングワークショップ</a>  
+本ワークショップでは、実践を通じてカオスエンジニアリングの基礎を学ぶことを目的としています。ハンズオンを通じて、WEB３層アーキテクチャにおける各コンポーネント障害に対する回復力や、AWS Fault Injection Simulator にる実験管理の方法について確認していきます。  
+tag : AWS Fault Injection Simulator  
+
 - <a href="https://github.com/harunobukameda/AWS-FIS-Auto-Scaling/blob/main/AWS%20Fault%20Injection%20Simulator%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Fault Injection Simulator ワークショップ</a>  
 AWS Fault Injection Simulator は、AWS 上で障害を起こし可用性・回復性が問題ないか実験を行うためのマネージドサービスです。このワークショップでは、EC2 インスタンスを終了したときの実験をする内容を学習できます。  
 tag : AWS Fault Injection Simulator  
