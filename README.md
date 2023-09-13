@@ -13,6 +13,12 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-09-13
+ハンズオンコンテンツ 1件 追加  
+カオスエンジニアリングワークショップ  
+https://catalog.us-east-1.prod.workshops.aws/workshops/1193c2c1-493f-4ec8-a493-14b913b4f7c1/ja-JP  
+
+
 ## 2023-09-08
 ハンズオンコンテンツ 2件 追加  
 AWS App Runner ワークショップ  
