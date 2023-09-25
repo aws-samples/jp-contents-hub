@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-09-25
+ハンズオンコンテンツ 1件 追加  
+分散負荷テストソリューション ワークショップ  
+https://catalog.us-east-1.prod.workshops.aws/workshops/401f5147-738e-45d9-be9f-fed9c42a60b0/ja-JP  
+
 ## 2023-09-13
 ハンズオンコンテンツ 1件 追加  
 カオスエンジニアリングワークショップ  
