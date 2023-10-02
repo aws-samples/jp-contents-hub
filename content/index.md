@@ -377,6 +377,10 @@ tag : AWS Amplify, Amazon Cognito, AWS AppSync, Amazon DynamoDB, Amazon S3, AWS 
 このワークショップでは、Amazon Location Service の活用方法を学習頂けます。マップを Web アプリケーションに埋め込む、ジオコーディングや逆ジオコーディング、ルート最適化、といった方法を学習頂けます。  
 tag : Amazon Location Service, AWS IoT Core  
 
+- <a href="https://catalog.workshops.aws/amplify-core/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amplify Core Workshop</a>  
+このワークショップは、Amplify エコシステムの理解を深めたい開発者に実践的な体験を提供することを目的としています。モバイルアプリを構築する場合でも、JavaScript、iOS、Flutter を使用してデスクトップ用のアプリを構築する場合でも、Amplify にはすぐに使えるツールとフレームワークが用意されており、すぐに使い始めることができます。このコースでは、Amplify が提供する様々なコンポーネントを使用して、小売店の Web アプリケーションを構築します。  
+tag : Amplify, AppSync, Amplify Studio, React  
+
 - <a href="https://github.com/harunobukameda/Amazon-Location-Service/blob/main/location%20service%20workshop.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Location Service ハンズオン</a>  
 Amazon Location Service は、アプリケーションに位置情報などのロケーション機能を追加する負担を軽減するマネージドサービスです。このハンズオンでは、Amazon Location Service の構成を体験いただけます。  
 tag : Amazon Location Service  
@@ -746,6 +750,10 @@ None
 - <a href="https://www.eventbox.dev/published/lesson/saas-factory-bootcamp-jp/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Buiding SaaS Solutions on AWS</a>  
 リファレンスSaaSアーキテクチャを実装、テストすることで、マルチテナンシー、アイデンティティ、オンボーディング、セキュリティ、データパーティショニング、テナント分離などのコアコンセプトについて学習できます  
 tag : Amazon Cognito, Amazon DynamoDB, Amazon S3, マルチテナント  
+
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/9180bbda-7747-4b8f-ac05-14e7f258fcea/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">SaaS AuthN/Z Workshop</a>  
+SaaS AuthN/Z Workshop は SaaS アプリケーションにおける AWS 上での認証 / 認可のコンセプトや実装の方法を学んでいただくためのワークショップです。  
+tag : Amazon Cognito, Verified Permissions  
 
 ## SAP
 - <a href="https://catalog.workshops.aws/sap-on-aws/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">SAP on AWS Immersion Day - SAP HANA構築</a>  

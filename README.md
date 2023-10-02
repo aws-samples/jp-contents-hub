@@ -13,6 +13,14 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-10-02
+ハンズオンコンテンツ 2件 追加  
+Amplify Core Workshop  
+https://catalog.workshops.aws/amplify-core/ja-JP  
+
+SaaS AuthN/Z Workshop  
+https://catalog.us-east-1.prod.workshops.aws/workshops/9180bbda-7747-4b8f-ac05-14e7f258fcea/ja-JP  
+
 ## 2023-09-29
 ハンズオンコンテンツ 1件 追加  
 Amazon Bedrock Workshop  
