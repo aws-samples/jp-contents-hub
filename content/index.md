@@ -451,6 +451,10 @@ tag : AWS IoT TwinMaker, AWS IoT SiteWise, AWS IoT Core, AWS IoT Core , Amazon M
 Amazon Kinesis Video Streams を用いたカメラデバイスからの動画の収集、保存、 ライブやオンデマンドでの再生、動画ファイルのダウンロード、 Amazon Rekognition Video と組み合わせたライブ顔認識やニアリアルタイム分析などを行う方法を学びます。また、WebRTC を用いてカメラデバイスとブラウザ間で低遅延、双方向のメディアストリーミングを行う方法についても学べます。  
 tag : Amazon Kinesis Video Streams, Amazon Rekognition Video  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/0ee4408e-818a-4774-b03d-bf68bfc016ac/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Industrial IoT Workshop</a>  
+本ワークショップでは、AWS における IIoT の概念や関連するサービスの概要を把握していただくために設計されています。また PLC に接続し、データ(タグ)を取り込み、ほぼリアルタイムでデータを可視化し、データレイクの一部としてこうしたデータがどのように使えるのかを実際に体験していただきます。  
+tag : AWS IoT Greengrass V2, AWS IoT SiteWise, Amazon Managed Grafana, AWS IoT TwinMaker  
+
 ## ![image]([img/Arch-Category_Machine-Learning_16.png]()) Machine Learning
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/a4bdb007-5600-4368-81c5-ff5b4154f518/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Bedrock Workshop</a>  
 成系 AI についてお客様に見られる最も一般的な使用パターンをいくつか紹介します。テキストや画像を生成し、生産性を向上させて組織に価値をもたらす手法を探ります。これは、メールの作成、テキストの要約、質問への回答、チャットボットの構築、画像の作成、コード生成に役立つ基盤モデルを活用することで実現されます。Bedrock API、SDK、LangChain や FAISS などのオープンソースソフトウェアを使用して、これらの使用パターンを実装する実践的な経験を積むことができます。  
@@ -719,6 +723,10 @@ tag : Direct Connect, Direct Connect Gateway, Transit Gateway
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/a47907fc-ead9-4cc5-b964-3f208ddd472f/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS PrivateLink ワークショップ</a>  
 AWS PrivateLink  とは、データをインターネットに公開することなく、VPC と 対応する AWS サービス間を接続することができるサービスです。このハンズオンの目的は PrivateLink の基本的な設定方法を理解することです。  
 tag : AWS PrivateLink  
+
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/3547afcd-0829-4d44-85e8-17b68d4b52bc/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Cloud WAN ハンズオン</a>  
+ハンズオンを通して、AWS Cloud WAN と、Amazon VPC、AWS Site-to-Site VPN、AWS Transit Gatway、Connect Attachment を介した SD-WAN(相当) との接続の方法を理解します。また、VPC と複数のセグメントを介したルーティング制御について理解をすることを目的としています。  
+tag : AWS Cloud WAN  
 
 - <a href="https://dcj71ciaiav4i.cloudfront.net/7CB85370-A998-11EB-A09B-259812622FA1/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Workshop for AWS Educate (CloudFront/S3)</a>  
 CloudFront と S3 を利用して、サーバレスな Web 配信を体験いただける内容です。  

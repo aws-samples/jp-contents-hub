@@ -13,6 +13,14 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-10-03
+ハンズオンコンテンツ 2件 追加  
+AWS Cloud WAN ハンズオン  
+https://catalog.us-east-1.prod.workshops.aws/workshops/3547afcd-0829-4d44-85e8-17b68d4b52bc/ja-JP  
+
+AWS Industrial IoT Workshop  
+https://catalog.us-east-1.prod.workshops.aws/workshops/0ee4408e-818a-4774-b03d-bf68bfc016ac/ja-JP  
+
 ## 2023-10-02
 ハンズオンコンテンツ 2件 追加  
 Amplify Core Workshop  
