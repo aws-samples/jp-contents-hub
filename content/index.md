@@ -812,6 +812,10 @@ tag : GuardDuty, WAF, IAM
 この IAM Immersion Day ワークショップでは、サービスの説明と AWS によるハンズオンラボを組み合わせて、AWS アイデンティティ とアクセス管理 (IAM) と大規模なガバナンスの方法について学びます。  
 tag :  AWS Identity and Access Management (IAM)  
 
+- <a href="https://catalog.workshops.aws/security-hub/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Security Hub ワークショップ</a>  
+本ワークショップは、AWS Security Hub、AWS Configを中心として、AWS 環境のセキュリティ態勢を管理および改善する方法を理解することを目的としています。  
+tag : AWS Security Hub, AWS Config, Amazon GuardDuty  
+
 - <a href="https://d2h9aujg4hgxod.cloudfront.net/72704A00-FCD4-11EB-B3AC-898E20057A09/index.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">GuardDuty Workshop</a>  
 Amazon GuardDuty (マネージド型脅威検出サービス)を使用した脅威の検出と修復をカバーするシナリオについて説明します。このシナリオは、GuardDuty が検出できる脅威の一部を表す、いくつかの脅威ベクトルにまたがる攻撃をシミュレートします。さらに、GuardDuty の検出結果を表示および分析する方法、その結果に基づいてアラートを送信する方法、最後に検出結果に対する修復方法について説明します。  
 tag : Amazon GuardDuty  

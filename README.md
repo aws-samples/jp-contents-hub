@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-10-05
+ハンズオンコンテンツ 1件 追加  
+AWS Security Hub ワークショップ  
+https://catalog.workshops.aws/security-hub/ja-JP  
+
 ## 2023-10-03
 ハンズオンコンテンツ 2件 追加  
 AWS Cloud WAN ハンズオン  
