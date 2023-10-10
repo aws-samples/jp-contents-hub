@@ -552,10 +552,6 @@ tag : Amazon Translate, Amazon Polly, Amazon Rekognition
 Rekognition の機能や API に関するハンズオンを行います。これにより、オブジェクト、シーン、顔の検出、テキストの抽出、有名人の認識、および画像やビデオの不適切なコンテンツを特定することができます。また、カスタム画像解析モデルを構築して、ビジネスに固有の画像内のオブジェクトとシーンを特定します。最後に、Augmented AI を使用して、人間によるレビューを行うワークフローを Amazon Rekognition と統合する方法について学びます。  
 tag : Amazon Rekognition  
 
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/e2de5159-40ed-4a92-a039-487789960f11/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Rekognition でつくるはじめてのAIアプリ</a>  
-このハンズオンでは、Rekognitionを使ったAIアプリケーション構築を体験し、「AIサービスの概要と操作方法の理解」や「AIサービスをアプリケーションに組み込む方法」を理解いただくことが目的です。  
-tag : Amazon Rekognition, React  
-
 - <a href="https://github.com/harunobukameda/Amazon-Robomaker/blob/master/RoboMakerHandsonLoft20191008.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS RoboMaker ハンズオン</a>  
 このハンズオンでは強化学習を⾏うロボットアプリケーションを使い、AWS RoboMaker の機能のうち、「開発環 境」と「シミュレーション」機能について体験できます。  
 tag : AWS RoboMaker  

@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-10-10  
+リンク切れ 1 件削除  
+Amazon Rekognition でつくるはじめてのAIアプリ  
+https://catalog.us-east-1.prod.workshops.aws/workshops/e2de5159-40ed-4a92-a039-487789960f11/ja-JP  
+
 ## 2023-10-05
 ハンズオンコンテンツ 1件 追加  
 AWS Security Hub ワークショップ  
