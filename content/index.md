@@ -457,8 +457,12 @@ tag : AWS IoT Greengrass V2, AWS IoT SiteWise, Amazon Managed Grafana, AWS IoT T
 
 ## ![image]([img/Arch-Category_Machine-Learning_16.png]()) Machine Learning
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/a4bdb007-5600-4368-81c5-ff5b4154f518/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Bedrock Workshop</a>  
-成系 AI についてお客様に見られる最も一般的な使用パターンをいくつか紹介します。テキストや画像を生成し、生産性を向上させて組織に価値をもたらす手法を探ります。これは、メールの作成、テキストの要約、質問への回答、チャットボットの構築、画像の作成、コード生成に役立つ基盤モデルを活用することで実現されます。Bedrock API、SDK、LangChain や FAISS などのオープンソースソフトウェアを使用して、これらの使用パターンを実装する実践的な経験を積むことができます。  
+生成系 AI についてお客様に見られる最も一般的な使用パターンをいくつか紹介します。テキストや画像を生成し、生産性を向上させて組織に価値をもたらす手法を探ります。これは、メールの作成、テキストの要約、質問への回答、チャットボットの構築、画像の作成、コード生成に役立つ基盤モデルを活用することで実現されます。Bedrock API、SDK、LangChain や FAISS などのオープンソースソフトウェアを使用して、これらの使用パターンを実装する実践的な経験を積むことができます。  
 tag : Amazon Bedrock  
+
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/6708bce5-6aa3-4acb-89f7-85c39c006c8c/en-US" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Kendra を利用した Retrieval Augmented Generation (RAG) ハンズオン</a>  
+Amazon Kendra とその検索結果をもとに生成系 AI を使ってわかりやすい回答文を作成する RAG（Retrieval Augmented Generation：拡張検索生成）アプリケーションを構築します。生成系 AI や AWS に関する深い知識は不要で、入門レベルの内容となっています。  
+tag : Amazon Kendra, 生成系AI, RAG (Retrieval Augmented Generation)  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">SageMaker Immersion Day</a>  
 Amazon SageMaker Immersion Dayは、特徴量エンジニアリングからさまざまなビルトインアルゴリズムの理解、本番環境のようなシナリオでのMLモデルのトレーニング、チューニング、デプロイまで、MLユースケース構築のエンドツーエンドの理解をお客様やパートナーに提供します。 独自のモデルを持ち込んで、オンプレミスのMLワークロードをAmazon SageMakerプラットフォームにリフト＆シフトする方法を説明します。 さらに、モデルのデバッグ、モデルの監視、AutoMLのような高度なコンセプトを説明し、AWS ML Well-Architectedレンズを通して機械学習のワークロードを評価するためのガイドを行います。 このワークショップは、主にデータサイエンティストを対象としていますが、AWSを使った機械学習について知りたい方であれば、どなたでも参加できます。  

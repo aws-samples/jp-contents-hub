@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-10-11
+ハンズオンコンテンツ 1件 追加  
+Amazon Kendra を利用した Retrieval Augmented Generation (RAG) ハンズオン  
+https://catalog.us-east-1.prod.workshops.aws/workshops/6708bce5-6aa3-4acb-89f7-85c39c006c8c/en-US  
+
 ## 2023-10-10  
 リンク切れ 1 件削除  
 Amazon Rekognition でつくるはじめてのAIアプリ  
