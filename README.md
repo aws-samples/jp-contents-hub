@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-10-16
+ハンズオンコンテンツ 1件 追加  
+クラウド初心者のためのサーバーレス ワークショップ  
+https://catalog.workshops.aws/serverless-for-cloud-beginners/ja-JP  
+
 ## 2023-10-11
 ハンズオンコンテンツ 1件 追加  
 Amazon Kendra を利用した Retrieval Augmented Generation (RAG) ハンズオン  

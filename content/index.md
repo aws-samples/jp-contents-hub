@@ -885,6 +885,10 @@ tag : AWS Step Functions, AWS CDK, AWS SAM
 このワークショップでは、イベント駆動アーキテクチャの基本、業務に適切な AWS サービスを選択する方法、コストとパフォーマンスの両方を最適化する方法について学びます。このワークショップでは、実践的なプラクティスを通じて、イベント駆動のデザインパターンを皆さんのアプリケーションに取り入れるスキルを身に付けることができます。  
 tag : Amazon EventBridge, Amazon SNS, Amazon SQS, AWS Lambda  
 
+- <a href="https://catalog.workshops.aws/serverless-for-cloud-beginners/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">クラウド初心者のためのサーバーレス ワークショップ</a>  
+はじめてクラウドを体験する方向けに、サーバーレス サービスを使ってファイル処理を行うワークショップです。Amazon Rekognitionによる物体検出を例に、クラウドのさまざまなサービスを繋げて使うためのイベントやAPI、アクセス権などの考え方を学びます。  
+tag : AWS Lambda, Amazon Rekognition, Amazon DynamoDB, Amazon API Gateway  
+
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-StepFunctions-2022-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Step Functions 入門 - ビジュアルツールを使ってローコードにワークフローを作成する</a>  
 サーバーレスなワークフロー構築サービスである AWS Step Functions の入門ハンズオンです。「Workflow Studio」と「AWS SDK 統合」機能を活用し、プログラムを書かずに AWS の各種サービスを利用するワークフローを作成します。  
 tag : AWS Step Functions, Amazon DynamoDB  
