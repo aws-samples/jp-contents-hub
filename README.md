@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-10-19
+ハンズオンコンテンツ 1件 追加  
+Amazon Connect and Amazon Lex Integration  
+https://catalog.workshops.aws/amazon-connect-lex-integration/ja-JP  
+
 ## 2023-10-16
 ハンズオンコンテンツ 1件 追加  
 クラウド初心者のためのサーバーレス ワークショップ  
