@@ -151,12 +151,12 @@ tag : Amazon Connect, Amazon Pinpoint, AWS Lambda
 このワークショップを通してPinpointでカスタマーエクスペリエンスを向上させるための環境構築を学べます。セグメントやパーソナライズ 、ジャーニーなどの各種機能、Personalizeとの連携や各種APIの操作など、幅広くPinpointを理解することができます。  
 tag : Amazon Pinpoint, Amazon Personalize  
 
+- <a href="https://catalog.workshops.aws/amazon-connect-lex-integration/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect and Amazon Lex Integration</a>  
+このワークショップでは、Amazon Connect を Amazon Lex と統合する方法を説明し、コンタクトセンターのセルフサービスや、ダイナミックでパーソナライズされた応答を提供を実現する方法を説明します。  
+tag : Amazon Connect, Amazon Lex  
+
 - <a href="https://github.com/harunobukameda/Amazon-Connect-Handson/blob/master/connecthandson%20.zip" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect ハンズオン</a>  
 このハンズオンでは、Amazon Connect の基本的な使い方を学習できます。リンクににある Download ボタンから、zip ファイルをダウンロードして学習を進められます。  
-tag : Amazon Connect  
-
-- <a href="https://github.com/harunobukameda/Contact-Lens-for-Amazon-Connect/blob/main/Contact%20Lens%20for%20Amazon%20Connect%20workshop.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Contact Lens for Amazon Connect workshop</a>  
-クラウド型コンタクトセンターサービスである Amazon Connect で、Contact Lens の機能を使い、お客様の感情分析を体験できるワークショップです。  
 tag : Amazon Connect  
 
 - <a href="https://catalog.workshops.aws/amazon-connect-profiles/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect Customer Profiles Workshop</a>  
