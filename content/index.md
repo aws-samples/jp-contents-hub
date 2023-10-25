@@ -253,6 +253,10 @@ tag : Amazon ECS
 このハンズオンでは、 Amazon Elastic Kubernetes Service (Amazon EKS) とクラスターの作成および管理のためのシンプルなコマンドラインユーティリティである eksctl を使用して、マネージドな Kubernetes クラスターを実行します。  サンプル Web アプリケーションをビルドして Kuberneres クラスターにデプロイし、kubectl コマンドによる Kubernetes の操作と、Amazon EKS 上でのアプリケーションの実行を体験していただきます。  
 tag : Amazon EKS  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/d75a936d-6a08-46b5-97c1-8666de887924" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Helm Introduction Workshop</a>  
+このハンズオンでは、Helm を使ったアプリケーションのデプロイ方法を紹介します。公開されている Helm チャートを利用するだけであれば、Helm チャートの作り方や、Helm チャートの中身の詳細を理解する必要はありませんが、Helm チャートの内部構造についても知っていると、トラブルシューティングなどに役立つことがあります。  
+tag : Kubernetes, EKS, Helm  
+
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/a49e50ba-7473-4348-ba5d-6166385ad91d/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">コンテナ化のためのリファクタリング / リアーキテクティング ワークショップ</a>  
 このワークショップは、既存のアプリケーションをリファクタリング、リアーキテクティングし、コンテナ化していく流れをご体験いただくものです。このワークショップでは、 The Twelve-Factor App を参考にアプリケーションをリファクタリングしてコンテナ化したり、そのアプリケーションを Amazon Elastic Container Service (Amazon ECS)  の環境にデプロイしたりする体験を通して、コンテナ化に必要な知識や作業を一通り学ぶことができます。  
 tag : Amazon ECS, Amazon ECR, AWS Fargate, ElastiCache for Redis, Java, Tomcat  

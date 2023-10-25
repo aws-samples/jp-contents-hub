@@ -13,6 +13,12 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-10-25
+ハンズオンコンテンツ 1件 追加  
+Helm Introduction Workshop  
+https://catalog.us-east-1.prod.workshops.aws/workshops/d75a936d-6a08-46b5-97c1-8666de887924/ja-JP  
+
+
 ## 2023-10-19
 ハンズオンコンテンツ 1件 追加  
 Amazon Connect and Amazon Lex Integration  
