@@ -544,10 +544,6 @@ tag : Amazon Lookout for Metrics
 Amazon Lookout for Vision ワークショップでは、Amazon Lookout for Vision の機能とAPIを体験できます。コンピュータビジョン（CV）を使い、欠陥や異常を発見する方法を紹介しています。Amazon Lookout for Vision を使用することで、大量に製品画像があったとしても異変を早急に検知でき、製造会社は製品品質を向上させて運用コストを削減することができます。  
 tag : Amazon Lookout for Vision, AWS IoT Greengrass  
 
-- <a href="https://github.com/harunobukameda/Amazon-Lookout-for-Vision/blob/main/Amazon%20Lookout%20for%20Vison%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Lookout for Vison ワークショップ</a>  
-Amazon Lookout for Vision は、コンピュータビジョンを利用して、製造された製品の欠陥を大規模に発見する機械学習サービスです。このハンズオンでは、正常か異常か示す教師ラベルと一緒に画像を学習して、実際に推論を行うまでの流れを体験いただけます。  
-tag : Amazon Lookout for Vison  
-
 - <a href="https://github.com/harunobukameda/Amazon-Personalize-Handson/blob/master/personalize%2Bhandson.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Personalize ハンズオン</a>  
 Amazon Personalize は AWS が提供している過去の購買履歴など から個人化レコメンデーションを行う機械学習サービスです。このハンズオンでは、Personalize の基本的な使い方を学習いただけます。  
 tag : Amazon Personalize  

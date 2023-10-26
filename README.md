@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-10-27
+ハンズオンコンテンツ 1件 削除(ハンズオン内の資材がリンク切れのため)  
+Amazon Lookout for Vison ワークショップ  
+https://github.com/harunobukameda/Amazon-Lookout-for-Vision/blob/main/Amazon%20Lookout%20for%20Vison%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf  
+
 ## 2023-10-25
 ハンズオンコンテンツ 1件 追加  
 Helm Introduction Workshop  
