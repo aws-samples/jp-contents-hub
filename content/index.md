@@ -343,6 +343,10 @@ tag : AWS Fault Injection Simulator
 Distributed Load Testing (分散負荷テスト) on AWS  は、負荷テストに必要な負荷クライアントを必要なタイミングで必要量だけ立ち上げて負荷掛けを実行し、試験が終了したら自動で停止できるソリューションです。本ワークショップでは、 同ソリューションを利用し、実際に動くワークロードに対して負荷テストを実行していきます。ワークショップを通じて負荷テストの実施方法について学ぶことができます。  
 tag : Distributed Load Testing on AWS  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/6838a1a5-4516-4153-90ce-ac49ca8e1357/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon CodeWhisperer</a>  
+AI コーディングコンパニオンを使用して、アプリケーションをより速く、より安全に構築できます。Amazon CodeWhisperer は何十億行ものコードに基づいてトレーニングされており、コメントや既存のコードに基づいて、スニペットから関数全体まで、さまざまなコード候補をリアルタイムで生成できます。時間のかかるコーディングタスクを省き、使い慣れていない API を利用する場合でも開発を加速できます。  
+tag : Amazon CodeWhisperer  
+
 - <a href="https://github.com/harunobukameda/AWS-FIS-Auto-Scaling/blob/main/AWS%20Fault%20Injection%20Simulator%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Fault Injection Simulator ワークショップ</a>  
 AWS Fault Injection Simulator は、AWS 上で障害を起こし可用性・回復性が問題ないか実験を行うためのマネージドサービスです。このワークショップでは、EC2 インスタンスを終了したときの実験をする内容を学習できます。  
 tag : AWS Fault Injection Simulator  

@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-10-31
+ハンズオンコンテンツ 1件 追加  
+Amazon CodeWhisperer  
+https://catalog.us-east-1.prod.workshops.aws/workshops/6838a1a5-4516-4153-90ce-ac49ca8e1357/ja-JP  
+
 ## 2023-10-27
 ハンズオンコンテンツ 1件 削除(ハンズオン内の資材がリンク切れのため)  
 Amazon Lookout for Vison ワークショップ  
