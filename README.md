@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-11-07
+ハンズオンコンテンツ 1件 追加  
+AWS KMS 保管中の暗号化 ワークショップ  
+https://catalog.us-east-1.prod.workshops.aws/workshops/05f16f1a-0bbf-45a7-a304-4fcd7fca3d1f/ja-JP  
+
 ## 2023-10-31
 ハンズオンコンテンツ 1件 追加  
 Amazon CodeWhisperer  

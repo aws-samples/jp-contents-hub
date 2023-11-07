@@ -820,6 +820,10 @@ tag :  AWS Identity and Access Management (IAM)
 本ワークショップは、AWS Security Hub、AWS Configを中心として、AWS 環境のセキュリティ態勢を管理および改善する方法を理解することを目的としています。  
 tag : AWS Security Hub, AWS Config, Amazon GuardDuty  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/05f16f1a-0bbf-45a7-a304-4fcd7fca3d1f/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS KMS 保管中の暗号化 ワークショップ</a>  
+AWS では、暗号化によってデータを簡単に保護できます。このハンズオンワークショップでは、AWS での保管中の暗号化オプションについて詳しく説明します。S3、EBS、RDS などのサービスの AWS KMS を使用した AWS サーバー側の暗号化を中心に説明します。  
+tag : AWS Key Management Service  
+
 - <a href="https://d2h9aujg4hgxod.cloudfront.net/72704A00-FCD4-11EB-B3AC-898E20057A09/index.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">GuardDuty Workshop</a>  
 Amazon GuardDuty (マネージド型脅威検出サービス)を使用した脅威の検出と修復をカバーするシナリオについて説明します。このシナリオは、GuardDuty が検出できる脅威の一部を表す、いくつかの脅威ベクトルにまたがる攻撃をシミュレートします。さらに、GuardDuty の検出結果を表示および分析する方法、その結果に基づいてアラートを送信する方法、最後に検出結果に対する修復方法について説明します。  
 tag : Amazon GuardDuty  
