@@ -472,6 +472,10 @@ tag : Amazon Bedrock
 Amazon Kendra とその検索結果をもとに生成系 AI を使ってわかりやすい回答文を作成する RAG（Retrieval Augmented Generation：拡張検索生成）アプリケーションを構築します。生成系 AI や AWS に関する深い知識は不要で、入門レベルの内容となっています。  
 tag : Amazon Kendra, 生成系AI, RAG (Retrieval Augmented Generation)  
 
+- <a href="https://catalog.workshops.aws/generative-ai-use-cases-jp" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">生成系 AI 体験ワークショップ</a>  
+このワークショップでは、Generative AI (生成系 AI) を活用したアプリケーションを AWS 上に構築し、社内データを活用したチャットボットや要約、文章校正、画像生成などのユースケースを体験していきます。  
+tag : Amazon Bedrock、Amazon Kendra  
+
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">SageMaker Immersion Day</a>  
 Amazon SageMaker Immersion Dayは、特徴量エンジニアリングからさまざまなビルトインアルゴリズムの理解、本番環境のようなシナリオでのMLモデルのトレーニング、チューニング、デプロイまで、MLユースケース構築のエンドツーエンドの理解をお客様やパートナーに提供します。 独自のモデルを持ち込んで、オンプレミスのMLワークロードをAmazon SageMakerプラットフォームにリフト＆シフトする方法を説明します。 さらに、モデルのデバッグ、モデルの監視、AutoMLのような高度なコンセプトを説明し、AWS ML Well-Architectedレンズを通して機械学習のワークロードを評価するためのガイドを行います。 このワークショップは、主にデータサイエンティストを対象としていますが、AWSを使った機械学習について知りたい方であれば、どなたでも参加できます。  
 tag : Amazon SageMaker, Amazon SageMaker Data Wrangler, Feature Store, Amazon SageMaker Processing, TensorFlow, Autopilot, Debugger, Model Monitor, Clarfy, Pipeline  
@@ -946,3 +950,4 @@ tag : Amazon FSx File Gateway
 - <a href="https://catalog.workshops.aws/vmwarecloud/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">VMware Cloud on AWS Immersion Day</a>  
 VMware Cloud on AWS Immersion Day は、ハンズオンを通じて VMware Cloud on AWS を実際に体験することができ、参加者はサービスに慣れ親しみ、その使い勝手の良さを実感することができます。  
 tag : VMware Cloud on AWS, VMware HCX, Amazon FSx for Windows File Server, AWS Managed Microsoft Active Directory  
+

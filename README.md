@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-11-11
+ハンズオンコンテンツ 1件 追加  
+生成系 AI 体験ワークショップ  
+https://catalog.workshops.aws/generative-ai-use-cases-jp  
+
 ## 2023-11-07
 ハンズオンコンテンツ 1件 追加  
 AWS KMS 保管中の暗号化 ワークショップ  
