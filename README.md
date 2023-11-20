@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-11-20
+リンク切れ 1 件削除  
+Introduction to Amazon ECS  
+https://catalog.us-east-1.prod.workshops.aws/workshops/a2b9971a-7a6e-40f3-96e7-5a04b46d1f98/  
+
 ## 2023-11-11
 ハンズオンコンテンツ 1件 追加  
 生成系 AI 体験ワークショップ  

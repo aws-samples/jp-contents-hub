@@ -11,7 +11,7 @@ Amazon Web Services(AWS) の 日本語ハンズオンやワークショップを
 
 !!! 画面の差異について
 
-    ハンズオンで紹介されている手順と、実際の操作方法に差異がある場合があります。   
+    ハンズオンで紹介されている手順と、実際の操作方法に差異がある場合があります。  
     AWS は随時アップデートされており、タイミングによってはハンズオンコンテンツが追いついていない事もあります。  
     差異がある場合、[AWS Document](https://docs.aws.amazon.com/ja_jp/index.html){target=_blank} などを活用しながら進めて頂けますと幸いです。  
 
@@ -244,10 +244,6 @@ tag : Amazon ECS, AWS Fargate, Amazon ECR, AWS CodeBuild, AWS CodePipeline
 - <a href="https://dcj71ciaiav4i.cloudfront.net/D0B5A980-C9FC-11EB-ABD7-3362918AE194/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">ECS Workshop - Cats and Dogs-</a>  
  Amazon ECS や Fargate、さらには Docker コンテナの開発ワークフローにあまり馴染みのない方に最適なコンテンツを提供しています。  
 tag : Amazon ECS, Amazon ECR, AWS FireLens, Container Insights, Auto Scaling  
-
-- <a href="https://ecs-for-aws-summit-online.workshop.aws/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Introduction to Amazon ECS</a>  
-このハンズオンではAmazon Elastic Container Service (Amazon ECS)を使って、コンテナ用のサーバーレスコンピューティング環境であるAWS Fargate上にサンプルWebアプリケーションをデプロイします。  
-tag : Amazon ECS  
 
 - <a href="https://eks-for-aws-summit-online.workshop.aws/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Introduction to Amazon EKS</a>  
 このハンズオンでは、 Amazon Elastic Kubernetes Service (Amazon EKS) とクラスターの作成および管理のためのシンプルなコマンドラインユーティリティである eksctl を使用して、マネージドな Kubernetes クラスターを実行します。  サンプル Web アプリケーションをビルドして Kuberneres クラスターにデプロイし、kubectl コマンドによる Kubernetes の操作と、Amazon EKS 上でのアプリケーションの実行を体験していただきます。  
