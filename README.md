@@ -13,6 +13,14 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-12-04
+ハンズオンコンテンツ 2件 追加  
+Amazon GuardDuty と Amazon Detective を使用した脅威検知と対応  
+https://catalog.workshops.aws/guardduty/ja-JP  
+
+AWS CloudFormation ワークショップ  
+https://catalog.workshops.aws/cfn101/ja-JP  
+
 ## 2023-11-20
 リンク切れ 1 件削除  
 Introduction to Amazon ECS  

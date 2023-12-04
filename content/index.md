@@ -621,6 +621,10 @@ tag : AWS Control Tower
 AWS Resilience Hub は、AWS アプリケーションの回復力の定義、検証、追跡を一元的に行うことができます。アプリケーションを中断から保護し、復旧コストを削減して事業継続性を最適化し、コンプライアンスや規制要件を満たすのに役立ちます。ワークショップでは、AWS Resilience Hub のさまざまな機能を体験できます。  
 tag : AWS Resilience Hub  
 
+- <a href="https://catalog.workshops.aws/cfn101/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS CloudFormation ワークショップ</a>  
+AWS CloudFormation ワークショップの初級編では、基礎的な AWS CloudFormation のコンセプトについて紹介します。中級編と上級編では、CloudFormation のより深い特徴について学習することができます。  
+tag : AWS CloudFormation  
+
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/b97f7cb6-0ec4-41c7-97ea-c4156f4f1e0d/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Systems Manager & QuickSight ハンズオン</a>  
 このハンズオンでは Amazon EC2 インスタンスを作成し、これに含まれるソフトウェア構成情報を AWS Systems Manager (SSM) を用いて収集、さらに Amazon QuickSight での可視化を行います。  
 tag : Systems Manager, QuickSight  
@@ -823,6 +827,10 @@ tag : AWS Security Hub, AWS Config, Amazon GuardDuty
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/05f16f1a-0bbf-45a7-a304-4fcd7fca3d1f/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS KMS 保管中の暗号化 ワークショップ</a>  
 AWS では、暗号化によってデータを簡単に保護できます。このハンズオンワークショップでは、AWS での保管中の暗号化オプションについて詳しく説明します。S3、EBS、RDS などのサービスの AWS KMS を使用した AWS サーバー側の暗号化を中心に説明します。  
 tag : AWS Key Management Service  
+
+- <a href="https://catalog.workshops.aws/guardduty/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon GuardDuty と Amazon Detective を使用した脅威検知と対応</a>  
+このワークショップでは、Amazon GuardDuty と Amazon Detective の基本を学び、さまざまなユースケースやシナリオを深く掘り下げていきます。GuardDuty による脅威検知とインシデント対応の流れ、Amazon Detective を使用した侵害された EC2 インスタンスの調査を実施することで脅威検知からインシデント対応の一連の流れを体験いただけます。  
+tag : Amazon GuardDuty, Amazon Detective  
 
 - <a href="https://d2h9aujg4hgxod.cloudfront.net/72704A00-FCD4-11EB-B3AC-898E20057A09/index.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">GuardDuty Workshop</a>  
 Amazon GuardDuty (マネージド型脅威検出サービス)を使用した脅威の検出と修復をカバーするシナリオについて説明します。このシナリオは、GuardDuty が検出できる脅威の一部を表す、いくつかの脅威ベクトルにまたがる攻撃をシミュレートします。さらに、GuardDuty の検出結果を表示および分析する方法、その結果に基づいてアラートを送信する方法、最後に検出結果に対する修復方法について説明します。  
