@@ -44,6 +44,10 @@ tag : Redshift, Redshift ML, Redshift Spectrum
 Amazon Kinesis Services によるストリーミングデータインジェストと分析、AWS Data Migration Service によるバッチデータ取り込み、AWS Glue によるデータカタログとデータレイクでのETL 実行、Amazon Athena によるデータレイクへのクエリ、Amazon Quicksight による視覚化など、AWS の分析サービスを実際に体験できます。  
 tag : Amazon Athena, Kinesis Data Streams, Kinesis Data Firehose, Kinesis Data Analytics, Managed Streaming for Kafka, AWS Database Migration Service (AWS DMS), AWS Glue, Apache Hudi, Amazon QuickSight  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/c7b9d931-6d86-4994-99e5-77ada5aaffbc/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon DataZone ハンズオン(ベーシック)</a>  
+このハンズオンでは、Amazon DataZoneを使った データの公開、サブスクライブ、分析といった、Amazon DataZone ポータルにおける基本的な操作方法を学習いただけます。  
+tag : Amazon DataZone、AWS Glue、Amazon S3、AWS Lake Formation、Amazon Athena  
+
 - <a href="https://github.com/aws-samples/amazon-s3-datalake-handson/tree/master/JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">データレイクハンズオン</a>  
 幅広いデータソースからの構造化データまたは非構造化データの集中リポジトリとして使用できる Data Lake は、データの保存と分析の方法として多くの企業に取り入れられています。このハンズオンでは、AWS のビッグデータ関連サービスを使用して実際に分析パイプラインを構築することを通して、 Data Lake とビッグデータ分析基盤構築の実感を持って頂くことをゴールとしています。  
 tag : Amazon QuickSight, Amazon Athena, AWS Glue, Amazon Kinesis Data Firehose, Amazon Redshift, Amazon OpenSearch Service, Fluentd  
@@ -922,6 +926,10 @@ Step Functions と、Lambda・EventBridge・API Gateway などのサービスと
 tag : AWS Step Functions, AWS Lambda,   
 
 ## ![image]([img/Arch-Category_Storage_16.png]()) Storage
+- <a href="https://pages.awscloud.com/hands-on-for-beginners-fsx-reg.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon FSx for Windows File Server を使ったファイルサーバの構築</a>  
+こちらのハンズオンでは、Amazon FSx for Windows File Server を使ってファイルサーバ構築の基礎を学ぶことが出来るようになっています。AWS 環境におけるマネージドなファイルサーバ運用に向けた一歩目として活用頂ければと思います。  
+tag : Amazon FSx, Amazon FSx for Windows File Server, AWS Directory Service, AWS Managed Microsoft AD  
+
 - <a href="https://github.com/aws-samples/amazon-fsx-workshop/tree/master/windows-file-server/JP/01-access-as-environment" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon FSx for Windows File Server ワークショップ</a>  
 このハンズオンでは、FSx for Windows File Server への接続方法、スループット変更方法、重複排除機能の有効化、シャドーコピー機能の有効化、ストレージ容量の拡張方法などを学習頂けます。  
 tag : Amazon FSx for Windows File Server  

@@ -13,6 +13,14 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-12-15
+ハンズオンコンテンツ 2件 追加  
+Amazon FSx for Windows File Server を使ったファイルサーバの構築  
+https://pages.awscloud.com/hands-on-for-beginners-fsx-reg.html  
+
+Amazon DataZone ハンズオン(ベーシック)  
+https://catalog.us-east-1.prod.workshops.aws/workshops/c7b9d931-6d86-4994-99e5-77ada5aaffbc/ja-JP  
+
 ## 2023-12-04
 ハンズオンコンテンツ 2件 追加  
 Amazon GuardDuty と Amazon Detective を使用した脅威検知と対応  
