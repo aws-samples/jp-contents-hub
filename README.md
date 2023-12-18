@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2023-12-18
+ハンズオンコンテンツ 1件 追加  
+Amazon Simple Email Service(SES) の構築  
+https://catalog.workshops.aws/build-with-simple-email-service/ja-JP  
+
 ## 2023-12-15
 ハンズオンコンテンツ 2件 追加  
 Amazon FSx for Windows File Server を使ったファイルサーバの構築  

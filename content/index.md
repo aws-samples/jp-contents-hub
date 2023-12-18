@@ -159,6 +159,10 @@ tag : Amazon Pinpoint, Amazon Personalize
 このワークショップでは、Amazon Connect を Amazon Lex と統合する方法を説明し、コンタクトセンターのセルフサービスや、ダイナミックでパーソナライズされた応答を提供を実現する方法を説明します。  
 tag : Amazon Connect, Amazon Lex  
 
+- <a href="https://catalog.workshops.aws/build-with-simple-email-service/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Simple Email Service(SES) の構築</a>  
+このワークショップでは、Amazon Simple Email Service (SES)をセットアップして使用し、安全にメールを送信する方法を学びます。SES の設定、パーソナライズされたメールの送信、メール送信の管理、高度な機能の使用、安全なメールの送信、よくある問題のトラブルシューティングの方法を学びます。  
+tag : Amazon Simple Email Service, Amazon SES  
+
 - <a href="https://github.com/harunobukameda/Amazon-Connect-Handson/blob/master/connecthandson%20.zip" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect ハンズオン</a>  
 このハンズオンでは、Amazon Connect の基本的な使い方を学習できます。リンクににある Download ボタンから、zip ファイルをダウンロードして学習を進められます。  
 tag : Amazon Connect  
