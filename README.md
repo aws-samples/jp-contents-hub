@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2024-01-12
+ハンズオンコンテンツ 1件 追加  
+CI/CD for AWS Batch Workshop  
+https://catalog.us-east-1.prod.workshops.aws/workshops/b6ea8509-42a3-4792-9020-24f9210d32f2/ja-JP  
+
 ## 2023-12-18
 ハンズオンコンテンツ 1件 追加  
 Amazon Simple Email Service(SES) の構築  

@@ -204,6 +204,10 @@ tag : Amazon EC2, Auto Scaling
 このワークショップでは、スケールするワークロードに対してコストを最適化しながらAmazon EC2を活用する方法を学びます。具体的には、Amazon EC2スポットインスタンスとEC2 Auto Scalingでの複数インスタンスタイプ・複数購入オプションの構成方法を取り上げます。  
 tag : Amazon EC2, Spot Instance  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/b6ea8509-42a3-4792-9020-24f9210d32f2/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">CI/CD for AWS Batch Workshop</a>  
+本ワークショップでは、AWS Batch の CI/CD パイプラインを構築します。まずは Docker イメージを手動で更新し、次に CI/CD パイプラインを構築することで、自動で AWS Batch に Docker イメージが反映されることを体感して頂けます。  
+tag : AWS Batch, AWS CodeBuild, AWS CodePipeline  
+
 - <a href="https://dcj71ciaiav4i.cloudfront.net/DF2C2C00-CD94-11EB-9681-5F0F8AE2FC7B/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon EC2 Inf1 Workshop</a>  
 本ワークショップでは、AWS が設計、開発を行った AWS Inferentia 推論チップを搭載した Amazon EC2 Inf1 インスタンスを実際に体験して頂けます。  
 tag : Amazon EC2, Inferentia  
