@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2024-01-16
+ハンズオンコンテンツ 1件 追加  
+Amazon Aurora MySQLの認証設計ベストプラクティス  
+https://catalog.us-east-1.prod.workshops.aws/workshops/312434ad-eaba-4f48-a38c-352a2ae3a4fa  
+
 ## 2024-01-12
 ハンズオンコンテンツ 1件 追加  
 CI/CD for AWS Batch Workshop  
