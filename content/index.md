@@ -359,6 +359,10 @@ tag : Distributed Load Testing on AWS
 AI コーディングコンパニオンを使用して、アプリケーションをより速く、より安全に構築できます。Amazon CodeWhisperer は何十億行ものコードに基づいてトレーニングされており、コメントや既存のコードに基づいて、スニペットから関数全体まで、さまざまなコード候補をリアルタイムで生成できます。時間のかかるコーディングタスクを省き、使い慣れていない API を利用する場合でも開発を加速できます。  
 tag : Amazon CodeWhisperer  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/10141411-0192-4021-afa8-2436f3c66bd8/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS CDK Immersion Day ワークショップ</a>  
+本ワークショップは、AWS CDK を手を動かしながら学習できるコンテンツです。開発環境をセットアップし、CDK Toolkit を用いて AWS 環境へアプリケーションをデプロイする手順について体験できます。AWS CDK Workshop の後継ワークショップです。  
+tag : AWS CDK, AWS CloudFormation,   
+
 - <a href="https://github.com/harunobukameda/AWS-FIS-Auto-Scaling/blob/main/AWS%20Fault%20Injection%20Simulator%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Fault Injection Simulator ワークショップ</a>  
 AWS Fault Injection Simulator は、AWS 上で障害を起こし可用性・回復性が問題ないか実験を行うためのマネージドサービスです。このワークショップでは、EC2 インスタンスを終了したときの実験をする内容を学習できます。  
 tag : AWS Fault Injection Simulator  

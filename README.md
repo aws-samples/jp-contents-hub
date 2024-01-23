@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2024-01-23
+ハンズオンコンテンツ 1件 追加  
+AWS CDK Immersion Day ワークショップ  
+https://catalog.us-east-1.prod.workshops.aws/workshops/10141411-0192-4021-afa8-2436f3c66bd8/ja-JP  
+
 ## 2024-01-16
 ハンズオンコンテンツ 1件 追加  
 Amazon Aurora MySQLの認証設計ベストプラクティス  
