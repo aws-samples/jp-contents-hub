@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2024-01-26
+ハンズオンコンテンツ 1件 追加  
+Generative AI - Stable Diffusion on Amazon SageMaker Workshop  
+https://catalog.us-east-1.prod.workshops.aws/workshops/d9ca179a-3a36-4822-9f80-0b3ffcc26f37/ja-JP  
+
 ## 2024-01-23
 ハンズオンコンテンツ 1件 追加  
 AWS CDK Immersion Day ワークショップ  

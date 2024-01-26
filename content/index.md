@@ -596,6 +596,10 @@ tag : AWS DeepRacer
 SageMaker JumpStart は、機械学習を始めるのに役立つ、広範な問題タイプに対する事前トレーニング済みのオープンソースモデルを提供します。このハンズオンでは、JumpStart を使って画像に映っている動物の判別、日本語文字列の相関分析などを体験いただけます。  
 tag : Amazon SageMaker JumpStart  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/d9ca179a-3a36-4822-9f80-0b3ffcc26f37/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Generative AI - Stable Diffusion on Amazon SageMaker Workshop</a>  
+Extension for Stable Diffusion on AWS solution を利用して、Amazon SageMaker エンドポイントを呼び出し、大量の画像を生成する方法、また、モデルを自動的に微調整するパイプラインを構築する方法を学びます。  
+tag : Stable Difussion, SageMaker, Generative AI  
+
 - <a href="https://github.com/aws-samples/aws-ml-jp" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS の機械学習サービスのサンプルコードのためのレポジトリ</a>  
 AWS の機械学習サービスのサンプルコードのためのレポジトリです。  
 tag : Repository  
