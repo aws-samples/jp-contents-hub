@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2024-03-06
+ハンズオンコンテンツ 1件 追加  
+AWS Snowball Edge によるデータ移行  
+https://catalog.us-east-1.prod.workshops.aws/workshops/31cff0b6-a1b8-4a45-8f2d-7a1773ddc61f/ja-JP  
+
 ## 2024-01-26
 ハンズオンコンテンツ 1件 追加  
 Generative AI - Stable Diffusion on Amazon SageMaker Workshop  

@@ -966,6 +966,10 @@ tag : Amazon FSx for NetApp ONTAP
 このハンズオンは AWS DataSync を使用して、オンプレミスの NFS サーバーから Amazon S3 へ何百万ものファイルを転送する*中上級レベル* (Level 300) のワークショップです。ワークショップでは、AWS DataSync を使用した大規模なデータセットを転送する手順と、考慮すべき内容や高度な概念について説明します。  
 tag : AWS DataSync  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/31cff0b6-a1b8-4a45-8f2d-7a1773ddc61f/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Snowball Edge によるデータ移行</a>  
+AWS Snowball Edge は、データ転送とエッジコンピューティングのためのデバイスです。 このワークショップでは、Snowball Edge ハードウェアの接続方法とデータ転送方法を示します。  
+tag : AWS Snowball Edge, Amazon S3  
+
 - <a href="https://github.com/aws-samples/aws-datasync-fsx-windows-migration/tree/master/JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">DataSync を使った FSx for Windows File Server へのマイグレーション</a>  
 このハンズオンでは、DataSync を使った FSx for Windows File Server へのマイグレーション方法を学習いただけます。  
 tag : Amazon FSx for NetApp ONTAP, AWS DataSync  
