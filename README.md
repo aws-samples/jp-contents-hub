@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2024-03-07
+ハンズオンコンテンツ 1件 追加  
+Security Onramp Workshop  
+https://catalog.workshops.aws/securityonramp/ja-JP  
+
 ## 2024-03-06
 ハンズオンコンテンツ 1件 追加  
 AWS Snowball Edge によるデータ移行  

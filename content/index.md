@@ -856,6 +856,10 @@ tag : AWS Key Management Service
 このワークショップでは、Amazon GuardDuty と Amazon Detective の基本を学び、さまざまなユースケースやシナリオを深く掘り下げていきます。GuardDuty による脅威検知とインシデント対応の流れ、Amazon Detective を使用した侵害された EC2 インスタンスの調査を実施することで脅威検知からインシデント対応の一連の流れを体験いただけます。  
 tag : Amazon GuardDuty, Amazon Detective  
 
+- <a href="https://catalog.workshops.aws/securityonramp/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Security Onramp Workshop</a>  
+Security Onrampは、お客様がアカウントをセキュリティのベストプラクティスに照らしてベースラインを構築することを目的としたセキュリティヘルスチェックです。セキュリティの重要性をお客様に伝え、未知の第三者がアカウントにアクセスすることにつながる可能性のある差し迫った問題を解決し、 Well Architected Framework 、 AWS Trusted Advisor 、AWS Security Services 等のより高度なプログラムやツールについてお客様に知らせることを目的としています。  
+tag : Well Architected Framework, AWS Trusted Advisor, AWS Security Services  
+
 - <a href="https://d2h9aujg4hgxod.cloudfront.net/72704A00-FCD4-11EB-B3AC-898E20057A09/index.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">GuardDuty Workshop</a>  
 Amazon GuardDuty (マネージド型脅威検出サービス)を使用した脅威の検出と修復をカバーするシナリオについて説明します。このシナリオは、GuardDuty が検出できる脅威の一部を表す、いくつかの脅威ベクトルにまたがる攻撃をシミュレートします。さらに、GuardDuty の検出結果を表示および分析する方法、その結果に基づいてアラートを送信する方法、最後に検出結果に対する修復方法について説明します。  
 tag : Amazon GuardDuty  
