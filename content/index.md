@@ -974,6 +974,10 @@ tag : AWS DataSync
 AWS Snowball Edge は、データ転送とエッジコンピューティングのためのデバイスです。 このワークショップでは、Snowball Edge ハードウェアの接続方法とデータ転送方法を示します。  
 tag : AWS Snowball Edge, Amazon S3  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/ecb3502f-b9f1-420b-989b-df16e9cab834/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Elastic Disaster Recovery ワークショップ</a>  
+DRSは、お客様のマシンを、ターゲットのAWSアカウントおよび任意のリージョン内の低コストのステージングエリアに継続的にレプリケートします。このハンズオンでは、DRSを使用したフェイルオーバーとフェイルバックを学習いただけます。  
+tag : AWS Elastic Disaster Recovery  
+
 - <a href="https://github.com/aws-samples/aws-datasync-fsx-windows-migration/tree/master/JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">DataSync を使った FSx for Windows File Server へのマイグレーション</a>  
 このハンズオンでは、DataSync を使った FSx for Windows File Server へのマイグレーション方法を学習いただけます。  
 tag : Amazon FSx for NetApp ONTAP, AWS DataSync  

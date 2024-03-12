@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2024-03-12
+ハンズオンコンテンツ 1件 追加  
+AWS Elastic Disaster Recovery ワークショップ  
+https://catalog.us-east-1.prod.workshops.aws/workshops/ecb3502f-b9f1-420b-989b-df16e9cab834/ja-JP  
+
 ## 2024-03-07
 ハンズオンコンテンツ 1件 追加  
 Security Onramp Workshop  
