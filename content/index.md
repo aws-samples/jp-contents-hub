@@ -884,10 +884,6 @@ tag : AWS IAM, AWS CloudTrail, Amazon CloudWatch Event, Amazon S3, AWS Lambda, A
 このワークショップでは、サーバーレスアプリケーションを保護するためのテクニックを学びます。  
 tag : Serverless, AWS Lambda, Amazon API Gateway, AWS Secrets Manager, npm-audit, AWS WAF, AWS X-Ray  
 
-- <a href="https://catalog.workshops.aws/data-discovery-with-macie/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Macieによるデータ検出と分類</a>  
-このワークショップは、Amazon Macieを使いこなし、S3バケット内のデータをスキャンして分類する方法を学ぶことを目的としています。 Amazon Macie（データ分類）とAWS Security Hub（集中型セキュリティビュー）を使って、お客様の環境のデータがどのように保存されているかを見て理解し、セキュリティ態勢に悪影響を及ぼす可能性のあるS3バケットのポリシーの変更を理解します。 カスタムデータ識別子の作成や、Amazon Macieでのデータ発見・分類ジョブの作成と範囲設定の方法を学びます。 最後に、Amazon Macieを使用して、作成したスキャンの結果をフィルタリングして調査します。  
-tag : Amazon Macie  
-
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/92e466fd-bd95-4805-9f16-2df07450db42/ja-JP/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Secrets Manager を使用した認証情報の保存、取得、管理</a>  
 このワークショップでは、Amazon RDS データベースに接続する AWS Lambda 関数を使用したサーバーレスアプリケーションのサンプルを使用します。あなたは、プログラムによって AWS Secrets Manager からデータベースの認証情報を取得するテストや、タグを使った ABAC (Attribute-Based Access Control) の実装を行います。  
 tag : AWS Secrets Manager, AWS Lambda, AWS KMS, AWS Config, Amazon EventBridge, Amazon Simple Notification Service, AWS CloudTrail  
