@@ -14,9 +14,15 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 # 更新履歴
 
 ## 2024-05-08
-リンク切れ 1 件削除  
+リンク切れ 3 件削除  
 Amazon Bedrock Workshop  
 https://catalog.us-east-1.prod.workshops.aws/workshops/a4bdb007-5600-4368-81c5-ff5b4154f518/ja-JP  
+
+Amazon GameLift Realtime Server Workshop  
+https://catalog.us-east-1.prod.workshops.aws/workshops/bccf7c14-8f6f-441b-a4ff-fd6a2b402892/ja-JP  
+
+Game Development on AWS Workshop  
+https://catalog.us-east-1.prod.workshops.aws/workshops/1f1e1c90-886b-47c7-a5bd-cb6fb26a3c37/ja-JP  
 
 ## 2024-05-07
 ハンズオンコンテンツ 1件 追加  

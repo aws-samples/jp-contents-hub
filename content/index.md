@@ -414,13 +414,7 @@ AWS Amplify は、フロントエンドのウェブ/モバイルデベロッパ�
 tag : AWS Amplify  
 
 ## ![image]([img/Arch-Category_Game-Tech_16.png]()) Game Development
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/bccf7c14-8f6f-441b-a4ff-fd6a2b402892/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon GameLift Realtime Server Workshop</a>  
-このワークショップでは、Unity と Amazon GameLift Realtime Server を利用して、サンプルのマルチプレイヤーゲームの開発を体験できます。  
-tag : Amazon GameLift Realtime Server, Unity  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/1f1e1c90-886b-47c7-a5bd-cb6fb26a3c37/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Game Development on AWS Workshop</a>  
-このWorkshopでは、AWS上でのゲーム開発を実際に体験し、構成を確認したり改変を行います。  
-tag : Amazon EC2, Unreal Engine (UE4), Jenkins, Game  
+None
 
 ## ![image]([img/Arch-Category_Internet-of-Things_16.png]()) Internet of Things
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/b3e0b830-79b8-4c1d-8a4c-e10406600035/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS IoT Core 初級ハンズオン</a>  
