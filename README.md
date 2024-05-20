@@ -13,6 +13,17 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2024-05-20
+ハンズオンコンテンツ 3件 追加  
+AWS Batch Deep Dive 日本語  
+https://catalog.workshops.aws/aws-batch-deep-dive/ja-JP  
+
+Amazon Connect SSO ワークショップ  
+https://catalog.workshops.aws/amazon-connect-sso/ja-JP  
+
+AWS Well-Architected Framework 持続可能性の柱を学べるワークショップ  
+https://catalog.workshops.aws/well-architected-sustainability/ja-JP  
+
 ## 2024-05-08
 リンク切れ 3 件削除  
 Amazon Bedrock Workshop  

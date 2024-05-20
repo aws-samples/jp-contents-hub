@@ -163,6 +163,10 @@ tag : Amazon Connect, Amazon Lex
 このワークショップでは、Amazon Simple Email Service (SES)をセットアップして使用し、安全にメールを送信する方法を学びます。SES の設定、パーソナライズされたメールの送信、メール送信の管理、高度な機能の使用、安全なメールの送信、よくある問題のトラブルシューティングの方法を学びます。  
 tag : Amazon Simple Email Service, Amazon SES  
 
+- <a href="https://catalog.workshops.aws/amazon-connect-sso/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect SSO ワークショップ</a>  
+Amazon Connect では、SAML 2.0 準拠の ID プロバイダーを使用して、コンタクトセンターへのシングルサインオンアクセスを提供できます。本ハンズオンでは、Okta、PingOne、Microsoft Entra ID、Google Workspace、OneLogin、AWS IAM Identity Center を使用した SSO のセットアップ方法を体験できます。  
+tag : Amazon Connect  
+
 - <a href="https://github.com/harunobukameda/Amazon-Connect-Handson/blob/master/connecthandson%20.zip" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect ハンズオン</a>  
 このハンズオンでは、Amazon Connect の基本的な使い方を学習できます。リンクににある Download ボタンから、zip ファイルをダウンロードして学習を進められます。  
 tag : Amazon Connect  
@@ -207,6 +211,10 @@ tag : Amazon EC2, Spot Instance
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/b6ea8509-42a3-4792-9020-24f9210d32f2/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">CI/CD for AWS Batch Workshop</a>  
 本ワークショップでは、AWS Batch の CI/CD パイプラインを構築します。まずは Docker イメージを手動で更新し、次に CI/CD パイプラインを構築することで、自動で AWS Batch に Docker イメージが反映されることを体感して頂けます。  
 tag : AWS Batch, AWS CodeBuild, AWS CodePipeline  
+
+- <a href="https://catalog.workshops.aws/aws-batch-deep-dive/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Batch Deep Dive 日本語</a>  
+このワークショップでは、AWS Batch の基本概念と使用方法について詳しく説明します。AWS Batch の事前知識は必要ありませんが、AWS クラウドとバッチ計算の概念についての最小限の理解が必要です。したがって、初心者から中級者レベルの方に適しています。  
+tag : AWS Batch  
 
 - <a href="https://dcj71ciaiav4i.cloudfront.net/DF2C2C00-CD94-11EB-9681-5F0F8AE2FC7B/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon EC2 Inf1 Workshop</a>  
 本ワークショップでは、AWS が設計、開発を行った AWS Inferentia 推論チップを搭載した Amazon EC2 Inf1 インスタンスを実際に体験して頂けます。  
@@ -801,6 +809,11 @@ tag : SAP HANA, HAWK(High Availability Web Konsole), ASCS/ERS
 - <a href="https://catalog.workshops.aws/sap-monitoring-on-aws" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">SAP Monitoring on AWS ワークショップ</a>  
 本ラボは、SAP Basis 管理者とインフラ管理者が、SAP NetWeaver ABAP システムと SAP HANA on AWS の監視、運用方法を学ぶことを目的としています。  
 tag : Amazon CloudWatch, Amazon EC2  
+
+## Sustainability
+- <a href="https://catalog.workshops.aws/well-architected-sustainability/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Well-Architected Framework 持続可能性の柱を学べるワークショップ</a>  
+Well-Archtiected Framework の「持続可能性の柱」を学んでいただけるワークショップです。このワークショップでは、持続可能性に配慮したアーキテクチャ設計の原則と、AWS  のサービスやツールを使った持続可能性を実現するベストプラクティスをハンズオンを通じて理解を深めることができます。  
+tag : Well Architected Framework, AWS Route 53, Amazon CloudFront, AWS Graviton, Amazon CodeGuru, Amazon S3, Amazon Athena, AWS Glue, Amazon CloudWatch Logs, Amazon Redshift, Amazon RDS, AWS Compute Optimizer, Amazon CloudWatch Metric Math, AWS Cost & Usage Report  
 
 ## ![image]([img/Arch-Category_Satellite_16.png]()) Satellite
 None
