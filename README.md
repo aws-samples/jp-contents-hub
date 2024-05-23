@@ -15,6 +15,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 ## 2024-05-20
 ハンズオンコンテンツ 3件 追加  
+AWS Control Tower ワークショップについて  
+https://catalog.workshops.aws/control-tower/ja-JP  
+
+## 2024-05-20
+ハンズオンコンテンツ 3件 追加  
 AWS Batch Deep Dive 日本語  
 https://catalog.workshops.aws/aws-batch-deep-dive/ja-JP  
 

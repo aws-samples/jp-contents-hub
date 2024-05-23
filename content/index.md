@@ -639,7 +639,7 @@ tag : CDK, TypeScript
 Amazon CloudWatchを利用した AWS における監視の基本が学べます。WordPressを題材に、どのようにAWSで監視していくかを体験できます。  
 tag : Amazon CloudWatch  
 
-- <a href="https://controltower.aws-management.tools/ja/immersionday/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Control Tower Workshops</a>  
+- <a href="https://catalog.workshops.aws/control-tower/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Control Tower Workshops</a>  
 AWS Control Tower サービスのデプロイの概要をハイレベルで学ぶことができます。  
 tag : AWS Control Tower  
 
