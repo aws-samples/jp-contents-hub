@@ -908,6 +908,10 @@ Amazon Inspector は自動化された脆弱性管理サービスで、Amazon El
 tag : Amazon Inspector, Security Hub, Systems Manager Patch Manager  
 
 ## ![image]([img/Arch-Category_Serverless_16.png]()) Serverless
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/a9b0eefd-f429-4859-9881-ce3a7f1a4e5f" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">実践力を鍛える Bootcamp クラウドネイティブ編</a>  
+このワークショップではサーバレス・IaC・CI/CD・セキュリティ・運用という幅広い観点でクラウドネイティブなアーキテクチャを構築いただきます。各ステップにて課題を確認し、自ら考えつつ AWS を活用したクラウドネイティブな開発にチャレンジしていただくことで、自分の力で AWS のサービスを使いこなせる状態を目指します。  
+tag : Amazon S3, Amazon CloudFront, AWS Lambda, Amazon DynamoDB, Amazon API Gateway, AWS SAM, AWS CloudFormation, Amazon Cognito, AWS WAF, Amazon CloudWatch, AWS X-Ray  
+
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Serverless-2-2022-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS SAM を使ってテンプレートからサーバーレスな環境を構築する</a>  
 「サーバーレスアーキテクチャで翻訳 Web API を構築する」で構築した翻訳 Web API を AWS Serverless Application Model (AWS SAM) を用いてテンプレートからシステムを構築します。  
 tag : AWS Serverless Application Model (AWS SAM), AWS Lambda, Amazon DynamoDB, Amazon API Gateway  
