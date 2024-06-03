@@ -13,8 +13,13 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2024-06-03
+ハンズオンコンテンツ 1件 追加  
+実践力を鍛える Bootcamp クラウドネイティブ編  
+https://catalog.us-east-1.prod.workshops.aws/workshops/a9b0eefd-f429-4859-9881-ce3a7f1a4e5f/ja-JP  
+
 ## 2024-05-20
-ハンズオンコンテンツ 3件 追加  
+ハンズオンコンテンツ 1件 追加  
 AWS Control Tower ワークショップについて  
 https://catalog.workshops.aws/control-tower/ja-JP  
 
