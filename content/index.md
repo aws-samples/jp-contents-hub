@@ -486,6 +486,10 @@ tag : AWS IoT Greengrass V2, AWS IoT SiteWise, Amazon Managed Grafana, AWS IoT T
 このワークショップでは、Generative AI (生成系 AI) を活用したアプリケーションを AWS 上に構築し、社内データを活用したチャットボットや要約、文章校正、画像生成などのユースケースを体験していきます。  
 tag : Amazon Bedrock、Amazon Kendra  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/0da6f9f4-c42f-4d47-90df-f89f4ab57e41/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Bedrockを使う生成AIアプリケーションの開発ワークショップ</a>  
+Amazon Bedrock を Lambda, API Gateway から呼び出すアプリケーションを構築する手順を学習します。応用系として RAG・文書要約・マルチモーダルの画像解析といった複数パターンのアプリケーションを構築できます。自社で生成AIをアプリケーションに組み込みたいお客様に Bedrock を API から呼び出す基礎の部分を学習してもらえるコンテンツとなっています。  
+tag : Amazon Bedrock, AWS Lambda, Amazon API Gateway  
+
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/7271111a-22bd-40e7-971a-817b0c083c67/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Bedrock + Anthropic Claude 3 開発体験ワークショップ</a>  
 このワークショップでは Amazon Bedrock から Anthropic Claude 3 を呼び出すプログラミングを体験して頂きます。AWS Cloud9 から Python を使用してプログラミングを実施します。必要な Python コードはこのワークショップ内に記載していますので、普段 Python を使用した開発を行っていない方にもご利用頂けます。  
 tag : Amazon Bedrock  

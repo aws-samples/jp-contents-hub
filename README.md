@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2024-06-13
+ハンズオンコンテンツ 1件 追加  
+Amazon Bedrockを使う生成AIアプリケーションの開発ワークショップ  
+https://catalog.us-east-1.prod.workshops.aws/workshops/0da6f9f4-c42f-4d47-90df-f89f4ab57e41/ja-JP  
+
 ## 2024-06-03
 ハンズオンコンテンツ 1件 追加  
 実践力を鍛える Bootcamp クラウドネイティブ編  
