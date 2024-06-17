@@ -831,10 +831,6 @@ tag :  AWS Identity and Access Management (IAM)
 AWS アカウント取得後まず初めにやっておきたい最低限の機能の有効化方法と、それらの確認方法について学べます。  
 tag :  AWS Identity and Access Management (IAM), AWS CloudTrail, AWS Config, Amazon GuardDuty, AWS Trusted Advisior, AWS Budgets, AWS Cost Explorer, AWS Cost & Usage Report  
 
-- <a href="https://scaling-threat-detection.awssecworkshops.jp/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS 環境における脅威検知と対応</a>  
-AWS セキュリティサービスを理解し、そのサービスを使用して貴社環境の脅威を識別および修復する方法を学習する手助けとなるように設計されています。Amazon GuardDuty、Amazon Macie、Amazon Inspector、AWS Security Hub などのサービスを使用します。これらのサービスを使用して、攻撃中および攻撃後の脅威を調査し、通知と修復パイプラインを設定し、追加的な保護策を講じて、貴社環境のセキュリティを改善する方法を学習します。  
-tag : Amazon GuardDuty, Amazon Macie, Amazon Inspector, AWS Security Hub  
-
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/dc413216-deab-4371-9e4a-879a4f14233d/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">ゼロトラストワークショップ</a>  
 サービス間で送受信されるワークロードを守るゼロトラストアーキテクチャについて演習を交えて解説します。  
 tag : Amazon API Gateway, AWS PrivateLink, AWS Lambda, Amazon DynamoDB, Amazon GuardDuty  

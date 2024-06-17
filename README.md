@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2024-06-17
+リンク切れ 1 件削除  
+AWS 環境における脅威検知と対応  
+https://scaling-threat-detection.awssecworkshops.jp/  
+
 ## 2024-06-13
 ハンズオンコンテンツ 1件 追加  
 Amazon Bedrockを使う生成AIアプリケーションの開発ワークショップ  
