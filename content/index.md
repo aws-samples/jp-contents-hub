@@ -326,6 +326,10 @@ tag : Amazon EC2, Graviton, CodeCommit, CodeBuild, CodePipeline, YOLO
 Amazon Auroraにはいくつかの認証方式が用意されており、一般に、アプリケーションの認証にはネイティブ認証、人の認証にはIAM認証を使うのがベストプラクティスです。 また、アプリケーションが利用するパスワードの危殆化リスクを低減するため、ネイティブ認証のパスワードを定期的にローテーションする対策がしばしば取られます。このワークショップでは、認証認可のベストプラクティスを取り上げます。  
 tag : Amazon Aurora, MySQL  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/bea58024-ba60-4875-a7c7-52121e5d4b70/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon RDS Performance Insightsによる性能分析ワークショップ</a>  
+ワークショップではサンプルプログラムを利用してデータベースの典型的な負荷を発生させます。この負荷が Peformance Insights を通じてどのように観測でき、負荷の原因をどのように分析できるのかを体験します。  
+tag : Amazon Aurora PostgreSQL-compatible, Amazon RDS Performance Insights  
+
 - <a href="https://github.com/harunobukameda/Aurora-Serverless-v2/blob/main/Amazon%20Aurora%20Serverless%20v2%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Aurora Serverless v2 ワークショップ</a>  
 Amazon Aurora Serverless v2 を触ってみるハンズオンです。  
 tag : Amazon Aurora Serverless v2  
