@@ -437,6 +437,10 @@ tag : AWS IoT Core, Amazon Kinesis Data Streams, AWS Lambda, Amazon DynamoDB, Am
 WS IoT サービスを使用して本番環境に対応した IoT アプリケーションを設計するための、 アーキテクトや開発者向けのハンズオントレーニングを実施します。  
 tag : AWS IoT Core, AWS IoT Analytics, Amazon QuickSight, Amazon SageMaker, AWS Lambda, AWS AppSync, Amazon DynamoDB, Amazon Cognito, AWS IoT Device Defender, IoT Device Management  
 
+- <a href="https://pages.awscloud.com/hands-on-for-beginners-aws-iot-core-reg.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Hands-on for Beginners - AWS IoT Coreを用いてIoTデバイスから取得した情報でダッシュボードを構築する</a>  
+こちらのハンズオンでは、AWS IoT Coreを用いてIoTデバイスから取得した情報でダッシュボードを構築することでAWS IoT Core の基礎を学ぶことが出来るようになっています。「IoT デバイスとクラウドの連携を考えている方」「AWS IoT Core の使用感を簡単に試してみたい方」「-情報の収集から可視化まで一連の流れを試してみたい方」といった方におすすめです。  
+tag : AWS IoT Core, Amazon CloudWatch, AWS Cloud9  
+
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/03a4f79f-6971-441f-bc12-e8b755392d2c/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS IoT Analytics ハンズオン</a>  
 AWS IoT Analyticsを利用することでデータ収集時に複雑な処理パイプラインを自分で構築すること無く、マネージドサービスに任せてすぐに開始することが出来ることを学べます。また、蓄積されたデータをAmazon QuickSightを使って可視化することで、データを基に様々な判断を行える環境を構築することが出来ることを学べます。  
 tag : AWS IoT Analytics, Amazon QuickSight  

@@ -13,6 +13,12 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2024-07-08
+ハンズオンコンテンツ 1件 追加  
+Amazon RDS Performance Insightsによる性能分析ワークショップ  
+https://catalog.us-east-1.prod.workshops.aws/workshops/bea58024-ba60-4875-a7c7-52121e5d4b70/ja-JP  
+
+
 ## 2024-07-05
 ハンズオンコンテンツ 1件 追加  
 Amazon RDS Performance Insightsによる性能分析ワークショップ  
