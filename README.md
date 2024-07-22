@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2024-07-22
+ハンズオンコンテンツ 1件 追加  
+セキュリティインシデント疑似体験ワークショップ  
+https://catalog.us-east-1.prod.workshops.aws/workshops/25f23555-da59-4b2a-af23-b0d6bb755e3c/ja-JP  
+
 ## 2024-07-08
 ハンズオンコンテンツ 1件 追加  
 Amazon RDS Performance Insightsによる性能分析ワークショップ  
