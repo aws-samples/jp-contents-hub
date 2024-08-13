@@ -200,6 +200,10 @@ tag : Amazon EC2, Amazon RDS, Elastic Load Balancing(ELB)
 WordPress を使ったブログサイトの構築を通じて、スケーラブルな Web システム構築方法が学べます。主に取り扱う AWS サービスは Amazon EC2、Amazon RDS、ELB の3つです。  
 tag : Amazon EC2, Amazon RDS, Elastic Load Balancing(ELB)  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/c9d8887e-f679-47ad-9d3b-21dcd61781cf/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">ステップバイステップで学ぶ初めての AWS</a>  
+Amazon EC2 (Windows) を使って、仮想マシンの起動から基本的な設定変更の方法、ネットワーク構築、データベース (Amazon RDS)との連携方法などを、ステップバイステップで体験していただきます。  
+tag : Amazon EC2, Amazon VPC, Amazon RDS  
+
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Auto_Scaling-2022-reg-event.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon EC2 Auto Scaling スケーリング基礎編</a>  
 Amazon EC2 Auto Scaling を利用したスケーリング設定方法、スケーリングの考え方、使い分けといったスケーリングの基礎を学ぶことができます。  
 tag : Amazon EC2, Auto Scaling  
@@ -569,10 +573,6 @@ tag : Amazon Forecast
 - <a href="https://github.com/harunobukameda/Amazon-Lex/blob/main/Amazon%20Lex%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Lex ワークショップ</a>  
 Amazon Lex は、音声やテキストを使用した会話型インターフェイスをさまざまなアプリケーションに構築するための AWS のサービスです。Amazon Lex を使って、牛丼を注文する流れを構築できるハンズオンです。  
 tag : Amazon Lex  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/ac11f205-6c9d-417e-b656-0aa26ef873f7/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Lookout for Equipment Pipeline Workshop</a>  
-この Amazon Lookout for Equipment Pipeline ワークショップはセンサーデータの解析を通じて設備の異常な挙動を検出したいユーザのためのものです。機械学習の深い知識は必要なしに、データに基づいて機器の異常をチェックするサービスを作るために、センサーから Amazon Lookout for Equipment にデータを転送する実例を含んでいます。  
-tag : Amazon Lookout for Equipment, AWS IoT Core, Amazon Kinesis Data Firehose, Amazon Athena, Amazon QuickSight, AWS Glue, AWS Lambda, Amazon SNS  
 
 - <a href="https://github.com/harunobukameda/Amazon-Lookout-for-Metrics/blob/main/Amazon%20Lookout%20for%20Metrics%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Lookout for Metrics ワークショップ</a>  
 Amazon Lookout for Metrics は、機械学習 (ML) を使用して、売上高や顧客獲得率の急激な低下など、ビジネスおよび運用データの異常 (標準からの外れ値など) を自動的に検出および診断します。Amazon Lookout for Metrics の使い方を体験いただけるハンズオンです。  
@@ -976,6 +976,10 @@ tag : AWS Step Functions, AWS Lambda,
 - <a href="https://pages.awscloud.com/hands-on-for-beginners-fsx-reg.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon FSx for Windows File Server を使ったファイルサーバの構築</a>  
 こちらのハンズオンでは、Amazon FSx for Windows File Server を使ってファイルサーバ構築の基礎を学ぶことが出来るようになっています。AWS 環境におけるマネージドなファイルサーバ運用に向けた一歩目として活用頂ければと思います。  
 tag : Amazon FSx, Amazon FSx for Windows File Server, AWS Directory Service, AWS Managed Microsoft AD  
+
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/c08d6a29-a963-46f0-823a-cf4bebccad7a/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon FSx for Windows File Server ワークショップ</a>  
+Amazon FSx for Windows File Server サービスを使用して、既存の SMB ファイルベースのワークロードを AWS に簡単に移行し、管理する方法を学ぶワークショップです。  
+tag : Amazon FSx for Windows  
 
 - <a href="https://github.com/aws-samples/amazon-fsx-workshop/tree/master/windows-file-server/JP/01-access-as-environment" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon FSx for Windows File Server ワークショップ</a>  
 このハンズオンでは、FSx for Windows File Server への接続方法、スループット変更方法、重複排除機能の有効化、シャドーコピー機能の有効化、ストレージ容量の拡張方法などを学習頂けます。  

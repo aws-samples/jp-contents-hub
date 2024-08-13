@@ -13,6 +13,15 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2024-08-13
+ハンズオンコンテンツ 2件 追加  
+ステップバイステップで学ぶ初めてのAWS  
+https://catalog.us-east-1.prod.workshops.aws/workshops/c9d8887e-f679-47ad-9d3b-21dcd61781cf/ja-JP  
+
+Amazon FSx for Windows File Server ワークショップ  
+https://catalog.us-east-1.prod.workshops.aws/workshops/c08d6a29-a963-46f0-823a-cf4bebccad7a/ja-JP  
+
+
 ## 2024-07-22
 ハンズオンコンテンツ 1件 追加  
 セキュリティインシデント疑似体験ワークショップ  
