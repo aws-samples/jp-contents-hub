@@ -135,7 +135,7 @@ Amazon Quantum Ledger Database (QLDB) はフルマネージド型の台帳デー
 tag : Amazon QLDB  
 
 ## ![image]([img/Arch-Category_Business-Applications_16.png]()) Business Applications
-- <a href="https://dcj71ciaiav4i.cloudfront.net/6752E8D0-744E-11EB-B5EA-0FAE49A3E43C/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect Basic Handson</a>  
+- <a href="https://catalog.workshops.aws/amazon-connect-basic-handson" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect Basic Handson</a>  
 このワークショップは、Amazon Connectに初めて触る方を対象に、簡単なコンタクトセンターシステムを構築して、設定方法を体感いただくことを目的としています。  
 tag : Amazon Connect  
 
@@ -165,10 +165,6 @@ tag : Amazon Simple Email Service, Amazon SES
 
 - <a href="https://catalog.workshops.aws/amazon-connect-sso/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect SSO ワークショップ</a>  
 Amazon Connect では、SAML 2.0 準拠の ID プロバイダーを使用して、コンタクトセンターへのシングルサインオンアクセスを提供できます。本ハンズオンでは、Okta、PingOne、Microsoft Entra ID、Google Workspace、OneLogin、AWS IAM Identity Center を使用した SSO のセットアップ方法を体験できます。  
-tag : Amazon Connect  
-
-- <a href="https://github.com/harunobukameda/Amazon-Connect-Handson/blob/master/connecthandson%20.zip" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect ハンズオン</a>  
-このハンズオンでは、Amazon Connect の基本的な使い方を学習できます。リンクににある Download ボタンから、zip ファイルをダウンロードして学習を進められます。  
 tag : Amazon Connect  
 
 - <a href="https://catalog.workshops.aws/amazon-connect-profiles/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect Customer Profiles Workshop</a>  

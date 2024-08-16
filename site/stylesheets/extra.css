@@ -1,0 +1,23 @@
+.md-header {
+    --md-primary-fg-color: #232F3E;
+    /* --md-primary-fg-color--light: #ECB7B7; */
+    /* --md-primary-fg-color--dark: #90030C; */
+}
+
+.md-typeset ul li p {
+    margin: 2.0em 0 !important;
+}
+
+.md-typeset ul li {
+    margin: 2.0em !important;
+}
+
+.md-typeset img {
+    vertical-align: middle;
+    margin-right: 1%;
+}
+
+/* Edit ボタンの非表示 */
+.md-content__button {
+    display: none;
+}

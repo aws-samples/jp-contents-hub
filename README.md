@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2024-08-16
+ハンズオンコンテンツ 1件 追加  
+Amazon Connect Basic Handson  
+https://catalog.workshops.aws/amazon-connect-basic-handson  
+
 ## 2024-08-13
 ハンズオンコンテンツ 2件 追加  
 ステップバイステップで学ぶ初めてのAWS  
