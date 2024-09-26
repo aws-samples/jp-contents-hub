@@ -13,6 +13,20 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2024-09-26
+ハンズオンコンテンツ 3 件追加  
+
+CloudWatch を使用した WorkSpaces ユーザーのアクセスとセキュリティの分析のワークショップ  
+https://catalog.us-east-1.prod.workshops.aws/workshops/175b7a95-3a3e-4be0-8c5d-dd3c79d1b4f1/ja-JP  
+
+Aurora PostgreSQL のアップグレードとメンテナンスタスク  
+https://catalog.us-east-1.prod.workshops.aws/workshops/35f635d7-2941-4cba-a4a0-b4c6ec95df6b/ja-JP  
+
+
+コードを書かない 生成AI Hands-on  
+https://catalog.us-east-1.prod.workshops.aws/workshops/ca98ae19-48a5-4f95-90e3-56bbfeaae0fc/ja-JP  
+
+
 ## 2024-08-16
 ハンズオンコンテンツ 1件 追加  
 Amazon Connect Basic Handson  

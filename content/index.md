@@ -330,6 +330,10 @@ tag : Amazon Aurora, MySQL
 ワークショップではサンプルプログラムを利用してデータベースの典型的な負荷を発生させます。この負荷が Peformance Insights を通じてどのように観測でき、負荷の原因をどのように分析できるのかを体験します。  
 tag : Amazon Aurora PostgreSQL-compatible, Amazon RDS Performance Insights  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/35f635d7-2941-4cba-a4a0-b4c6ec95df6b/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Aurora PostgreSQL のアップグレードとメンテナンスタスク</a>  
+Amazon Aurora PostgreSQL は、AWS で PostgreSQL を実行したいユーザー向けのマネージドデータベースサービスです。Amazon Aurora は AWS クラウド内のデータベースのセットアップ、運用、スケーリングを自動化します。他のデータベースデプロイと同様に、Amazon Aurora は随時アップグレードしてパッチを適用する必要があります。このワークショップを修了すると、Amazon Aurora PostgreSQL クラスターで主要なメンテナンスタスクを計画して実行する方法を理解できるようになります。バージョンのアップグレードなどのメンテナンスタスクを実行するためのさまざまなオプションと、メンテナンスタスクに関連するベストプラクティスについて学びます。  
+tag : Amazon Aurora PostgreSQL-compatible  
+
 - <a href="https://github.com/harunobukameda/Aurora-Serverless-v2/blob/main/Amazon%20Aurora%20Serverless%20v2%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Aurora Serverless v2 ワークショップ</a>  
 Amazon Aurora Serverless v2 を触ってみるハンズオンです。  
 tag : Amazon Aurora Serverless v2  
@@ -387,6 +391,10 @@ tag : Amazon WorkSpaces
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/e324c13e-2ded-4da2-ad9c-f685305156ac/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon AppStream 2.0 入門</a>  
 このラボでは、AWS 上で動作するフルマネージドで安全なアプリケーションストリーミングサービスであるAmazon AppStream 2.0 を使用して、デスクトップアプリケーションを展開しストリーミングする方法について学習します。想定所要時間：4時間  
 tag : Amazon AppStream 2.0  
+
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/175b7a95-3a3e-4be0-8c5d-dd3c79d1b4f1/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">CloudWatch を使用した WorkSpaces ユーザーのアクセスとセキュリティの分析のワークショップ</a>  
+多くの WorkSpaces の管理者は、WorkSpace に接続しているユーザー、IPアドレス、プラットフォーム、クライアントのバージョンの情報を求めています。それだけでなく、CPU、メモリ、ディスクの使用率など、WorkSpace 内のリソース使用率に関する情報も必要としています。このワークショップでは、CloudWatch を使ってどのようにそれらの情報を取得することが出来るかを紹介します。  
+tag : Amazon WorkSpaces  
 
 - <a href="https://github.com/harunobukameda/Amazon-WorkSpaces-Web/blob/main/WorkSpacesWeb.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon WorkSpaces Web ワークショップ</a>  
 Amazon WorkSpaces Web は、VPC に接続することのできる Web ブラウザをリモートアクセスすることのできるサービスです。このハンズオンでは、Amazon WorkSpaces Web を学習頂けます。  
@@ -501,6 +509,10 @@ tag : Amazon Bedrock, AWS Lambda, Amazon API Gateway
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/7271111a-22bd-40e7-971a-817b0c083c67/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Bedrock + Anthropic Claude 3 開発体験ワークショップ</a>  
 このワークショップでは Amazon Bedrock から Anthropic Claude 3 を呼び出すプログラミングを体験して頂きます。AWS Cloud9 から Python を使用してプログラミングを実施します。必要な Python コードはこのワークショップ内に記載していますので、普段 Python を使用した開発を行っていない方にもご利用頂けます。  
 tag : Amazon Bedrock  
+
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/ca98ae19-48a5-4f95-90e3-56bbfeaae0fc/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">コードを書かない 生成AI Hands-on</a>  
+「生成 AI を聞いたことがある」という人は多くを占めるのではないでしょうか。生成 AI はその名の通り、「生成する」技術です。テキストや画像を入力に、これまでにない新しい画像やテキストを生成します。このワークショップでは AWS のコードを書かずに使える生成 AI サービスを使用して、ビジネスに生成 AI を導入する体験をします。  
+tag : Amazon Bedrock, Prompt Flows  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/6708bce5-6aa3-4acb-89f7-85c39c006c8c/en-US" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Kendra を利用した Retrieval Augmented Generation (RAG) ハンズオン</a>  
 Amazon Kendra とその検索結果をもとに生成系 AI を使ってわかりやすい回答文を作成する RAG（Retrieval Augmented Generation：拡張検索生成）アプリケーションを構築します。生成系 AI や AWS に関する深い知識は不要で、入門レベルの内容となっています。  
