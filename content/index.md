@@ -167,6 +167,10 @@ tag : Amazon Simple Email Service, Amazon SES
 Amazon Connect では、SAML 2.0 準拠の ID プロバイダーを使用して、コンタクトセンターへのシングルサインオンアクセスを提供できます。本ハンズオンでは、Okta、PingOne、Microsoft Entra ID、Google Workspace、OneLogin、AWS IAM Identity Center を使用した SSO のセットアップ方法を体験できます。  
 tag : Amazon Connect  
 
+- <a href="https://catalog.workshops.aws/amazon-connect-dynamic-personalized-routing/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect dynamic and personalized routing</a>  
+このワークショップでは、Amazon Connect のルーティングをさまざまなシナリオで実装することで、顧客を適切なエージェントに適切なタイミングでつなぐ方法と、ビジネス運用モデルに合わせてルーティング条件を調整するための優れた方法を学びます。このワークショップは要件に対し参加者でディスカッションしながら実装を検討する方式を想定していますが、1人でも行うことができます。  
+tag : Amazon Connect  
+
 - <a href="https://catalog.workshops.aws/amazon-connect-profiles/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect Customer Profiles Workshop</a>  
 このワークショップでは、エージェントが効率的でパーソナライズされたカスタマーサービスを提供できるように、Salesforce などの外部アプリケーションの情報と Amazon Connect のコンタクト履歴を組み合わせることにより、Customer Profilesがエージェントが必要となる情報を提供できることを体験します。  
 tag : Amazon Connect, Salesforce, Zendesk, Marketo, ServiceNow, Segment, Shopify  

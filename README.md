@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2024-10-04
+ハンズオンコンテンツ 1件 追加  
+Amazon Connect dynamic and personalized routing  
+https://catalog.workshops.aws/amazon-connect-dynamic-personalized-routing/ja-JP  
+
 ## 2024-09-26
 ハンズオンコンテンツ 3 件追加  
 
