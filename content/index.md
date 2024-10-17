@@ -675,6 +675,10 @@ tag : AWS Resilience Hub
 AWS CloudFormation ワークショップの初級編では、基礎的な AWS CloudFormation のコンセプトについて紹介します。中級編と上級編では、CloudFormation のより深い特徴について学習することができます。  
 tag : AWS CloudFormation  
 
+- <a href="https://catalog.workshops.aws/getting-started-with-com/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS での運用管理の一元化を始めよう</a>  
+こちらのワークショップは Systems Manager (SSM) の多くの機能を体験でき、お客様の運用効率化のきっかけに作りにお役に立てると思います。  
+tag : Systems Manager, Config, CloudTrail. EC2  
+
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/b97f7cb6-0ec4-41c7-97ea-c4156f4f1e0d/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Systems Manager & QuickSight ハンズオン</a>  
 このハンズオンでは Amazon EC2 インスタンスを作成し、これに含まれるソフトウェア構成情報を AWS Systems Manager (SSM) を用いて収集、さらに Amazon QuickSight での可視化を行います。  
 tag : Systems Manager, QuickSight  

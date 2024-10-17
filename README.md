@@ -13,6 +13,12 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2024-10-17
+ハンズオンコンテンツ 1件 追加  
+AWS での運用管理の一元化を始めよう  
+https://catalog.workshops.aws/getting-started-with-com/ja-JP  
+
+
 ## 2024-10-04
 ハンズオンコンテンツ 1件 追加  
 Amazon Connect dynamic and personalized routing  
