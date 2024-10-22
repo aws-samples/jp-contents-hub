@@ -626,6 +626,10 @@ tag : Amazon SageMaker JumpStart
 Extension for Stable Diffusion on AWS solution を利用して、Amazon SageMaker エンドポイントを呼び出し、大量の画像を生成する方法、また、モデルを自動的に微調整するパイプラインを構築する方法を学びます。  
 tag : Stable Difussion, SageMaker, Generative AI  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/95a3c231-2064-4a33-9a3d-624b7c11aaa6/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Dify での生成 AI アプリケーション構築ワークショップ</a>  
+Dify は、大規模言語モデル (LLM) を活用した生成 AI アプリを簡単に開発できる、オープンソースのプラットフォームです。ユーザーは、Dify を利用してノーコードで AI アプリを構築できます。本ワークショップは、 AWS 上に構築した Dify を利用し、生成 AI アプリ (チャットボット、エージェント、ワークフロー) を構築していきます。  
+tag : Amazon Bedrock, Dify  
+
 - <a href="https://github.com/aws-samples/aws-ml-jp" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS の機械学習サービスのサンプルコードのためのレポジトリ</a>  
 AWS の機械学習サービスのサンプルコードのためのレポジトリです。  
 tag : Repository  
