@@ -895,10 +895,6 @@ tag : Amazon GuardDuty, Amazon Detective
 Security Onrampは、お客様がアカウントをセキュリティのベストプラクティスに照らしてベースラインを構築することを目的としたセキュリティヘルスチェックです。セキュリティの重要性をお客様に伝え、未知の第三者がアカウントにアクセスすることにつながる可能性のある差し迫った問題を解決し、 Well Architected Framework 、 AWS Trusted Advisor 、AWS Security Services 等のより高度なプログラムやツールについてお客様に知らせることを目的としています。  
 tag : Well Architected Framework, AWS Trusted Advisor, AWS Security Services  
 
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/25f23555-da59-4b2a-af23-b0d6bb755e3c/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">セキュリティインシデント疑似体験ワークショップ</a>  
-日頃からセキュリティインシデントを防ぐために、細心の注意を払ってシステムを運用いただいている方やこれから検討しようと考えている方など、様々な状況に身を置かれていることと思います。ただ、実際にセキュリティインシデントが発生した際の対応を経験されている方は少ないのではないでしょうか。セキュリティインシデントへの適切な対応には経験が不可欠です。本ワークショップでは、疑似的なセキュリティインシデントへの対応を実践的に学んでいただくことで、経験を積んでいただくことを目的としています。  
-tag : AWS CloudTrail, Amazon GuardDuty,   
-
 - <a href="https://d2h9aujg4hgxod.cloudfront.net/72704A00-FCD4-11EB-B3AC-898E20057A09/index.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">GuardDuty Workshop</a>  
 Amazon GuardDuty (マネージド型脅威検出サービス)を使用した脅威の検出と修復をカバーするシナリオについて説明します。このシナリオは、GuardDuty が検出できる脅威の一部を表す、いくつかの脅威ベクトルにまたがる攻撃をシミュレートします。さらに、GuardDuty の検出結果を表示および分析する方法、その結果に基づいてアラートを送信する方法、最後に検出結果に対する修復方法について説明します。  
 tag : Amazon GuardDuty  
