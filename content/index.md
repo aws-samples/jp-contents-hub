@@ -253,10 +253,6 @@ AWS またはオンプレミスで使用するための仮想マシンとコン�
 tag : Amazon EC2  
 
 ## ![image]([img/Arch-Category_Containers_16.png]()) Containers
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/7ffc4ed9-d4b3-44dc-bade-676162b427cd/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon ECS 入門ハンズオン</a>  
-このハンズオンでは、コンテナイメージを作成して、AWS 上でコンテナを動かし、インターネットからアクセスする一連の流れを体験できます。  AWS のサービスの説明と一緒に、コンテナイメージの作成方法なども併せて紹介しており、初心者でもわかりやすいハンズオンを目指しています。学習の最初のステップとしてご活用いただけます。  
-tag : Amazon ECS, AWS Fargate, Amazon ECR  
-
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-ECS-2022-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Elastic Container Service 入門 コンテナイメージを作って動かしてみよう</a>  
 コンテナイメージを作成して、AWS 上でコンテナを動かし、インターネットからアクセスする一連の流れを体験できます。  
 tag : Amazon ECS, AWS Fargate, Amazon ECR  
@@ -512,6 +508,10 @@ tag : Amazon Bedrock, AWS Lambda, Amazon API Gateway
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/7271111a-22bd-40e7-971a-817b0c083c67/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Bedrock + Anthropic Claude 3 開発体験ワークショップ</a>  
 このワークショップでは Amazon Bedrock から Anthropic Claude 3 を呼び出すプログラミングを体験して頂きます。AWS Cloud9 から Python を使用してプログラミングを実施します。必要な Python コードはこのワークショップ内に記載していますので、普段 Python を使用した開発を行っていない方にもご利用頂けます。  
+tag : Amazon Bedrock  
+
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/5677057b-93d7-4354-9a6c-db9434c15b5c/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Building with Amazon Bedrock (Japanese)</a>  
+主にAmazon BedrockでAnthropic Claude 3を使用し、生成 AI を使ったデモを作成し、チャットボット、RAG、画像生成、文書要約、データ抽出、ストリーミング応答、プロンプトエンジニアリングなどを体験できます。基礎レベル～基本レベル～マルチモーダルやプロンプトエンジニアリングなど、各種レベルのラボが揃っており、幅広いお客様に使用いただけます。ほとんどのラボでPython、Streamlitを使ってでもアプリを作っているため、具体的にどのようにBedrockを呼び出すアプリケーションを作ればいいか理解を深めることが出来ます。  
 tag : Amazon Bedrock  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/ca98ae19-48a5-4f95-90e3-56bbfeaae0fc/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">コードを書かない 生成AI Hands-on</a>  

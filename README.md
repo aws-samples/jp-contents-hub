@@ -13,10 +13,16 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2024-11-05
+ハンズオンコンテンツ 1件 追加  
+Building with Amazon Bedrock (Japanese)  
+https://catalog.us-east-1.prod.workshops.aws/workshops/5677057b-93d7-4354-9a6c-db9434c15b5c/ja-JP  
+
+
 ## 2024-10-22
 ハンズオンコンテンツ 1件 追加  
 Dify での生成 AI アプリケーション構築ワークショップ  
-Dify は、大規模言語モデル (LLM) を活用した生成 AI アプリを簡単に開発できる、オープンソースのプラットフォームです。ユーザーは、Dify を利用してノーコードで AI アプリを構築できます。本ワークショップは、 AWS 上に構築した Dify を利用し、生成 AI アプリ (チャットボット、エージェント、ワークフロー) を構築していきます。  
+https://catalog.us-east-1.prod.workshops.aws/workshops/95a3c231-2064-4a33-9a3d-624b7c11aaa6/ja-JP  
 
 ## 2024-10-17
 ハンズオンコンテンツ 1件 追加  
