@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2024-11-07
+ハンズオンコンテンツ 1件 追加  
+倉庫業務におけるAmazon Bedrock Agentsを活用したチャットアプリケーション  
+https://catalog.us-east-1.prod.workshops.aws/workshops/e8b63498-d532-4dd4-b392-622ee65bea94/ja-JP  
+
 ## 2024-11-05
 ハンズオンコンテンツ 1件 追加  
 Building with Amazon Bedrock (Japanese)  

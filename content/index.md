@@ -630,6 +630,10 @@ tag : Stable Difussion, SageMaker, Generative AI
 Dify は、大規模言語モデル (LLM) を活用した生成 AI アプリを簡単に開発できる、オープンソースのプラットフォームです。ユーザーは、Dify を利用してノーコードで AI アプリを構築できます。本ワークショップは、 AWS 上に構築した Dify を利用し、生成 AI アプリ (チャットボット、エージェント、ワークフロー) を構築していきます。  
 tag : Amazon Bedrock, Dify  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/e8b63498-d532-4dd4-b392-622ee65bea94/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">倉庫業務におけるAmazon Bedrock Agentsを活用したチャットアプリケーション</a>  
+このワークショップでは、Amazon Bedrock Agents を活用したアプリケーションを AWS 上に構築し、物流業界のシナリオとして、プロンプトをもとに生成AIがDBのデータを参照・更新を行うことを体験できます。  
+tag : Amazon Bedrock Agents  
+
 - <a href="https://github.com/aws-samples/aws-ml-jp" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS の機械学習サービスのサンプルコードのためのレポジトリ</a>  
 AWS の機械学習サービスのサンプルコードのためのレポジトリです。  
 tag : Repository  
