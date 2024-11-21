@@ -293,6 +293,10 @@ tag : Amazon EKS, Istio, Envoy
 このワークショップでは、まず App Runner サービスの作成方法を学びます。その後、作成したサービスに少しずつ機能を追加しながら、VPC 接続やオートスケーリングなどの機能や、 SSM パラメータストア、Secrets Manager、WAF、X-Ray などの AWS サービスとの統合について学習します。  
 tag : AWS App Runner、Amazon ECR、AWS X-Ray、AWS WAF、AWS Secrets Manager、AWS Systems Manager  
 
+- <a href="https://catalog.workshops.aws/karpenter/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Karpenter ワークショップ</a>  
+このワークショップでは、ハンズオンラボとサンプルを通して Karpenter の概念を深く掘り下げていきます。Karpenter の利用によってアプリケーションの可用性が向上し、コンピューティングコストが削減され、運用オーバーヘッドが最小限に抑えられることを学びます。  
+tag : Amazon EKS, Karpenter  
+
 - <a href="https://github.com/harunobukameda/AWS-App-Runner/blob/main/AWS%20App%20Runner%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS App Runner ワークショップ</a>  
 App Runner と GitHub を連携して、シンプルな Web アプリケーションをデプロイする方法を学習いただけます。  
 tag : AWS App Runner  
@@ -898,6 +902,14 @@ tag : Amazon GuardDuty, Amazon Detective
 - <a href="https://catalog.workshops.aws/securityonramp/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Security Onramp Workshop</a>  
 Security Onrampは、お客様がアカウントをセキュリティのベストプラクティスに照らしてベースラインを構築することを目的としたセキュリティヘルスチェックです。セキュリティの重要性をお客様に伝え、未知の第三者がアカウントにアクセスすることにつながる可能性のある差し迫った問題を解決し、 Well Architected Framework 、 AWS Trusted Advisor 、AWS Security Services 等のより高度なプログラムやツールについてお客様に知らせることを目的としています。  
 tag : Well Architected Framework, AWS Trusted Advisor, AWS Security Services  
+
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/55a386bd-ea95-4b6e-b15f-0098915be0be/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">金融リファレンスアーキテクチャ日本版 ワークショップ</a>  
+日本の金融インダストリーで求められる高信頼性を担保するためのフレームワークである「金融リファレンスアーキテクチャ日本版」の理解を目的としたハンズオンです。  
+tag : BLEA for FSI, Well Architected Framework FSI Lens for FISC, Finance, 金融  
+
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/81e94a4b-b47f-4acc-a284-914c4514d50f/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS WAF を使って Web アプリケーションの防御を強化する</a>  
+このワークショップでは、AWS WAFを使ってWebアプリケーションを一般的な脅威から保護する実践的な経験を積むことができ、高度な機能を活用してさらなる保護を行う方法を学ぶことができます。また、Webトラフィックログの監視と分析を通じて、アプリケーションのセキュリティ対策を強化する方法についても触れられます。  
+tag : AWS WAF, Amazon Athena, CloudWatch  
 
 - <a href="https://d2h9aujg4hgxod.cloudfront.net/72704A00-FCD4-11EB-B3AC-898E20057A09/index.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">GuardDuty Workshop</a>  
 Amazon GuardDuty (マネージド型脅威検出サービス)を使用した脅威の検出と修復をカバーするシナリオについて説明します。このシナリオは、GuardDuty が検出できる脅威の一部を表す、いくつかの脅威ベクトルにまたがる攻撃をシミュレートします。さらに、GuardDuty の検出結果を表示および分析する方法、その結果に基づいてアラートを送信する方法、最後に検出結果に対する修復方法について説明します。  

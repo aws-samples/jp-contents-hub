@@ -13,6 +13,17 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2024-11-21
+ハンズオンコンテンツ 3件 追加  
+金融リファレンスアーキテクチャ日本版 ワークショップ  
+https://catalog.us-east-1.prod.workshops.aws/workshops/55a386bd-ea95-4b6e-b15f-0098915be0be/ja-JP  
+
+AWS WAF を使って Web アプリケーションの防御を強化する  
+https://catalog.us-east-1.prod.workshops.aws/workshops/81e94a4b-b47f-4acc-a284-914c4514d50f/ja-JP  
+
+Karpenter ワークショップ  
+https://catalog.workshops.aws/karpenter/ja-JP  
+
 ## 2024-11-07
 ハンズオンコンテンツ 1件 追加  
 倉庫業務におけるAmazon Bedrock Agentsを活用したチャットアプリケーション  
