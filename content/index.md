@@ -829,10 +829,6 @@ None
 None
 
 ## SaaS
-- <a href="https://www.eventbox.dev/published/lesson/saas-factory-bootcamp-jp/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Buiding SaaS Solutions on AWS</a>  
-リファレンスSaaSアーキテクチャを実装、テストすることで、マルチテナンシー、アイデンティティ、オンボーディング、セキュリティ、データパーティショニング、テナント分離などのコアコンセプトについて学習できます  
-tag : Amazon Cognito, Amazon DynamoDB, Amazon S3, マルチテナント  
-
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/9180bbda-7747-4b8f-ac05-14e7f258fcea/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">SaaS AuthN/Z Workshop</a>  
 SaaS AuthN/Z Workshop は SaaS アプリケーションにおける AWS 上での認証 / 認可のコンセプトや実装の方法を学んでいただくためのワークショップです。  
 tag : Amazon Cognito, Verified Permissions  
