@@ -80,10 +80,6 @@ tag : Amazon Redshift, Amazon Athena, AWS Glue, SageMaker
 このハンズオンでは、AWS Glue DataBrew の基本的な機能を試すことができます。 サンプルデータを用いて、Amazon QuickSight での可視化までを一括で行います。  
 tag : AWS Glue DataBrew, Amazon QuickSight, Amazon Athena  
 
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/9981f1a1-abdc-49b5-8387-cb01d238bb78/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Athena Workshop :: ハンズオンラボ</a>  
-サーバレスクエリエンジンである、 Amazon Athena の基本操作からFederated Query, UDF, Athena ML などの応用まで広く網羅したワークショップです。  
-tag : Amazon Athena  
-
 - <a href="https://github.com/harunobukameda/Amazon-Athena-ACID-transcation/blob/main/Amazon%20Athena%20ACID%20transaction%20workshop.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Athena ACID transaction workshop</a>  
 Amazon Athena はサーバレスで S3 などのデータに対して SQL クエリーが発行可能なインタラクティブな分析サービスです。新しく ACID トランザクションをサポートし、 INSERT, DELETE, UPDATE, 過去のデータに対してクエリーが発行可能なタイムトラベルクエリに対応しました。この新機能を体験頂くワークショップです。  
 tag : Amazon Athena  
@@ -121,10 +117,6 @@ tag : Instance Scheduler
 - <a href="https://dcj71ciaiav4i.cloudfront.net/31278980-D264-11EC-BB2B-AB3D7B3B0CB5/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">NFT Workshop</a>  
 このハンズオンでは AWS にあまり慣れていない方、NFT のサービスを構築したことがない開発者の方を対象に、AWS を活用しながら AWS CDK(Cloud Development Kit) を使って環境の自動構築、NFT のマーケットプレイスの作成、NFT の発行、NFT の売買、2 次流通で作者に印税を支払う をすることで、AWS と NFT に慣れ親しんでもらうことを目的としています。  
 tag : Amazon Managed Blockchain, Ethereum, NFT  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/6ee941b7-bf88-4455-b285-3745bfc35754/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">QLDB ハンズオン</a>  
-このハンズオンでは Amazon Quantum Ledger Database を使った実践的な台帳アプリケーションの構築を体験できます。  
-tag : Amazon QLDB  
 
 - <a href="https://github.com/harunobukameda/Amazon-Managed-Blockchain/blob/main/Amazon%20Managed%20Blockchain.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Managed Blockchain (Hyperledger Fabric) ワークショップ</a>  
 このハンズオンでは、Amazon Managed Blockchain で Hyperledger Fabric を構成し、サンプルスマートコントラクトを動かすまでの内容を体験いただけます。  
@@ -187,10 +179,6 @@ tag : Amazon Connect, Amazon Lex, Amazon Transcribe, Amazon Comprehend, Amazon T
 このワークショップでは、Amazon Connect Tasksを設定し、特定のシナリオに基づいて動作確認することで、Tasksのユースケースを体験します。  
 tag : Amazon Connect  
 
-- <a href="https://catalog.workshops.aws/amazon-connect-contact-lens/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Contact Lens for Amazon Connect Workshop</a>  
-このワークショップでは、クラウドベースのコールセンターを設定する方法を学びます。また、Contact Lens for Amazon Connectにより通話に関するインサイトを得られるように設定します。  
-tag : Amazon Connect  
-
 ## ![image]([img/Arch-Category_Compute_16.png]()) Compute
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/47782ec0-8e8c-41e8-b873-9da91e822b36/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">スケーラブルウェブサイト構築 ハンズオン</a>  
 AWS 上 でスケーラブルな Web システムの構築を体験するハンズオンです。WordPress を EC2 で稼働しながら、スケーラブルな構成を体験できます。  
@@ -224,7 +212,7 @@ tag : AWS Batch
 本ワークショップでは、AWS が設計、開発を行った AWS Inferentia 推論チップを搭載した Amazon EC2 Inf1 インスタンスを実際に体験して頂けます。  
 tag : Amazon EC2, Inferentia  
 
-- <a href="https://nitro-enclaves.workshop.aws/ja/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Nitro Enclaves Workshop</a>  
+- <a href="https://catalog.workshops.aws/nitro-enclaves/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Nitro Enclaves Workshop</a>  
 機密性の高いデータを AWS Nitro Enclaves で処理する方法を学習します  
 tag : Amazon EC2  
 
@@ -326,10 +314,6 @@ tag : AWS Copilot, Amazon ECS, CI/CD, AWS CodePipeline, AWS CodeCommit, AWS Code
 tag : Amazon EC2, Graviton, CodeCommit, CodeBuild, CodePipeline, YOLO  
 
 ## ![image]([img/Arch-Category_Database_16.png]()) Database
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/312434ad-eaba-4f48-a38c-352a2ae3a4fa" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Aurora MySQLの認証設計ベストプラクティス</a>  
-Amazon Auroraにはいくつかの認証方式が用意されており、一般に、アプリケーションの認証にはネイティブ認証、人の認証にはIAM認証を使うのがベストプラクティスです。 また、アプリケーションが利用するパスワードの危殆化リスクを低減するため、ネイティブ認証のパスワードを定期的にローテーションする対策がしばしば取られます。このワークショップでは、認証認可のベストプラクティスを取り上げます。  
-tag : Amazon Aurora, MySQL  
-
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/bea58024-ba60-4875-a7c7-52121e5d4b70/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon RDS Performance Insightsによる性能分析ワークショップ</a>  
 ワークショップではサンプルプログラムを利用してデータベースの典型的な負荷を発生させます。この負荷が Peformance Insights を通じてどのように観測でき、負荷の原因をどのように分析できるのかを体験します。  
 tag : Amazon Aurora PostgreSQL-compatible, Amazon RDS Performance Insights  
@@ -374,10 +358,6 @@ tag : AWS Fault Injection Simulator
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/401f5147-738e-45d9-be9f-fed9c42a60b0/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">分散負荷テストソリューション ワークショップ</a>  
 Distributed Load Testing (分散負荷テスト) on AWS  は、負荷テストに必要な負荷クライアントを必要なタイミングで必要量だけ立ち上げて負荷掛けを実行し、試験が終了したら自動で停止できるソリューションです。本ワークショップでは、 同ソリューションを利用し、実際に動くワークロードに対して負荷テストを実行していきます。ワークショップを通じて負荷テストの実施方法について学ぶことができます。  
 tag : Distributed Load Testing on AWS  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/6838a1a5-4516-4153-90ce-ac49ca8e1357/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon CodeWhisperer</a>  
-AI コーディングコンパニオンを使用して、アプリケーションをより速く、より安全に構築できます。Amazon CodeWhisperer は何十億行ものコードに基づいてトレーニングされており、コメントや既存のコードに基づいて、スニペットから関数全体まで、さまざまなコード候補をリアルタイムで生成できます。時間のかかるコーディングタスクを省き、使い慣れていない API を利用する場合でも開発を加速できます。  
-tag : Amazon CodeWhisperer  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/10141411-0192-4021-afa8-2436f3c66bd8/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS CDK Immersion Day ワークショップ</a>  
 本ワークショップは、AWS CDK を手を動かしながら学習できるコンテンツです。開発環境をセットアップし、CDK Toolkit を用いて AWS 環境へアプリケーションをデプロイする手順について体験できます。AWS CDK Workshop の後継ワークショップです。  
@@ -453,10 +433,6 @@ tag : AWS IoT Core, AWS IoT Analytics, Amazon QuickSight, Amazon SageMaker, AWS 
 こちらのハンズオンでは、AWS IoT Coreを用いてIoTデバイスから取得した情報でダッシュボードを構築することでAWS IoT Core の基礎を学ぶことが出来るようになっています。「IoT デバイスとクラウドの連携を考えている方」「AWS IoT Core の使用感を簡単に試してみたい方」「-情報の収集から可視化まで一連の流れを試してみたい方」といった方におすすめです。  
 tag : AWS IoT Core, Amazon CloudWatch, AWS Cloud9  
 
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/03a4f79f-6971-441f-bc12-e8b755392d2c/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS IoT Analytics ハンズオン</a>  
-AWS IoT Analyticsを利用することでデータ収集時に複雑な処理パイプラインを自分で構築すること無く、マネージドサービスに任せてすぐに開始することが出来ることを学べます。また、蓄積されたデータをAmazon QuickSightを使って可視化することで、データを基に様々な判断を行える環境を構築することが出来ることを学べます。  
-tag : AWS IoT Analytics, Amazon QuickSight  
-
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/7c2b04e7-8051-4c71-bc8b-6d2d7ce32727/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS IoT Device Management Workshop</a>  
 このハンズオンでは AWS IoT Device Managementを利用して、デバイスのプロビジョニング・フリートインデックス・デバイスのグループ化・OTA の 4 つの操作を体験頂けます。  
 tag : AWS IoT Core, AWS IoT Device Management,   
@@ -472,14 +448,6 @@ tag : AWS IoT Core, AWS IoT Events, Amazon SNS
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/5ecc2416-f956-4273-b729-d0d30556013f/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS IoT Greengrass 2.0 入門ハンズオン</a>  
 reengrass V2の基本機能やアプリケーションの開発方法を学ぶことができます。また、エッジランタイムをAWSサービス上で動作させるため、エッジデバイス実機を用意していただく必要はなく、AWSアカウントとブラウザがあればすぐに試すことができます。こちらのハンズオンを通じて体験する開発方法や、作成するアプリケーションは、次のステップとして実機での利用に活用していただくことが可能です。  
 tag : AWS IoT Greengrass V2  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/9b243796-bda0-45f3-a2be-f50fcd3af435/ja-JP/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS IoT SiteWise Edge Workshop</a>  
-AWS IoT SiteWise Edge の機能の使い方を学習することができます。データをローカルで処理 するための AWS IoT SiteWise に関する設定を学習し、ローカルでデータを取得、エッジのモニターポータルに取り込みます。  
-tag : AWS IoT SiteWise Edge  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/2de8cd26-ae40-4b09-ad19-7b1eff358f5f/ja-JP/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS IoT SiteWise ハンズオン</a>  
-このハンズオンでは、 AWS IoT SiteWise を学習するにあたり、3 つの発電所 (Power Plant) に各々2つの発電機 (Generator) がある環境をシミュレートします。各発電機からは温度、回転数や発電量などのデータ (メトリクス) を収集・保存し、生産設備の稼働効率に関する階層化された指標である設備総合効率 (Overall Equipment Effectiveness = OEE) に沿って可視化しモニタリングする方法を、実際に手を動かしながら 3〜4 時間ほどで学ぶことが出来ます。ハンズオンを始めるにあたっては、デバイスなどを用意せず、ブラウザのみで簡単に学べます。  
-tag : AWS IoT SiteWise  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/b95a6659-bd4f-4567-8307-bddb43a608c4/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">IoT Core for LoRaWAN workshop</a>  
 AWS IoT Core for LoRaWAN を使用してプライベート LoRaWAN ネットワークを構築する方法を学習します。 LoRaWAN ネットワークをセットアップした後で、LoRaWAN デバイスからのデータを AWS アプリケーションで利用する方法と、LoRaWAN デバイスからのデータを活用したIoTソリューションを実際に構築する方法を学習します。  
@@ -529,10 +497,6 @@ tag : Amazon Kendra, 生成系AI, RAG (Retrieval Augmented Generation)
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">SageMaker Immersion Day</a>  
 Amazon SageMaker Immersion Dayは、特徴量エンジニアリングからさまざまなビルトインアルゴリズムの理解、本番環境のようなシナリオでのMLモデルのトレーニング、チューニング、デプロイまで、MLユースケース構築のエンドツーエンドの理解をお客様やパートナーに提供します。 独自のモデルを持ち込んで、オンプレミスのMLワークロードをAmazon SageMakerプラットフォームにリフト＆シフトする方法を説明します。 さらに、モデルのデバッグ、モデルの監視、AutoMLのような高度なコンセプトを説明し、AWS ML Well-Architectedレンズを通して機械学習のワークロードを評価するためのガイドを行います。 このワークショップは、主にデータサイエンティストを対象としていますが、AWSを使った機械学習について知りたい方であれば、どなたでも参加できます。  
 tag : Amazon SageMaker, Amazon SageMaker Data Wrangler, Feature Store, Amazon SageMaker Processing, TensorFlow, Autopilot, Debugger, Model Monitor, Clarfy, Pipeline  
-
-- <a href="https://catalog.workshops.aws/canvas-immersion-day/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">SageMaker Canvas Immersion Day</a>  
-Amazon SageMaker Canvas Immersion Day はセルフペースまたはインストラクター主導で行うことのできるラボです。本ラボを実施することによって、公開されたデータセットに基づいて Amazon SageMaker Canvas を用いた現実世界の課題解決が可能になります。本ラボではビジネスアナリストを主な対象者としていますが、すべての方がご自身で Sage Maker Canvas を使用できるようになることを想定しています。  
-tag : Amazon SageMaker Canvas  
 
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-SageMaker-Canvas-2023-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon SageMaker Canvas 〜 ノーコードで機械学習を始めよう</a>  
 Amazon SageMaker Canvas を使って、ノーコードで機械学習を体験する入門ハンズオンです。わかりやすく動画で学習頂けます。  
@@ -594,10 +558,6 @@ tag : Amazon Lex
 Amazon Lookout for Metrics は、機械学習 (ML) を使用して、売上高や顧客獲得率の急激な低下など、ビジネスおよび運用データの異常 (標準からの外れ値など) を自動的に検出および診断します。Amazon Lookout for Metrics の使い方を体験いただけるハンズオンです。  
 tag : Amazon Lookout for Metrics  
 
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/cbfb2625-416f-45e3-88b2-b68a1d25dab2/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Lookout for Vision Workshop</a>  
-Amazon Lookout for Vision ワークショップでは、Amazon Lookout for Vision の機能とAPIを体験できます。コンピュータビジョン（CV）を使い、欠陥や異常を発見する方法を紹介しています。Amazon Lookout for Vision を使用することで、大量に製品画像があったとしても異変を早急に検知でき、製造会社は製品品質を向上させて運用コストを削減することができます。  
-tag : Amazon Lookout for Vision, AWS IoT Greengrass  
-
 - <a href="https://github.com/harunobukameda/Amazon-Personalize-Handson/blob/master/personalize%2Bhandson.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Personalize ハンズオン</a>  
 Amazon Personalize は AWS が提供している過去の購買履歴など から個人化レコメンデーションを行う機械学習サービスです。このハンズオンでは、Personalize の基本的な使い方を学習いただけます。  
 tag : Amazon Personalize  
@@ -618,10 +578,6 @@ tag : AWS RoboMaker
 SageMaker Notebook で、R を扱うハンズオンです。iris データセットを使いながら、R で散布図や標準偏差、回帰直線などを利用する手順を体験いただけます。  
 tag : Amazon SageMaker, R  
 
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/03f7e662-e3b1-4c5b-8fbe-b6af0c00c7b2/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS DeepRacer Workshop</a>  
-AWS DeepRacer の強化学習モデルを作る方法を学ぶハンズオンです。  
-tag : AWS DeepRacer  
-
 - <a href="https://github.com/harunobukameda/Amazon-SageMaker-JumpStart/blob/main/Amazon%20SageMaker%20JumpStart%20Workshop.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon SageMaker JumpStart Workshop</a>  
 SageMaker JumpStart は、機械学習を始めるのに役立つ、広範な問題タイプに対する事前トレーニング済みのオープンソースモデルを提供します。このハンズオンでは、JumpStart を使って画像に映っている動物の判別、日本語文字列の相関分析などを体験いただけます。  
 tag : Amazon SageMaker JumpStart  
@@ -641,10 +597,6 @@ tag : Amazon Bedrock Agents
 - <a href="https://github.com/aws-samples/aws-ml-jp" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS の機械学習サービスのサンプルコードのためのレポジトリ</a>  
 AWS の機械学習サービスのサンプルコードのためのレポジトリです。  
 tag : Repository  
-
-- <a href="https://catalog.workshops.aws/amazon-omics-end-to-end/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Omics - End to End</a>  
-ワークショップを通じて、Amazon Omics のメリットを理解、シーケンスデータを Omics Storage にロードする方法、Omics Workflows によるワークフローの実施などを学習できます。  
-tag : Amazon Omics, Omics Storage, Omics Workflows, Omics Analytics  
 
 ## ![image]([img/Arch-Category_Management-Governance_16.png]()) Management & Governance
 - <a href="https://catalog.workshops.aws/observability/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">One Observability Workshop</a>  
@@ -737,10 +689,6 @@ tag : vMix, AWS Elemental MediaLive, AWS Elemental MediaPackage, Amazon CloudFro
 tag : Amazon Interactive Video Service(IVS)  
 
 ## ![image]([img/Arch-Category_Migration-Transfer_16.png]()) Migration & Transfer
-- <a href="https://catalog.workshops.aws/migrationimmersionday/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Migration Immersion Day</a>  
-オンプレミスからAWSへ移行する際に活用できる各種AWSサービスを用いて、実際にサーバーやデータベースを移行する流れを体験できます。  
-tag : AWS Application Discovery Service(ADS), AWS Migration Hub, AWS Application Migration Service(MGN), AWS Database Migration Service(DMS)  
-
 - <a href="https://dcj71ciaiav4i.cloudfront.net/75BEDEA0-D70A-11EB-91FC-CFB7976F85AB/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Application Migration Service(MGN) ハンズオン</a>  
 このハンズオンでは、AWS Application Migration Service(以後MGN) を使った仮想サーバーの移行を体験することができます。オハイオリージョンをオンプレミス環境と想定して、アプリケーションサーバーをオハイオからバージニア北部に移行するハンズオンになっています。  
 tag : AWS Application Migration Service(MGN), Amazon EC2  
@@ -838,14 +786,6 @@ tag : Amazon Cognito, Verified Permissions
 SAP HANA のインストール、SAP HANA を S3 にバックアップ、Systems Manager を利用してバックアップのスケジューリングを行う内容を体験いただけます。  
 tag : SAP HANA, AWS Launch Wizard for SAP, AWS Backint Agent, AWS Systems Manager Maintenance Windows  
 
-- <a href="https://catalog.workshops.aws/sap-hana-suse-ha/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">SAP HANA on AWS Advanced workshop</a>  
-SAP製品の高可用性構成を理解するために、SAP HANAをマルチAZでデプロイ、管理を学ぶハンズオンです。  
-tag : SAP HANA, HAWK(High Availability Web Konsole), ASCS/ERS  
-
-- <a href="https://catalog.workshops.aws/sap-monitoring-on-aws" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">SAP Monitoring on AWS ワークショップ</a>  
-本ラボは、SAP Basis 管理者とインフラ管理者が、SAP NetWeaver ABAP システムと SAP HANA on AWS の監視、運用方法を学ぶことを目的としています。  
-tag : Amazon CloudWatch, Amazon EC2  
-
 ## Sustainability
 - <a href="https://catalog.workshops.aws/well-architected-sustainability/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Well-Architected Framework 持続可能性の柱を学べるワークショップ</a>  
 Well-Archtiected Framework の「持続可能性の柱」を学んでいただけるワークショップです。このワークショップでは、持続可能性に配慮したアーキテクチャ設計の原則と、AWS  のサービスやツールを使った持続可能性を実現するベストプラクティスをハンズオンを通じて理解を深めることができます。  
@@ -883,17 +823,9 @@ tag : GuardDuty, WAF, IAM
 この IAM Immersion Day ワークショップでは、サービスの説明と AWS によるハンズオンラボを組み合わせて、AWS アイデンティティ とアクセス管理 (IAM) と大規模なガバナンスの方法について学びます。  
 tag :  AWS Identity and Access Management (IAM)  
 
-- <a href="https://catalog.workshops.aws/security-hub/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Security Hub ワークショップ</a>  
-本ワークショップは、AWS Security Hub、AWS Configを中心として、AWS 環境のセキュリティ態勢を管理および改善する方法を理解することを目的としています。  
-tag : AWS Security Hub, AWS Config, Amazon GuardDuty  
-
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/05f16f1a-0bbf-45a7-a304-4fcd7fca3d1f/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS KMS 保管中の暗号化 ワークショップ</a>  
 AWS では、暗号化によってデータを簡単に保護できます。このハンズオンワークショップでは、AWS での保管中の暗号化オプションについて詳しく説明します。S3、EBS、RDS などのサービスの AWS KMS を使用した AWS サーバー側の暗号化を中心に説明します。  
 tag : AWS Key Management Service  
-
-- <a href="https://catalog.workshops.aws/guardduty/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon GuardDuty と Amazon Detective を使用した脅威検知と対応</a>  
-このワークショップでは、Amazon GuardDuty と Amazon Detective の基本を学び、さまざまなユースケースやシナリオを深く掘り下げていきます。GuardDuty による脅威検知とインシデント対応の流れ、Amazon Detective を使用した侵害された EC2 インスタンスの調査を実施することで脅威検知からインシデント対応の一連の流れを体験いただけます。  
-tag : Amazon GuardDuty, Amazon Detective  
 
 - <a href="https://catalog.workshops.aws/securityonramp/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Security Onramp Workshop</a>  
 Security Onrampは、お客様がアカウントをセキュリティのベストプラクティスに照らしてベースラインを構築することを目的としたセキュリティヘルスチェックです。セキュリティの重要性をお客様に伝え、未知の第三者がアカウントにアクセスすることにつながる可能性のある差し迫った問題を解決し、 Well Architected Framework 、 AWS Trusted Advisor 、AWS Security Services 等のより高度なプログラムやツールについてお客様に知らせることを目的としています。  
@@ -906,6 +838,10 @@ tag : BLEA for FSI, Well Architected Framework FSI Lens for FISC, Finance, 金�
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/81e94a4b-b47f-4acc-a284-914c4514d50f/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS WAF を使って Web アプリケーションの防御を強化する</a>  
 このワークショップでは、AWS WAFを使ってWebアプリケーションを一般的な脅威から保護する実践的な経験を積むことができ、高度な機能を活用してさらなる保護を行う方法を学ぶことができます。また、Webトラフィックログの監視と分析を通じて、アプリケーションのセキュリティ対策を強化する方法についても触れられます。  
 tag : AWS WAF, Amazon Athena, CloudWatch  
+
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/51474fcc-35d0-4516-ba8c-323073984855/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Network Firewall Egress TLS Inspection Workshop</a>  
+このハンズオンでは、AWS Network Firewall を用いて Egress 方向の TLS Inspection を実施する方法を体験できます。 Egress 方向の TLS Inspection によって Proxy を使用することなく、管理対象の組織からの HTTPS 通信を監査することができます。 証明書の発行、クライアントへのインストール、 AWS Managed Rule Group を用いたトラフィックの検査を扱います。  
+tag : AWS Network Firewall  
 
 - <a href="https://d2h9aujg4hgxod.cloudfront.net/72704A00-FCD4-11EB-B3AC-898E20057A09/index.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">GuardDuty Workshop</a>  
 Amazon GuardDuty (マネージド型脅威検出サービス)を使用した脅威の検出と修復をカバーするシナリオについて説明します。このシナリオは、GuardDuty が検出できる脅威の一部を表す、いくつかの脅威ベクトルにまたがる攻撃をシミュレートします。さらに、GuardDuty の検出結果を表示および分析する方法、その結果に基づいてアラートを送信する方法、最後に検出結果に対する修復方法について説明します。  
@@ -931,10 +867,6 @@ tag : AWS IAM, AWS CloudTrail, Amazon CloudWatch Event, Amazon S3, AWS Lambda, A
 このワークショップでは、サーバーレスアプリケーションを保護するためのテクニックを学びます。  
 tag : Serverless, AWS Lambda, Amazon API Gateway, AWS Secrets Manager, npm-audit, AWS WAF, AWS X-Ray  
 
-- <a href="https://catalog.workshops.aws/data-discovery-with-macie/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Macieによるデータ検出と分類</a>  
-このワークショップは、Amazon Macieを使いこなし、S3バケット内のデータをスキャンして分類する方法を学ぶことを目的としています。 Amazon Macie（データ分類）とAWS Security Hub（集中型セキュリティビュー）を使って、お客様の環境のデータがどのように保存されているかを見て理解し、セキュリティ態勢に悪影響を及ぼす可能性のあるS3バケットのポリシーの変更を理解します。 カスタムデータ識別子の作成や、Amazon Macieでのデータ発見・分類ジョブの作成と範囲設定の方法を学びます。 最後に、Amazon Macieを使用して、作成したスキャンの結果をフィルタリングして調査します。  
-tag : Amazon Macie  
-
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/92e466fd-bd95-4805-9f16-2df07450db42/ja-JP/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Secrets Manager を使用した認証情報の保存、取得、管理</a>  
 このワークショップでは、Amazon RDS データベースに接続する AWS Lambda 関数を使用したサーバーレスアプリケーションのサンプルを使用します。あなたは、プログラムによって AWS Secrets Manager からデータベースの認証情報を取得するテストや、タグを使った ABAC (Attribute-Based Access Control) の実装を行います。  
 tag : AWS Secrets Manager, AWS Lambda, AWS KMS, AWS Config, Amazon EventBridge, Amazon Simple Notification Service, AWS CloudTrail  
@@ -942,10 +874,6 @@ tag : AWS Secrets Manager, AWS Lambda, AWS KMS, AWS Config, Amazon EventBridge, 
 - <a href="https://github.com/harunobukameda/AWS-IAM-Roles-Anywhere-AWS-Certificate-Manager/blob/main/IAM%20Roles%20Anywhere.docx" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">IAM Roles Anywhere ワークショップ</a>  
 IAM Roles Anywhere は、AWS 外部にあるワークロードに対して、一時的に IAM 権限を付与できるサービスです。IAM Roles Anywhere の構成方法を学習頂けます。Download ボタンから、Word ファイルをダウンロードが出来ます。  
 tag : IAM Roles Anywhere  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/863fe895-a98e-4a9f-a222-05f7f0e321a2/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Inspector を用いた脆弱性管理</a>  
-Amazon Inspector は自動化された脆弱性管理サービスで、Amazon Elastic Compute Cloud (EC2) とコンテナのワークロードを継続的にスキャンして、ソフトウェアの脆弱性や意図しないネットワークへの露出領域がないかを確認します。このワークショップでは、Inspector を使用して、Amazon ECR 内にあるEC2インスタンスとコンテナイメージをスキャンして、ソフトウェアの脆弱性がないか調べる方法を学びます。  
-tag : Amazon Inspector, Security Hub, Systems Manager Patch Manager  
 
 ## ![image]([img/Arch-Category_Serverless_16.png]()) Serverless
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/a9b0eefd-f429-4859-9881-ce3a7f1a4e5f" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">実践力を鍛える Bootcamp クラウドネイティブ編</a>  
@@ -963,10 +891,6 @@ tag : AWS Lambda, Amazon DynamoDB, Amazon API Gateway, Amazon Cognito
 - <a href="https://dcj71ciaiav4i.cloudfront.net/49D0D220-8D0F-11EB-8F39-FD9A62BABEEC/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">サービス連携の体験ハンズオン</a>  
 このハンズオンでは、AWS のサーバーレスサービスにあまり触れたことがない方を対象として、Lambda / S3 / SNS / SQS / API Gateway をはじめとしたサービスの連携を体験しながら、サーバーレスサービスに親しんでいただくことを目的としています。  
 tag : AWS Lambda, Amazon S3, Amazon SNS, Amazon SQS  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/b3f4087a-666e-402f-aa4d-dbfcfc2d543f/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Kong on AWS ワークショップ</a>  
-このワークショップでは、API ゲートウェイがなぜモダナイゼーションのパターンの一つなのか、そしてこのパターンを Kong を用いて実装することで、どのように以下の課題を解決できるかを学習します。  
-tag : Kong Gateway, EKS, Prometheus, Grafana, CloudWatch  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/f2c0706c-7192-495f-853c-fd3341db265a/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Iterative App Modernization Workshop</a>  
 このワークショップは、モノリシックアーキテクチャからマイクロサービスアーキテクチャに移行するプロセスをガイドします。  

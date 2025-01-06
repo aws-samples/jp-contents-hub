@@ -13,6 +13,12 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2025-01-06
+ハンズオンコンテンツ 1件 追加  
+AWS Network Firewall Egress TLS Inspection Workshop  
+https://catalog.us-east-1.prod.workshops.aws/workshops/51474fcc-35d0-4516-ba8c-323073984855/ja-JP  
+
+
 ## 2024-11-21
 ハンズオンコンテンツ 3件 追加  
 金融リファレンスアーキテクチャ日本版 ワークショップ  
