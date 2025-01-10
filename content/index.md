@@ -48,6 +48,10 @@ tag : Amazon Athena, Kinesis Data Streams, Kinesis Data Firehose, Kinesis Data A
 このハンズオンでは、Amazon DataZoneを使った データの公開、サブスクライブ、分析といった、Amazon DataZone ポータルにおける基本的な操作方法を学習いただけます。  
 tag : Amazon DataZone、AWS Glue、Amazon S3、AWS Lake Formation、Amazon Athena  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/31a4a613-f306-4453-97df-2d0dc54c7fa7/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Kinesis データストリーム ハンズオン</a>  
+Amazon Data Firehose, Amazon Kinesis Data Streams(KDS), Amazon Managed Service for Apache Flink(MSF)を中心にストリーム処理を学びます。  
+tag : Amazon Data Firehose, Amazon Kinesis Data Streams(KDS), Amazon Managed Service for Apache Flink(MSF)  
+
 - <a href="https://github.com/aws-samples/amazon-s3-datalake-handson/tree/master/JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">データレイクハンズオン</a>  
 幅広いデータソースからの構造化データまたは非構造化データの集中リポジトリとして使用できる Data Lake は、データの保存と分析の方法として多くの企業に取り入れられています。このハンズオンでは、AWS のビッグデータ関連サービスを使用して実際に分析パイプラインを構築することを通して、 Data Lake とビッグデータ分析基盤構築の実感を持って頂くことをゴールとしています。  
 tag : Amazon QuickSight, Amazon Athena, AWS Glue, Amazon Kinesis Data Firehose, Amazon Redshift, Amazon OpenSearch Service, Fluentd  

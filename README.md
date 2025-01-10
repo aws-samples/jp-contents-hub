@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2025-01-10
+ハンズオンコンテンツ 1件 追加  
+Amazon Kinesis データストリーム ハンズオン  
+https://catalog.us-east-1.prod.workshops.aws/workshops/31a4a613-f306-4453-97df-2d0dc54c7fa7/ja-JP  
+
 ## 2025-01-06
 ハンズオンコンテンツ 1件 追加  
 AWS Network Firewall Egress TLS Inspection Workshop  
