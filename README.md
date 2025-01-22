@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2025-01-22
+ハンズオンコンテンツ 1件 追加  
+AWS Step Functions Workflow Studio ワークショップ  
+https://catalog.us-east-1.prod.workshops.aws/workshops/c9f9ccbf-add5-47d8-be0f-c6f599c37057/ja-JP  
+
 ## 2025-01-10
 ハンズオンコンテンツ 1件 追加  
 Amazon Kinesis データストリーム ハンズオン  

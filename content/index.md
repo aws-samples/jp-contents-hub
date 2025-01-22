@@ -912,6 +912,10 @@ tag : Amazon EventBridge, Amazon SNS, Amazon SQS, AWS Lambda
 はじめてクラウドを体験する方向けに、サーバーレス サービスを使ってファイル処理を行うワークショップです。Amazon Rekognitionによる物体検出を例に、クラウドのさまざまなサービスを繋げて使うためのイベントやAPI、アクセス権などの考え方を学びます。  
 tag : AWS Lambda, Amazon Rekognition, Amazon DynamoDB, Amazon API Gateway  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/c9f9ccbf-add5-47d8-be0f-c6f599c37057/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Step Functions Workflow Studio ワークショップ</a>  
+ビジネスイノベーションのために複雑なロジックを迅速にデプロイし、問題が発生した際に素早く特定する必要があります。 しかし、このようなロジック構成には多くのリソースとインフラストラクチャの管理が必要で、問題が発生した箇所の特定に時間がかかり、すべてをコードで記述することが困難です。 しかし、AWSのフルマネージドサービスであるStep FunctionsとWorkflow Studioを使用することで、AWSサービスとリソース管理のワークフロー構成のためのコード作成の労力を削減し、段階的な手順の実行過程で問題が発生している箇所を容易に特定することができます。  
+tag : Step Functions, Lambda, Transcribe  
+
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-StepFunctions-2022-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Step Functions 入門 - ビジュアルツールを使ってローコードにワークフローを作成する</a>  
 サーバーレスなワークフロー構築サービスである AWS Step Functions の入門ハンズオンです。「Workflow Studio」と「AWS SDK 統合」機能を活用し、プログラムを書かずに AWS の各種サービスを利用するワークフローを作成します。  
 tag : AWS Step Functions, Amazon DynamoDB  
