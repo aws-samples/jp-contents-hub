@@ -847,6 +847,10 @@ tag : AWS WAF, Amazon Athena, CloudWatch
 このハンズオンでは、AWS Network Firewall を用いて Egress 方向の TLS Inspection を実施する方法を体験できます。 Egress 方向の TLS Inspection によって Proxy を使用することなく、管理対象の組織からの HTTPS 通信を監査することができます。 証明書の発行、クライアントへのインストール、 AWS Managed Rule Group を用いたトラフィックの検査を扱います。  
 tag : AWS Network Firewall  
 
+- <a href="https://catalog.workshops.aws/detective/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Detective ワークショップ</a>  
+このワークショップでは、さまざまなユースケースを通して Amazon Detective の基本を学びます。 AWS の脅威検出および対応サービス、ベストプラクティス、ユースケースに精通し、学んだことをシナリオに活かすことができます。  
+tag : Amazon Detective, Security Hub, EKS, Security Lake  
+
 - <a href="https://d2h9aujg4hgxod.cloudfront.net/72704A00-FCD4-11EB-B3AC-898E20057A09/index.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">GuardDuty Workshop</a>  
 Amazon GuardDuty (マネージド型脅威検出サービス)を使用した脅威の検出と修復をカバーするシナリオについて説明します。このシナリオは、GuardDuty が検出できる脅威の一部を表す、いくつかの脅威ベクトルにまたがる攻撃をシミュレートします。さらに、GuardDuty の検出結果を表示および分析する方法、その結果に基づいてアラートを送信する方法、最後に検出結果に対する修復方法について説明します。  
 tag : Amazon GuardDuty  

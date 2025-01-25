@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2025-01-25
+ハンズオンコンテンツ 1件 追加  
+Amazon Detective ワークショップ  
+https://catalog.workshops.aws/detective/ja-JP  
+
 ## 2025-01-22
 ハンズオンコンテンツ 1件 追加  
 AWS Step Functions Workflow Studio ワークショップ  
