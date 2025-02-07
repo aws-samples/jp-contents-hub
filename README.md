@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2025-02-07
+ハンズオンコンテンツ 1件 追加  
+Deadline Cloud Workshop  
+https://catalog.us-east-1.prod.workshops.aws/workshops/fe98fbe4-2087-4eaf-b85a-6eba844fc6be/ja-JP  
+
 ## 2025-01-25
 ハンズオンコンテンツ 1件 追加  
 Amazon Detective ワークショップ  

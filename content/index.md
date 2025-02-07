@@ -688,6 +688,10 @@ tag : Amazon Interactive Video Service(IVS)
 本ワークショップでは、Amazon Elastic Compute Cloud（Amazon EC2）上の vMix と AWS Elemental Media Services もしくは、Amazon Interactive Video Service を使用して、独自のクラウドベースのライブプロダクションおよびストリーミングプラットフォームを構成します。  
 tag : vMix, AWS Elemental MediaLive, AWS Elemental MediaPackage, Amazon CloudFront, Amazon S3, Amazon Interactive Video Service(IVS)  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/fe98fbe4-2087-4eaf-b85a-6eba844fc6be/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Deadline Cloud Workshop</a>  
+このハンズオンでは、AWS Deadline Cloudを利用して、スケーラブルなレンダーファームを構築し、制作に用いるツールとの統合、コストやリソースの監視方法を学習いただけます。  
+tag : AWS Deadline Cloud  
+
 - <a href="https://github.com/harunobukameda/Amazon-IVS/blob/main/IVS%20Workshop.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Interactive Video Service ワークショップ</a>  
 このハンズオンでは、Amazon Interactive Video Service を使って作業環境の画面をライブ配信する内容を体験いただけます。  
 tag : Amazon Interactive Video Service(IVS)  
