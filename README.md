@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2025-02-26
+ハンズオンコンテンツ 1件 追加  
+データ分析基盤の構築サンプル集  
+https://aws.amazon.com/jp/blogs/startup/analytics-pipeline-samples/  
+
 ## 2025-02-07
 ハンズオンコンテンツ 1件 追加  
 Deadline Cloud Workshop  
