@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2025-03-14
+ハンズオンコンテンツ 1件 追加  
+Amazon Redshift Serverless と Amazon QuickSight を使った簡単分析ハンズオン  
+https://catalog.us-east-1.prod.workshops.aws/workshops/566245ec-486c-4b2c-9e94-d431f67316c1/ja-JP  
+
 ## 2025-03-06
 ハンズオンコンテンツ 1件 追加  
 Athena SQL Bootcamp  

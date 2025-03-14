@@ -24,8 +24,8 @@ tag : Amazon QuickSight, Amazon Athena
 Amazon Redshift、Amazon QuickSight を用いて、データ分析環境を構築し、簡単なデータ分析の可視化を行います。  
 tag : AWS Hands-on for Begginners, Amazon Redshift, Amazon QuickSight  
 
-- <a href="https://pages.awscloud.com/JAPAN-launch-GC-RedshiftServerless_Handson-2022-reg.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Redshift Serverless データ分析セルフハンズオン</a>  
-Amazon Redshift Serverless は、エンタープライズレベルの機能・性能を持った分析用 データベースを、業務部門でも手軽に使うことのできるサービスです。Amazon Redshift Serverless を使って、Amazon S3 上にあるデータを取り込んで分析のためのクエリーを行う内容を体験できます。また、BI ツールの QuickSight を使って Amazon Redshift Serverless のデータを可視化する方法を学習頂けます。  
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/566245ec-486c-4b2c-9e94-d431f67316c1/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Redshift Serverless と Amazon QuickSight を使った簡単分析ハンズオン</a>  
+このワークショップでは、Amazon Redshift Serverless と Amazon QuickSight を使った簡単な分析を体験することができます。  
 tag : Amazon Redshift Serverless, Amazon QuickSight  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/26c005b2-b387-454a-b201-9b8f37f92f92/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon OpenSearch Service Intro Workshop</a>  
