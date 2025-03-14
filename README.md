@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2025-03-06
+ハンズオンコンテンツ 1件 追加  
+Athena SQL Bootcamp  
+https://catalog.us-east-1.prod.workshops.aws/workshops/0360187d-4d94-4a16-887a-e83504cb435d/ja-JP  
+
 ## 2025-02-26
 ハンズオンコンテンツ 1件 追加  
 データ分析基盤の構築サンプル集  

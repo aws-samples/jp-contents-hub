@@ -56,9 +56,9 @@ tag : Amazon Data Firehose, Amazon Kinesis Data Streams(KDS), Amazon Managed Ser
 AWS でデータ分析基盤を構築する際のサンプル手順集です。AWS 内で完結して安価に始められる簡易データ分析基盤、Google Analytics 4 と TORROCO を利用して外部の SaaS データを活用するデータ分析基盤など、コストやデータの量や組織の状況に応じて使い分けられるデータ分析基盤の構築手順を紹介します。  
 tag : RDS S3 Export, dbt, TROCCO, QucikSight, Athena  
 
-- <a href="https://github.com/aws-samples/amazon-s3-datalake-handson/tree/master/JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">データレイクハンズオン</a>  
-幅広いデータソースからの構造化データまたは非構造化データの集中リポジトリとして使用できる Data Lake は、データの保存と分析の方法として多くの企業に取り入れられています。このハンズオンでは、AWS のビッグデータ関連サービスを使用して実際に分析パイプラインを構築することを通して、 Data Lake とビッグデータ分析基盤構築の実感を持って頂くことをゴールとしています。  
-tag : Amazon QuickSight, Amazon Athena, AWS Glue, Amazon Kinesis Data Firehose, Amazon Redshift, Amazon OpenSearch Service, Fluentd  
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/0360187d-4d94-4a16-887a-e83504cb435d/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Athena SQL Bootcamp</a>  
+本ワークショップ では、Amazon Athena を利用して、SQLの代表的なクエリ、Athena の使い方を学びます。本ワークショップは SQL を初めて扱う方を対象としています。ワークショップの所要時間は、全体で約 2 時間です。ワークショップ終了後、Amazon Athena の基本的な使い方と SQL の基本構文を理解することができます。  
+tag : Athena  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/6aab407b-07d0-4a14-8a16-8ffac2f625b8/ja-JP/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">QuickSight ワークショップ</a>  
 QuickSight の埋め込み方法を学習頂けるワークショップです。  
@@ -103,10 +103,6 @@ tag : AWS Glue DataBrew
 - <a href="https://github.com/harunobukameda/AWS-Glue-Studio/blob/main/AWS%20Glue%20Studio%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Glue Studio ワークショップ</a>  
 AWS Glue Studio は AWS Glue での抽出、変換、ロードなど、ETL ジョブの作成、実行、およびモニタリングを簡単にできるようにする機能です。このハンズオンでは、AWS Glue Studio を使って GUI をつかったデータ加工を体験頂けるハンズオンです。  
 tag : AWS Glue Studio  
-
-- <a href="https://github.com/harunobukameda/Amazon-Redshift-Spectrum-AWS-Glue-Amazon-Athena-Amazon-S3-Select/blob/master/datalake-handson-text_20220327.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">はじめてのモダンデータ解析基盤</a>  
-AWS のビッグデータ関連サービスを使用して実際に分析パイプラインを構築することを通して、 Data Lake とビッグデータ分析基盤構築の実感を持って頂くことをゴールとしています。   
-tag : Amazon Kinesis Data Firehose, Amazon Athena, Amazon Redshift Spectrum, AWS Glue, Amazon QuickSight  
 
 ## ![image]([img/Arch-Category_Application-Integration_16.png]()) Application Integration
 - <a href="https://github.com/harunobukameda/Amazon-Managed-Workflows-for-Apache-Airflow-MWAA-/blob/main/Amazon%20Managed%20Workflows%20for%20Apache%20Airflow.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Managed Workflows for Apache Airflow (MWAA) ハンズオン </a>  
