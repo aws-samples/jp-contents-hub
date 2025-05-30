@@ -13,6 +13,14 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2025-05-31
+ハンズオンコンテンツ 2件 追加  
+Amazon Aurora と Amazon ECS で学ぶ高可用性アプリケーションワークショップ
+https://catalog.us-east-1.prod.workshops.aws/workshops/62b625f8-1b24-43df-96d9-96629bba85e7/ja-JP  
+
+Amazon SageMaker ワークショップ  
+https://catalog.us-east-1.prod.workshops.aws/workshops/06dbe60c-3a94-463e-8ac2-18c7f85788d4/ja-JP  
+
 ## 2025-03-14
 ハンズオンコンテンツ 1件 追加  
 Amazon Redshift Serverless と Amazon QuickSight を使った簡単分析ハンズオン  

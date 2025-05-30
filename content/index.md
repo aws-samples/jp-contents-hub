@@ -60,6 +60,10 @@ tag : RDS S3 Export, dbt, TROCCO, QucikSight, Athena
 本ワークショップ では、Amazon Athena を利用して、SQLの代表的なクエリ、Athena の使い方を学びます。本ワークショップは SQL を初めて扱う方を対象としています。ワークショップの所要時間は、全体で約 2 時間です。ワークショップ終了後、Amazon Athena の基本的な使い方と SQL の基本構文を理解することができます。  
 tag : Athena  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/06dbe60c-3a94-463e-8ac2-18c7f85788d4/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon SageMaker ワークショップ</a>  
+このワークショップでは、データ、分析、AIを統合した次世代の Amazon SageMaker を実践的に体験できます。SageMaker Unified Studio で提供される統合環境により、データサイエンティスト、エンジニア、アナリストなど様々な専門家がシームレスに協働し、データ分析を加速させる方法を学べます。データレイクからデータウェアハウスまでの統一アクセス、最先端のML/GenAIモデル開発、Amazon Bedrock を活用した生成AIアプリケーション構築など、エンドツーエンドの機能を一つのプラットフォームで体験できます。  
+tag : Amazon SageMaker, AWS Lake Formation, AWS Glue  
+
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/6aab407b-07d0-4a14-8a16-8ffac2f625b8/ja-JP/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">QuickSight ワークショップ</a>  
 QuickSight の埋め込み方法を学習頂けるワークショップです。  
 tag : Amazon QuickSight  
@@ -288,6 +292,10 @@ tag : AWS App Runner、Amazon ECR、AWS X-Ray、AWS WAF、AWS Secrets Manager、
 - <a href="https://catalog.workshops.aws/karpenter/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Karpenter ワークショップ</a>  
 このワークショップでは、ハンズオンラボとサンプルを通して Karpenter の概念を深く掘り下げていきます。Karpenter の利用によってアプリケーションの可用性が向上し、コンピューティングコストが削減され、運用オーバーヘッドが最小限に抑えられることを学びます。  
 tag : Amazon EKS, Karpenter  
+
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/62b625f8-1b24-43df-96d9-96629bba85e7/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Aurora と Amazon ECS で学ぶ高可用性アプリケーションワークショップ</a>  
+Amazon Aurora と Amazon ECS を使用して、可用性とスケーラビリティを備えた Todo 管理アプリケーションを構築します。アプリケーションをECSで動かし、Amazon Auroraと組み合わせることで、高い可用性とスケーラビリティを実現します。 実際の負荷テストを通じて、Auto Scaling による動的なリソース調整や CloudWatch メトリクスでのモニタリング、データベースのフェイルオーバーなど、可用性を維持するための実践的な手法を体験できます。AWS 初心者の方でも理解しやすいよう、トラブルシューティングの手順も詳しく解説しており、環境構築用の CloudFormation テンプレートも提供しています。  
+tag : Amazon Aurora, Amazon ECS, Amazon CloudWatch, Elastic Load Balancing, Amazon VPC, AWS CloudFormation  
 
 - <a href="https://github.com/harunobukameda/AWS-App-Runner/blob/main/AWS%20App%20Runner%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS App Runner ワークショップ</a>  
 App Runner と GitHub を連携して、シンプルな Web アプリケーションをデプロイする方法を学習いただけます。  
