@@ -375,6 +375,10 @@ tag : Distributed Load Testing on AWS
 本ワークショップは、AWS CDK を手を動かしながら学習できるコンテンツです。開発環境をセットアップし、CDK Toolkit を用いて AWS 環境へアプリケーションをデプロイする手順について体験できます。AWS CDK Workshop の後継ワークショップです。  
 tag : AWS CDK, AWS CloudFormation,   
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/f95fc450-f2bf-47e2-9834-11f1470cbfd1/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">マルチアカウントCI/CD・IaCワークショップ</a>  
+CDK と Code シリーズを利用して Amazon ECS によるコンテナ環境の構築を経験するワークショップです。ワークショップの中ではインフラの構築からコンテナの構築、デプロイまで各ステップを経験することができます。また、Gitリポジトリを用いたマージリクエストやブランチ戦略によるテストやデプロイ等幅広く経験することができます。  
+tag : AWS CDK, Amazon ECS, AWS CodePipeline, AWS CodeBuild  
+
 - <a href="https://github.com/harunobukameda/AWS-FIS-Auto-Scaling/blob/main/AWS%20Fault%20Injection%20Simulator%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Fault Injection Simulator ワークショップ</a>  
 AWS Fault Injection Simulator は、AWS 上で障害を起こし可用性・回復性が問題ないか実験を行うためのマネージドサービスです。このワークショップでは、EC2 インスタンスを終了したときの実験をする内容を学習できます。  
 tag : AWS Fault Injection Simulator  
@@ -699,6 +703,10 @@ tag : vMix, AWS Elemental MediaLive, AWS Elemental MediaPackage, Amazon CloudFro
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/fe98fbe4-2087-4eaf-b85a-6eba844fc6be/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Deadline Cloud Workshop</a>  
 このハンズオンでは、AWS Deadline Cloudを利用して、スケーラブルなレンダーファームを構築し、制作に用いるツールとの統合、コストやリソースの監視方法を学習いただけます。  
 tag : AWS Deadline Cloud  
+
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/c6d6f0c3-d6a2-40a5-b054-f45408c80414/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Interactive Video Service によるライブストリーミング</a>  
+本ワークショップでは、IVS を使ったライブ動画配信サービスの構築方法、AWS コンソールから低レイテンシーストリーミングチャンネルを作成したったの数分でライブ配信を始める方法について紹介します。Chat モジュールでは、低レイテンシーストリーミングチャンネルにチャットを追加する方法について説明します。リアルタイムストリーミング モジュールでは、Amazon IVS Web Broadcasting SDK を用いた、300 ミリ秒未満のレイテンシーで配信を行える JavaScript/HTML デモウェブアプリケーションの構築について学びます。  
+tag : Amazon Interactive Video Service  
 
 - <a href="https://github.com/harunobukameda/Amazon-IVS/blob/main/IVS%20Workshop.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Interactive Video Service ワークショップ</a>  
 このハンズオンでは、Amazon Interactive Video Service を使って作業環境の画面をライブ配信する内容を体験いただけます。  

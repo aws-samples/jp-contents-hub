@@ -13,6 +13,14 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2025-06-06
+ハンズオンコンテンツ 2件 追加  
+マルチアカウントCI/CD・IaCワークショップ
+https://catalog.us-east-1.prod.workshops.aws/workshops/f95fc450-f2bf-47e2-9834-11f1470cbfd1/ja-JP  
+
+Amazon Interactive Video Service によるライブストリーミング  
+https://catalog.us-east-1.prod.workshops.aws/workshops/c6d6f0c3-d6a2-40a5-b054-f45408c80414/ja-JP  
+
 ## 2025-05-31
 ハンズオンコンテンツ 2件 追加  
 Amazon Aurora と Amazon ECS で学ぶ高可用性アプリケーションワークショップ
