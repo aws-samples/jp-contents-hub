@@ -216,6 +216,10 @@ tag : AWS Batch, AWS CodeBuild, AWS CodePipeline
 このワークショップでは、AWS Batch の基本概念と使用方法について詳しく説明します。AWS Batch の事前知識は必要ありませんが、AWS クラウドとバッチ計算の概念についての最小限の理解が必要です。したがって、初心者から中級者レベルの方に適しています。  
 tag : AWS Batch  
 
+- <a href="https://catalog.workshops.aws/cloud-hello-world" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Cloud Hello World / クラウド入門</a>  
+このハンズオンでは、Amazon EC2 を使用して仮想サーバーを起動し、簡単な Web アプリケーションをデプロイする体験を行います。クラウドコンピューティングの基本概念を理解し、AWS マネジメントコンソールの操作に慣れることを目的としています。発展編として Amplify の操作も体験し、EC2 でのWebデプロイとの違いを考察できます。  
+tag : Amazon EC2, Amplify  
+
 - <a href="https://dcj71ciaiav4i.cloudfront.net/DF2C2C00-CD94-11EB-9681-5F0F8AE2FC7B/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon EC2 Inf1 Workshop</a>  
 本ワークショップでは、AWS が設計、開発を行った AWS Inferentia 推論チップを搭載した Amazon EC2 Inf1 インスタンスを実際に体験して頂けます。  
 tag : Amazon EC2, Inferentia  
@@ -379,6 +383,10 @@ tag : AWS CDK, AWS CloudFormation,
 CDK と Code シリーズを利用して Amazon ECS によるコンテナ環境の構築を経験するワークショップです。ワークショップの中ではインフラの構築からコンテナの構築、デプロイまで各ステップを経験することができます。また、Gitリポジトリを用いたマージリクエストやブランチ戦略によるテストやデプロイ等幅広く経験することができます。  
 tag : AWS CDK, Amazon ECS, AWS CodePipeline, AWS CodeBuild  
 
+- <a href="https://catalog.workshops.aws/fis-v2/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">カオス エンジニアリング ワークショップ V2</a>  
+AWS Fault Injection Service を利用して、カオスエンジニアリングがどのように組織のシステム信頼性を向上するのかを体験いただけるワークショップです。  
+tag : AWS Fault Injection Service   
+
 - <a href="https://github.com/harunobukameda/AWS-FIS-Auto-Scaling/blob/main/AWS%20Fault%20Injection%20Simulator%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Fault Injection Simulator ワークショップ</a>  
 AWS Fault Injection Simulator は、AWS 上で障害を起こし可用性・回復性が問題ないか実験を行うためのマネージドサービスです。このワークショップでは、EC2 インスタンスを終了したときの実験をする内容を学習できます。  
 tag : AWS Fault Injection Simulator  
@@ -449,6 +457,10 @@ tag : AWS IoT Core, AWS IoT Analytics, Amazon QuickSight, Amazon SageMaker, AWS 
 こちらのハンズオンでは、AWS IoT Coreを用いてIoTデバイスから取得した情報でダッシュボードを構築することでAWS IoT Core の基礎を学ぶことが出来るようになっています。「IoT デバイスとクラウドの連携を考えている方」「AWS IoT Core の使用感を簡単に試してみたい方」「-情報の収集から可視化まで一連の流れを試してみたい方」といった方におすすめです。  
 tag : AWS IoT Core, Amazon CloudWatch, AWS Cloud9  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/27ded505-ce93-4f5f-8f5b-cc72242f70b6/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS IoT と AI/ML を活用したビデオベースのドライバーモニタリング</a>  
+エッジでのコンピュータービジョンと機械学習 (CVML) 推論は、レイテンシーの削減、ビデオ取り込み帯域幅の削減、およびビデオ取り込みとストレージコストの削減に役立ちます。このワークショップでは、AWS IoT Greengrass 、AWS IoT Core 、および Amazon Kinesis Video Streams  が CVML IoT デバイスとソリューションの構築にどのように役立つか、そして Amazon Bedrock  がスケーラブルな方法でビデオデータの検索、使用、コンテキスト化をどのように支援できるかを学びます。  
+tag : AWS IoT Greengrass, AWS IoT Core, Amazon Kinesis Video Streams, Amazon Bedrock  
+
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/7c2b04e7-8051-4c71-bc8b-6d2d7ce32727/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS IoT Device Management Workshop</a>  
 このハンズオンでは AWS IoT Device Managementを利用して、デバイスのプロビジョニング・フリートインデックス・デバイスのグループ化・OTA の 4 つの操作を体験頂けます。  
 tag : AWS IoT Core, AWS IoT Device Management,   
@@ -489,6 +501,10 @@ tag : AWS IoT Greengrass V2, AWS IoT SiteWise, Amazon Managed Grafana, AWS IoT T
 - <a href="https://catalog.workshops.aws/generative-ai-use-cases-jp" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">生成系 AI 体験ワークショップ</a>  
 このワークショップでは、Generative AI (生成系 AI) を活用したアプリケーションを AWS 上に構築し、社内データを活用したチャットボットや要約、文章校正、画像生成などのユースケースを体験していきます。  
 tag : Amazon Bedrock、Amazon Kendra  
+
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/abd92795-9a36-4e63-a115-ad04f483248c/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Bedrock AgentCore ワークショップ : 基本から高度なエージェント開発まで</a>  
+このワークショップでは、AWS のコスト見積もりエージェントを題材に Amazon Bedrock AgentCore の全機能をStep by Step で学ぶことができます。エージェントのスケーラビリティ、セキュリティ、Observability といった本番運用に欠かせないけれど手間のかかる検討事項を実装フレームワークの条件なしにAgentCoreにオフロードし、コアの実装に集中できるメリットを理解、体験頂けます。  
+tag : Amazon Bedrock AgentCore  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/0da6f9f4-c42f-4d47-90df-f89f4ab57e41/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Bedrockを使う生成AIアプリケーションの開発ワークショップ</a>  
 Amazon Bedrock を Lambda, API Gateway から呼び出すアプリケーションを構築する手順を学習します。応用系として RAG・文書要約・マルチモーダルの画像解析といった複数パターンのアプリケーションを構築できます。自社で生成AIをアプリケーションに組み込みたいお客様に Bedrock を API から呼び出す基礎の部分を学習してもらえるコンテンツとなっています。  
@@ -609,6 +625,10 @@ tag : Amazon Bedrock, Dify
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/e8b63498-d532-4dd4-b392-622ee65bea94/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">倉庫業務におけるAmazon Bedrock Agentsを活用したチャットアプリケーション</a>  
 このワークショップでは、Amazon Bedrock Agents を活用したアプリケーションを AWS 上に構築し、物流業界のシナリオとして、プロンプトをもとに生成AIがDBのデータを参照・更新を行うことを体験できます。  
 tag : Amazon Bedrock Agents  
+
+- <a href="https://d2847pa3oul13l.cloudfront.net/index-genai.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWSちょっと触ってみる編 - 生成AI版</a>  
+Amazon Q Developer や Amazon Bedrock の入門的なハンズオンです。初めの使い方を学びやすいコンテンツを提供します。  
+tag : Q Developer, Amazon Bedrock  
 
 - <a href="https://github.com/aws-samples/aws-ml-jp" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS の機械学習サービスのサンプルコードのためのレポジトリ</a>  
 AWS の機械学習サービスのサンプルコードのためのレポジトリです。  

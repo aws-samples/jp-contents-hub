@@ -13,6 +13,25 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2025-09-16
+ハンズオンコンテンツ 5件 追加  
+
+AWS IoT と AI/ML を活用したビデオベースのドライバーモニタリング  
+https://catalog.us-east-1.prod.workshops.aws/workshops/27ded505-ce93-4f5f-8f5b-cc72242f70b6/ja-JP
+
+AWSちょっと触ってみる編 - 生成AI版  
+https://d2847pa3oul13l.cloudfront.net/index-genai.html  
+
+カオス エンジニアリング ワークショップ V2  
+https://catalog.workshops.aws/fis-v2/ja-JP  
+
+Amazon Bedrock AgentCore ワークショップ : 基本から高度なエージェント開発まで  
+https://catalog.us-east-1.prod.workshops.aws/workshops/abd92795-9a36-4e63-a115-ad04f483248c/ja-JP  
+
+Cloud Hello World / クラウド入門  
+https://catalog.workshops.aws/cloud-hello-world  
+
+
 ## 2025-06-06
 ハンズオンコンテンツ 2件 追加  
 マルチアカウントCI/CD・IaCワークショップ
