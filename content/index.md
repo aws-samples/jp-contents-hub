@@ -208,10 +208,6 @@ tag : Amazon EC2, Auto Scaling
 このワークショップでは、スケールするワークロードに対してコストを最適化しながらAmazon EC2を活用する方法を学びます。具体的には、Amazon EC2スポットインスタンスとEC2 Auto Scalingでの複数インスタンスタイプ・複数購入オプションの構成方法を取り上げます。  
 tag : Amazon EC2, Spot Instance  
 
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/b6ea8509-42a3-4792-9020-24f9210d32f2/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">CI/CD for AWS Batch Workshop</a>  
-本ワークショップでは、AWS Batch の CI/CD パイプラインを構築します。まずは Docker イメージを手動で更新し、次に CI/CD パイプラインを構築することで、自動で AWS Batch に Docker イメージが反映されることを体感して頂けます。  
-tag : AWS Batch, AWS CodeBuild, AWS CodePipeline  
-
 - <a href="https://catalog.workshops.aws/aws-batch-deep-dive/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Batch Deep Dive 日本語</a>  
 このワークショップでは、AWS Batch の基本概念と使用方法について詳しく説明します。AWS Batch の事前知識は必要ありませんが、AWS クラウドとバッチ計算の概念についての最小限の理解が必要です。したがって、初心者から中級者レベルの方に適しています。  
 tag : AWS Batch  
@@ -509,10 +505,6 @@ tag : Amazon Bedrock AgentCore
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/0da6f9f4-c42f-4d47-90df-f89f4ab57e41/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Bedrockを使う生成AIアプリケーションの開発ワークショップ</a>  
 Amazon Bedrock を Lambda, API Gateway から呼び出すアプリケーションを構築する手順を学習します。応用系として RAG・文書要約・マルチモーダルの画像解析といった複数パターンのアプリケーションを構築できます。自社で生成AIをアプリケーションに組み込みたいお客様に Bedrock を API から呼び出す基礎の部分を学習してもらえるコンテンツとなっています。  
 tag : Amazon Bedrock, AWS Lambda, Amazon API Gateway  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/7271111a-22bd-40e7-971a-817b0c083c67/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Bedrock + Anthropic Claude 3 開発体験ワークショップ</a>  
-このワークショップでは Amazon Bedrock から Anthropic Claude 3 を呼び出すプログラミングを体験して頂きます。AWS Cloud9 から Python を使用してプログラミングを実施します。必要な Python コードはこのワークショップ内に記載していますので、普段 Python を使用した開発を行っていない方にもご利用頂けます。  
-tag : Amazon Bedrock  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/5677057b-93d7-4354-9a6c-db9434c15b5c/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Building with Amazon Bedrock (Japanese)</a>  
 主にAmazon BedrockでAnthropic Claude 3を使用し、生成 AI を使ったデモを作成し、チャットボット、RAG、画像生成、文書要約、データ抽出、ストリーミング応答、プロンプトエンジニアリングなどを体験できます。基礎レベル～基本レベル～マルチモーダルやプロンプトエンジニアリングなど、各種レベルのラボが揃っており、幅広いお客様に使用いただけます。ほとんどのラボでPython、Streamlitを使ってでもアプリを作っているため、具体的にどのようにBedrockを呼び出すアプリケーションを作ればいいか理解を深めることが出来ます。  
