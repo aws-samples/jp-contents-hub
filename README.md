@@ -13,6 +13,11 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2026-07-10
+ハンズオンコンテンツ 1件 URL更新  
+Amazon VPC Lattice Workshop  
+https://catalog.us-east-1.prod.workshops.aws/workshops/036b30f8-1541-4656-af12-4e6c5558eeee/ja-JP  
+
 ## 2026-05-11
 ハンズオンコンテンツ 2件 追加  
 Kiro による AI 駆動開発  

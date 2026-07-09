@@ -594,7 +594,7 @@ tag : Amazon CloudFront, AWS Global Accelerator, AWS Shield, AWS WAF, AWS Firewa
 CloudFront を利用したコンテンツ配信を体験しつつ、CloudFront/WAF等のログ収集、検索を体験できます。  
 tag : Amazon CloudFront, AWS WAF, Amazon Kinesis Data Firehose, Amazon S3, Amazon Athena  
 
-- <a href="https://catalog.workshops.aws/handsonwithvpclattice/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon VPC Lattice Workshop</a>  
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/036b30f8-1541-4656-af12-4e6c5558eeee/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon VPC Lattice Workshop</a>  
 このハンズオンでは、VPC Lattice のサービスネットワークを介してサービス間の通信を実現する方法を学習します。認証やログ出力の方法も学習に含まれています。  
 tag : Amazon VPC Lattice  
 
